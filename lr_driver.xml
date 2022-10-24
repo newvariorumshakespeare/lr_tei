@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="nvs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="nvs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!DOCTYPE TEI [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY inkedfoot     "&#x2596;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
+<!ENTITY cmacr     "&#x63;&#x304;">
+<!ENTITY ptilde     "&#x0070;&#x303;">
+<!ENTITY mtilde     "&#x006D;&#x303;">
+]>
+
+
+<TEI xmlns="http://www.mla.org/NVSns"
+xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<teiHeader>
+
+<fileDesc>
+
+<titleStmt>
+  <title>King Lear</title>
+  <author>William Shakespeare</author>
+  <editor role="primary">Richard Knowles</editor>
+  <editor role="secondary">Kevin J. Donovan</editor>
+  <editor role="secondary">Paula R. Glatzer</editor>
+</titleStmt>
+
+<editionStmt>
+  <edition>First edition</edition>
+</editionStmt>
+
+<publicationStmt>
+  <publisher>The Modern Language Association of America</publisher>
+  <address>
+	 <addrLine>85 Broad St.</addrLine>
+	 <addrLine>Suite 500</addrLine>
+	 <addrLine>New York, NY 10004-2434</addrLine>
+	 <addrLine>permissions@mla.org</addrLine>
+	 <addrLine>fax: 646-458-0030</addrLine>
+  </address>
+  <availability>
+    <p>© 2018 by The Modern Language Association of America</p>
+    <p>All rights reserved</p>
+    <p>For information about obtaining permission to reprint material from MLA book publications, send your request by mail, email or fax to the address given.</p>
+  </availability>
+  <idno type="ISBN"></idno>
+  <idno type="LC"></idno>
+  <idno type="D"></idno>
+</publicationStmt>
+	
+<seriesStmt>
+  <title>A New Variorum Edition of Shakespeare</title>
+  <respStmt>
+    <resp>General Editors</resp>
+    <name>Richard Knowles</name>
+    <name>Paul Werstine</name>
+  </respStmt>	
+</seriesStmt>
+	
+<sourceDesc>
+  <p>This is the source.</p>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+  <projectDesc>
+    <p>Founded by Horace Howard Furness (<date>1833–1912</date>), continued by Horace Howard Furness, Jr. (<date>1865–1930</date>), and now issued under the sponsorship of The Modern Language Association of America</p>
+  </projectDesc>
+  <classDecl>
+    <taxonomy xml:id="LCSH">
+      <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+  </classDecl>
+</encodingDesc>
+
+<profileDesc>
+  <langUsage>
+    <language ident="en">English</language>
+    <language ident="grc">Ancient Greek</language>
+    <language ident="el">Modern Greek</language>
+    <language ident="grk-latn">Greek (transliterated into Latin script)</language>
+    <language ident="la">Latin</language>
+    <language ident="it">Italian</language>
+    <language ident="es">Spanish</language>
+    <language ident="fr">French</language>
+    <language ident="de">German</language>
+    <language ident="nl">Dutch</language>
+    <language ident="cel">Celtic</language>
+    <language ident="ga">Irish</language>
+    <language ident="cy">Welsh</language>
+  </langUsage>
+  <textClass>
+   <keywords scheme="LCSH">
+     <list>
+       <item></item>
+       <item></item>
+       <item></item>
+       <item></item>
+       <item></item>
+       <item></item>
+       <item></item>
+       <item></item>
+       <item></item>
+     </list>
+   </keywords>
+  </textClass>
+</profileDesc>
+
+<revisionDesc>
+	<change when="2018-05-11" who="Ridgeback">Version 1.1.0: Entered accumulated corrections; revised encoding of table in Q1/Order of Printing</change>
+	<change when="2017-07-03" who="Ridgeback">Version 1.0.10: Implemented WWP mechanism for braces</change>
+	<change when="2017-06-09" who="Ridgeback">Version 1.0.9: Updated the copyright page data</change>
+	<change when="2017-06-01" who="Ridgeback">Version 1.0.8: Re-encoded one list as a table</change>
+	<change when="2017-05-28" who="Ridgeback">Version 1.0.7: Moved "n. " outsite of ref</change>
+	<change when="2017-05-20" who="Ridgeback">Version 1.0.6: Changed mechanism for ordered lists</change>
+	<change when="2016-06-15" who="Ridgeback">Version 1.0.5: Changes to TOC and Appendix</change>
+	<change when="2015-06-26" who="Ridgeback">Version 1.0.4: Changed id for Biblio, added id for castList</change>
+	<change when="2014-12-11" who="Ridgeback">Version 1.0.3: Fixed typos; added text to the Preface</change>
+	<change when="2014-11-10" who="Ridgeback">Version 1.0.2: Fixed typo "asigned"; removed dateline</change>
+	<change when="2014-04-29" who="Ridgeback">Version 1.0.1: Final revisions entered; XML released for book publication</change>
+	<change when="2014-02-11" who="Ridgeback">Version 1.0.0: Encoding complete and all available correx entered</change>
+	<change when="2013-10-09" who="Ridgeback">Version 0.9.2: Provisional version sent to printer for bidding</change>
+	<change when="2013-05-30" who="Ridgeback">Version 0.9.1: Correx entered</change>
+	<change when="2012-07-21" who="Ridgeback">Version 0.9.0: Initial encoding complete</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+
+ 	<xi:include href="lr_front.xml" xpointer="front"/> 
+
+<body>
+	<xi:include href="lr_playtext.xml" xpointer="div_playtext"/>
+	<xi:include href="lr_textualnotes.xml" xpointer="div_textualnotes"/>
+ 	<xi:include href="lr_commentary.xml" xpointer="div_commentary"/>
+</body>
+
+<back>
+	<xi:include href="lr_appendix.xml" xpointer="div_appendix"/>
+	<xi:include href="lr_bibliography.xml" xpointer="div_bibliography"/>
+	<xi:include href="lr_index.xml" xpointer="div_index"/>
+	<xi:include href="lr_endpapers.xml" xpointer="div_endpapers"/>
+</back>
+
+</text>
+</TEI>
