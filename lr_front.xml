@@ -432,13 +432,13 @@
 
 <listWit xml:id="listwit_editions">
 
-<witness xml:id="s_q1">
+<witness xml:id="s_q1_lr">
 <siglum>Q1</siglum>
 <bibl><hi rend="lscaps">The First Quarto</hi>. <title level="m">M. William Shak-speare: His True Chronicle Historie of the life and death of King Lear.&hellip;</title></bibl>
 <date>1608</date>
 </witness>
 
-<witness xml:id="s_q2">
+<witness xml:id="s_q2_lr">
 <siglum>Q2</siglum>
 <bibl><hi rend="lscaps">The Second Quarto</hi>. <title level="m">M. William Shake-speare, His True Chronicle History of the life and death of King Lear.&hellip;</title></bibl>
 <date>1619</date>
