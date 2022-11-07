@@ -3495,11 +3495,8 @@
 <lb xml:id="tln_2346" n="2346"/>And to reuenge thy eyes, come hither friend,
 <lb xml:id="tln_2347" n="2347"/>Tell me what more thou knowest.</p></sp><stage type="exit" rend="align(right)">Exit.</stage>
 
-</div>
 
 
-
-<div type="scene" n="3" xml:id="div_act4_scene3">
 
 <lb xml:id="tln_2347p01" n="2347+1" ed="Q" rend="print_tln"/><stage type="enter" rend="align(center)"><anchor type="marker" marker="⸢" rend="clear"/>Enter Kent and a Gentleman.</stage>
 
@@ -3578,11 +3575,11 @@
 <lb xml:id="tln_2347p54" n="+54" ed="Q"/>When I am knowne aright you shall not greeue,
 <lb xml:id="tln_2347p55-2347p56" n="+55–6" ed="Q" rend="print_tln"/><nvsSeg type="linePart" xml:id="tln_2347p55">Lending me this acquaintance, I pray you go</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2347p56">along with me.<stage type="exit" rend="align(right)">Exit.<anchor type="marker" marker="⸣" rend="clear"/></stage></nvsSeg></p></sp>
 
+
 </div>
 
 
-
-<div type="scene" n="4" xml:id="div_act4_scene4">
+<div type="scene" n="3" xml:id="div_act4_scene3">
     
 <lb xml:id="tln_2348" n="2348"/><head>Scena Tertia.</head>
 
@@ -3629,7 +3626,7 @@
 
 
 
-<div type="scene" n="5" xml:id="div_act4_scene5">
+<div type="scene" n="4" xml:id="div_act4_scene4">
     
 <lb xml:id="tln_2382" n="2382"/><head>Scena Quarta.</head>
 
@@ -3702,7 +3699,7 @@
 
 
 
-<div type="scene" n="6" xml:id="div_act4_scene6">
+<div type="scene" n="5" xml:id="div_act4_scene5">
     
 <lb xml:id="tln_2429" n="2429"/><head>Scena Quinta.</head>
     
