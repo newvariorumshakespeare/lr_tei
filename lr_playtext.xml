@@ -80,6 +80,7 @@
 <div type="scene" n="1" xml:id="div_act1_scene1">
 
 <milestone unit="sig_F" n="qq2a">(qq2<hi rend="superscript">a</hi>)</milestone>
+<lb xml:id="tln_0001" n="1"/><head>Actus Primus. Scœna Prima.</head>
 <lb xml:id="tln_0002" n="2"/><stage type="enter" rend="align(center)">Enter Kent, Gloster, and Bastard.</stage>
 
 <lb xml:id="tln_0003" n="3"/><sp who="#Kent"><speaker rend="align(center)">Kent.</speaker>
@@ -506,6 +507,8 @@
 
 
 <div type="scene" n="2" xml:id="div_act1_scene2">
+    
+<lb xml:id="tln_0333" n="333"/><head>Scena Secunda.</head>
 
 <lb xml:id="tln_0334" n="334"/><stage type="enter" rend="align(center)">Enter Bastard Solus.</stage>
 
@@ -749,6 +752,8 @@
 
 
 <div type="scene" n="3" xml:id="div_act1_scene3">
+    
+<lb xml:id="tln_0505" n="505"/><head>Scena Tertia.</head>
 
 <lb xml:id="tln_0506" n="506"/><stage type="enter" rend="align(center)">Enter Gonorill and Gentleman.</stage>
 
@@ -791,6 +796,8 @@
 
 
 <div type="scene" n="4" xml:id="div_act1_scene4">
+    
+<lb xml:id="tln_0529" n="529"/><head>Scena Quarta.</head>
 
 <lb xml:id="tln_0530" n="530"/><stage type="enter" rend="align(center)">Enter Kent.</stage>
 
@@ -1288,6 +1295,8 @@
 
 
 <div type="scene" n="5" xml:id="div_act1_scene5">
+    
+<lb xml:id="tln_0873" n="873"/><head>Scena Quinta.</head>
 
 <lb xml:id="tln_0874" n="874"/><stage type="enter" rend="align(center)">Enter Lear. <nvsSeg type="edDiff" ed="F"><anchor type="marker" marker="*"/>Kent, Gentleman, and Foole.<anchor type="marker" marker="*"/></nvsSeg></stage>
 
@@ -1383,6 +1392,7 @@
 <div type="scene" n="1" xml:id="div_act2_scene1">
 
 <milestone unit="sig_Q" n="D3v">[D3<hi rend="superscript">v</hi>]</milestone>
+<lb xml:id="tln_0926" n="926"/><head>Actus Secundus. Scena Prima.</head>
 <lb xml:id="tln_0927" n="927"/><stage type="enter" rend="align(center)">Enter Bast. and Curan meeting.</stage>
 
 <lb xml:id="tln_0928" n="928" rend="print_tln"/><sp who="#Edmund"><speaker>Bast.</speaker><p>Saue thee <name>Curan</name>.</p></sp>
@@ -1581,6 +1591,8 @@
 
 
 <div type="scene" n="2" xml:id="div_act2_scene2">
+    
+<lb xml:id="tln_1074" n="1074"/><head>Scena Secunda.</head>
 
 <lb xml:id="tln_1075" n="1075"/><stage type="enter" rend="align(center)">Enter Kent, and Steward.</stage>
 
@@ -2317,6 +2329,8 @@
 <div type="act" n="3" xml:id="div_act3">
 
 <div type="scene" n="1" xml:id="div_act3_scene1">
+    
+<lb xml:id="tln_1614" n="1614"/><head>Actus Tertius. Scena Prima.</head>
 
 <lb xml:id="tln_1615" n="1615"/><stage type="description enter" rend="align(center)"><nvsSeg type="edDiff" ed="F"><anchor type="marker" marker="*"/>Storme still.<anchor type="marker" marker="*"/></nvsSeg> Enter Kent and a Gentleman at seuerall doores.</stage>
 
@@ -2396,6 +2410,8 @@
 
 
 <div type="scene" n="2" xml:id="div_act3_scene2">
+    
+<lb xml:id="tln_1654" n="1654"/><head>Scena Secunda.</head>
 
 <lb xml:id="tln_1655" n="1655"/><stage type="description enter" rend="align(center)"><nvsSeg type="edDiff" ed="F"><anchor type="marker" marker="*"/>Storme still.<anchor type="marker" marker="*"/></nvsSeg> Enter Lear and Foole.</stage>
 
@@ -2517,6 +2533,8 @@
 
 
 <div type="scene" n="3" xml:id="div_act3_scene3">
+    
+<lb xml:id="tln_1751" n="1751"/><head>Scœna Tertia.</head>
 
 <lb xml:id="tln_1752" n="1752"/><stage type="enter" rend="align(center)">Enter Gloster and the Bastard with lights.</stage>
 
@@ -2554,6 +2572,8 @@
 
 
 <div type="scene" n="4" xml:id="div_act3_scene4">
+    
+<lb xml:id="tln_1776" n="1776"/><head>Scena Quarta.</head>
 
 <lb xml:id="tln_1777" n="1777"/><stage type="enter" rend="align(center)">Enter Lear, Kent, and foole.</stage>
 
@@ -2818,6 +2838,8 @@
 
 
 <div type="scene" n="5" xml:id="div_act3_scene5">
+    
+<lb xml:id="tln_1969" n="1969"/><head>Scena Quinta.</head>
 
 <lb xml:id="tln_1970" n="1970"/><stage type="enter" rend="align(center)">Enter Cornewell and Bastard.</stage>
 
@@ -2862,6 +2884,8 @@
 
 
 <div type="scene" n="6" xml:id="div_act3_scene6">
+    
+<lb xml:id="tln_1996" n="1996"/><head>Scena Sexta.</head>
 
 <lb xml:id="tln_1997" n="1997"/><stage type="enter" rend="align(center)">Enter Gloster and <nvsSeg type="edDiff" ed="Q"><anchor type="marker" marker="⸢" rend="clear"/>Lear,<anchor type="marker" marker="⸣" rend="clear"/></nvsSeg> Kent<nvsSeg type="edDiff" ed="Q"><anchor type="marker" marker="⸢" rend="clear"/>, Foole, and Tom<anchor type="marker" marker="⸣" rend="clear"/></nvsSeg>.</stage>
 
@@ -2871,7 +2895,7 @@
 
 <lb xml:id="tln_2001" n="2001"/><sp who="#Kent"><speaker>Ken.</speaker><p>All the power of his wits haue giuen way to
 <lb xml:id="tln_2002" n="2002" rend="print_tln"/>impatience, the Gods deserue your kindnes.</p></sp>
-
+<lb xml:id="tln_2003" n="2003"/><stage type="enter" rend="align(center)">Enter Lear, Edgar, and Foole</stage>
 <lb xml:id="tln_2004" n="2004" rend="print_tln"/><sp who="#Edgar"><speaker>Edg.</speaker><p><name>Fretereto</name> cals me, and tels me <name>Nero</name> is an ang&shy;
 <lb xml:id="tln_2005" n="2005"/>ler in the lake of darknes, pray innocent beware
 <lb xml:id="tln_2006" n="2006"/>the foule fiend.</p></sp>
@@ -3007,9 +3031,11 @@
 
 
 <div type="scene" n="7" xml:id="div_act3_scene7">
+    
+<lb xml:id="tln_2057" n="2057"/><head>Scena Septima.</head>
 
 <lb xml:id="tln_2058" n="2058" rend="print_tln"/><stage type="enter" rend="align(center)">Enter Cornwall, and Regan, and Gonorill, and Bastard.</stage>
-
+<lb xml:id="tln_2059" n="2059"/><stage type="enter" rend="align(center)">and Seruants</stage>
 <lb xml:id="tln_2060-2061i" n="2060–1" rend="print_tln"/><sp who="#Cornwall"><nvsSeg type="linePart" xml:id="tln_2060i"><speaker>Corn.</speaker></nvsSeg><p><nvsSeg type="linePart" xml:id="tln_2060f">Post speedily to my Lord your husband shew</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2061i">him this letter</nvsSeg>
 <lb xml:id="tln_2061f-2062" n="2061–2" rend="print_tln"/><nvsSeg type="linePart" xml:id="tln_2061f">The army of France is landed, seeke out</nvsSeg> <anchor type="marker" marker="|"/> <nvsSeg type="linePart" xml:id="tln_2062">the vilaine <name>Gloster</name>.</nvsSeg></p></sp>
 
@@ -3193,6 +3219,8 @@
 <div type="act" n="4" xml:id="div_act4">
 
 <div type="scene" n="1" xml:id="div_act4_scene1">
+    
+<lb xml:id="tln_2177" n="2177"/><head>Actus Quartus. Scena Prima.</head>
 
 <lb xml:id="tln_2178" n="2178"/><stage type="enter" rend="align(center)">Enter Edgar.</stage>
 
@@ -3320,6 +3348,8 @@
 
 
 <div type="scene" n="2" xml:id="div_act4_scene2">
+    
+<lb xml:id="tln_2266" n="2266"/><head>Scena Secunda.</head>
 
 <lb xml:id="tln_2267i" n="2267–" rend="print_tln"/><stage type="enter" rend="align(center)">Enter Gonorill and Bastard.</stage>
 
@@ -3553,6 +3583,8 @@
 
 
 <div type="scene" n="4" xml:id="div_act4_scene4">
+    
+<lb xml:id="tln_2348" n="2348"/><head>Scena Tertia.</head>
 
 <lb xml:id="tln_2349-2350" n="2349–50" rend="print_tln"/><stage type="enter" rend="align(center)"><nvsSeg type="linePart" xml:id="tln_2349">Enter Cordelia, Doctor</nvsSeg> <anchor type="marker" marker="|" rend="clear"/> <nvsSeg type="linePart" xml:id="tln_2350">and others.</nvsSeg></stage>
 
@@ -3598,6 +3630,8 @@
 
 
 <div type="scene" n="5" xml:id="div_act4_scene5">
+    
+<lb xml:id="tln_2382" n="2382"/><head>Scena Quarta.</head>
 
 <lb xml:id="tln_2383" n="2383" rend="print_tln"/><stage type="enter" rend="align(center)">Enter Regan and Steward.</stage>
 
@@ -3669,6 +3703,10 @@
 
 
 <div type="scene" n="6" xml:id="div_act4_scene6">
+    
+<lb xml:id="tln_2429" n="2429"/><head>Scena Quinta.</head>
+    
+<lb xml:id="tln_2640p02" n="2429+2" ed="Q2"/><sp who="#Gentleman"><speaker>Gent.</speaker><p>Good Sir.</p></sp>
 
 <lb xml:id="tln_2430" n="2430"/><stage type="enter" rend="align(center)">Enter Gloster and Edmund.</stage>
 
@@ -4088,6 +4126,8 @@
 
 
 <div type="scene" n="7" xml:id="div_act4_scene7">
+    
+<lb xml:id="tln_2743" n="2743"/><head>Scena Septima.</head>
 
 <lb xml:id="tln_2744" n="2744"/><stage type="enter" rend="align(center)">Enter Cordelia, Kent and Doctor.</stage>
 
@@ -4249,6 +4289,8 @@
 <div type="act" n="5" xml:id="div_act5">
 
 <div type="scene" n="1" xml:id="div_act5_scene1">
+    
+<lb xml:id="tln_2844" n="2844"/><head>Actus Quintus. Scena Prima.</head>
 
 <lb xml:id="tln_2845-2846" n="2845–6"/><stage type="enter" rend="align(center)"><nvsSeg type="linePart" xml:id="tln_2845">Enter Edmund, Regan,</nvsSeg> <anchor type="marker" marker="|" rend="clear"/> <nvsSeg type="linePart" xml:id="tln_2846">and their powers.</nvsSeg></stage>
 
@@ -4372,6 +4414,8 @@
 
 
 <div type="scene" n="2" xml:id="div_act5_scene2">
+    
+<lb xml:id="tln_2917" n="2917"/><head>Scena Secunda.</head>
 
 <lb xml:id="tln_2918" n="2918"/><stage type="description enter" rend="align(center)">Alarum. Enter the powers of France ouer the stage, Cordelia with
 <lb xml:id="tln_2919" n="2919"/>her father in her hand.</stage>
@@ -4406,6 +4450,8 @@
 
 
 <div type="scene" n="3" xml:id="div_act5_scene3">
+    
+<lb xml:id="tln_2937" n="2937"/><head>Scena Tertia.</head>
 
 <lb xml:id="tln_2938-2939" n="2938–9"/><stage type="enter" rend="align(center)"><nvsSeg type="linePart" xml:id="tln_2938">Enter Edmund, with Lear</nvsSeg> <anchor type="marker" marker="|" rend="clear"/> <nvsSeg type="linePart" xml:id="tln_2939">and Cordelia prisoners.</nvsSeg></stage>
 
@@ -4934,35 +4980,6 @@
 
 
 <div type="playtext_meta" xml:id="div_playtext_meta" display="all(suppress)">
-
-<div type="playtext_missing_lines" xml:id="div_playtext_missing_lines">
-<div><lb xml:id="tln_0001" n="1"/><head>Actus Primus. Scœna Prima.</head></div>
-<div><lb xml:id="tln_0333" n="333"/><head>Scena Secunda.</head></div>
-<div><lb xml:id="tln_0505" n="505"/><head>Scena Tertia.</head></div>
-<div><lb xml:id="tln_0529" n="529"/><head>Scena Quarta.</head></div>
-<div><lb xml:id="tln_0873" n="873"/><head>Scena Quinta.</head></div>
-<div><lb xml:id="tln_0926" n="926"/><head>Actus Secundus. Scena Prima.</head></div>
-<div><lb xml:id="tln_1074" n="1074"/><head>Scena Secunda.</head></div>
-<div><lb xml:id="tln_1614" n="1614"/><head>Actus Tertius. Scena Prima.</head></div>
-<div><lb xml:id="tln_1654" n="1654"/><head>Scena Secunda.</head></div>
-<div><lb xml:id="tln_1751" n="1751"/><head>Scœna Tertia.</head></div>
-<div><lb xml:id="tln_1776" n="1776"/><head>Scena Quarta.</head></div>
-<div><lb xml:id="tln_1969" n="1969"/><head>Scena Quinta.</head></div>
-<div><lb xml:id="tln_1996" n="1996"/><head>Scena Sexta.</head></div>
-<div><lb xml:id="tln_2003" n="2003"/><stage type="enter" rend="align(center)">Enter Lear, Edgar, and Foole</stage></div>
-<div><lb xml:id="tln_2057" n="2057"/><head>Scena Septima.</head></div>
-<div><lb xml:id="tln_2059" n="2059"/><stage type="enter" rend="align(center)">and Seruants</stage></div>
-<div><lb xml:id="tln_2177" n="2177"/><head>Actus Quartus. Scena Prima.</head></div>
-<div><lb xml:id="tln_2266" n="2266"/><head>Scena Secunda.</head></div>
-<div><lb xml:id="tln_2348" n="2348"/><head>Scena Tertia.</head></div>
-<div><lb xml:id="tln_2382" n="2382"/><head>Scena Quarta.</head></div>
-<div><lb xml:id="tln_2429" n="2429"/><head>Scena Quinta.</head></div>
-<div><lb xml:id="tln_2640p02" n="2429+2" ed="Q2"/><sp who="#Gentleman"><speaker>Gent.</speaker><p>Good Sir.</p></sp></div>
-<div><lb xml:id="tln_2743" n="2743"/><head>Scena Septima.</head></div>
-<div><lb xml:id="tln_2844" n="2844"/><head>Actus Quintus. Scena Prima.</head></div>
-<div><lb xml:id="tln_2917" n="2917"/><head>Scena Secunda.</head></div>
-<div><lb xml:id="tln_2937" n="2937"/><head>Scena Tertia.</head></div>
-</div>
 
 
 <div type="playtext_virtual_lines" xml:id="div_playtext_virtual_lines">
