@@ -900,6 +900,74 @@
 <date>2000</date>
 </witness>
 
+<witness xml:id="s_qq_lr" corresp="#s_q1_lr #s_q2_lr" display="book(suppress)">
+<siglum rend="smcaps">dyce</siglum>
+</witness>
+
+<witness xml:id="s_ff" corresp="#s_f1 #s_f2 #s_f3 #s_f4" display="book(suppress)">
+<siglum>Ff</siglum>
+</witness>
+
+<witness xml:id="s_ard" corresp="#s_ard1 #s_ard2 #s_ard3" display="book(suppress)">
+<siglum rend="smcaps">ard</siglum>
+</witness>
+
+<witness xml:id="s_rowe" corresp="#s_rowe1 #s_rowe2 #s_rowe3" display="book(suppress)">
+<siglum rend="smcaps">rowe</siglum>
+</witness>
+
+<witness xml:id="s_pope" corresp="#s_pope1 #s_pope2" display="book(suppress)">
+<siglum rend="smcaps">pope</siglum>
+</witness>
+
+<witness xml:id="s_theo" corresp="#s_theo1 #s_theo2 #s_theo4" display="book(suppress)">
+<siglum rend="smcaps">theo</siglum>
+</witness>
+
+<witness xml:id="s_han" corresp="#s_han1 #s_han2" display="book(suppress)">
+<siglum rend="smcaps">han</siglum>
+</witness>
+
+<witness xml:id="s_john" corresp="#s_john1 #s_john2" display="book(suppress)">
+<siglum rend="smcaps">john</siglum>
+</witness>
+
+<witness xml:id="s_sing" corresp="#s_sing1 #s_sing2" display="book(suppress)">
+<siglum rend="smcaps">sing</siglum>
+</witness>
+
+<witness xml:id="s_cam" corresp="#s_cam1 #s_cam2 #s_cam3 #s_cam4" display="book(suppress)">
+<siglum rend="smcaps">cam</siglum>
+</witness>
+
+<witness xml:id="s_col" corresp="#s_col1 #s_col2 #s_col3 #s_col4" display="book(suppress)">
+<siglum rend="smcaps">col</siglum>
+</witness>
+
+<witness xml:id="s_del" corresp="#s_del2 #s_del4" display="book(suppress)">
+<siglum rend="smcaps">del</siglum>
+</witness>
+
+<witness xml:id="s_dyce" corresp="#s_dyce1 #s_dyce2 #s_dyce3" display="book(suppress)">
+<siglum rend="smcaps">dyce</siglum>
+</witness>
+
+<witness xml:id="s_hud" corresp="#s_hud1 #s_hud2" display="book(suppress)">
+<siglum rend="smcaps">hud</siglum>
+</witness>
+
+<witness xml:id="s_knt" corresp="#s_knt1 #s_knt2 #s_knt3" display="book(suppress)">
+<siglum rend="smcaps">knt</siglum>
+</witness>
+
+<witness xml:id="s_oxf" corresp="#s_oxf1 #s_oxf2 #s_oxf4" display="book(suppress)">
+<siglum rend="smcaps">oxf</siglum>
+</witness>
+
+<witness xml:id="s_wh" corresp="#s_wh1 #s_wh2" display="book(suppress)">
+<siglum rend="smcaps">wh</siglum>
+</witness>
+
 </listWit>
 
 
