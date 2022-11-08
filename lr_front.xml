@@ -901,11 +901,11 @@
 </witness>
 
 <witness xml:id="s_qq_lr" corresp="#s_q1_lr #s_q2_lr" display="book(suppress)">
-<siglum rend="smcaps">dyce</siglum>
+<siglum rend="smcaps">qq</siglum>
 </witness>
 
 <witness xml:id="s_ff" corresp="#s_f1 #s_f2 #s_f3 #s_f4" display="book(suppress)">
-<siglum>Ff</siglum>
+<siglum>ff</siglum>
 </witness>
 
 <witness xml:id="s_ard" corresp="#s_ard1 #s_ard2 #s_ard3" display="book(suppress)">
