@@ -900,7 +900,7 @@
 <date>2000</date>
 </witness>
 
-<witness xml:id="s_qq_lr" corresp="#s_q1_lr #s_q2_lr #s_q3_lr" display="book(suppress)">
+<witness xml:id="s_qq_lr" corresp="#s_q1_lr #s_q2_lr" display="book(suppress)">
 <siglum rend="smcaps">qq</siglum>
 </witness>
 
