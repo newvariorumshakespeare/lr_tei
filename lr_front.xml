@@ -900,12 +900,12 @@
 <date>2000</date>
 </witness>
 
-<witness xml:id="s_qq_lr" corresp="#s_q1_lr #s_q2_lr" display="book(suppress)">
+<witness xml:id="s_qq_lr" corresp="#s_q1_lr #s_q2_lr #s_q3_lr" display="book(suppress)">
 <siglum rend="smcaps">qq</siglum>
 </witness>
 
 <witness xml:id="s_ff" corresp="#s_f1 #s_f2 #s_f3 #s_f4" display="book(suppress)">
-<siglum>ff</siglum>
+<siglum rend="smcaps">ff</siglum>
 </witness>
 
 <witness xml:id="s_ard" corresp="#s_ard1 #s_ard2 #s_ard3" display="book(suppress)">
@@ -988,7 +988,7 @@
 <date>1608–</date>
 </witness>
 
-<witness xml:id="s_q3">
+<witness xml:id="s_q3_lr">
 <siglum>Q3</siglum>
 <bibl><hi rend="smcaps">The Third Quarto</hi>. <title level="m">M. William Shake-speare, His True Chronicle History of the life and death of King Lear.&hellip;</title></bibl>
 <date>1655</date>
