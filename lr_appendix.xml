@@ -344,7 +344,7 @@
 <app type="silent"><lem>betwixt the Dukes,</lem>] <appPart><rdgDesc><rdg>betwixt | (the Dukes,</rdg> (<hi rend="italic">turnover</hi>)</rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1771" target="#tln_1771"><label>1771</label>
-<app type="silent"><lem>instãly know</lem>] <appPart><rdgDesc><rdg>instãly | (know</rdg> <note place="inline">(<hi rend="italic">turnunder</hi>)</note></rdgDesc></appPart></app></note>
+<app type="silent"><lem>instãly know</lem>] <appPart><rdgDesc><rdg>instãly | (know</rdg> (<hi rend="italic">turnunder</hi>)</rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1779" target="#tln_1779"><label>1779</label>
 <app type="sourced"><lem>of the</lem>] <wit><siglum>F2</siglum></wit>; <appPart><rdg>ofthe</rdg> <wit><siglum>Q1</siglum>, <siglum>F1</siglum></wit></appPart></app></note>
@@ -758,7 +758,7 @@
 
 <anchor type="xref" xml:id="anchor_0007-a"/>
 <note type="unadopted" xml:id="uc_0004" target="#tln_0004" targetEnd="#tln_0010"><label>4–10</label>
-<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, <note place="inline">[= <quote>weighed</quote>]</note>&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
+<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, [= <quote>weighed</quote>]&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name rend="smcaps">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0009" target="#tln_0009"><label>9</label>
 <app><lem>equalities</lem>] <appPart><rdg type="replace">the qualities</rdg> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 50)</wit></appPart></app></note>
