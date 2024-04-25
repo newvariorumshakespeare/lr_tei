@@ -26,7 +26,9 @@
 <div type="level1" xml:id="div_irregular">
 <head>Irregular, Doubtful, and Emended Accidentals</head>
 
+
 <p>The following is a list of emendations made in the Variorum text where in Q1(u) and in about 110 additional lines from F1(u) an obvious typographic irregularity of no substantive importance has been rectified by an obvious emendation. Where the irregularity might have resulted from a cause other than typographical error, or where its correction is uncertain, the text has been left unaltered. In the following notes the lemma is the reading of the the Variorum text as emended, and the first siglum is that of the edition (if any) from which the emendation is drawn; mere typographical rearrangements are not traced to a source in an early edition. The rest of the note either records a rejected Q1 or F1 reading or indicates that <ref targType="bibl" target="#b_grew1940e"><name type="app">Greg</name></ref> (1940, pp. 81–105), having inspected all twelve extant copies of Q1, found the reading doubtful. In the latter cases Greg’s distinction between uncertain marks of punctuation (i.e., those clearly intentional but too obscurely printed to be identified) and doubtful marks (i.e. those perhaps not intended as punctuation at all) is here preserved.</p>
+
 
 <note type="irregular" xml:id="irr_0026" target="#tln_0026"><label>26</label>
 <app type="sourced"><lem>&amp; the</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>&amp;the</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
@@ -754,11 +756,13 @@
 <div type="level1" xml:id="div_unadopted">
 <head>Unadopted Conjectures</head>
 
+
 <p>The following is a list of conjectural readings that are not recorded in either the textual or the commentary notes. Most of these readings are taken from printed editions or commentaries; a few are from manuscript sources. I have attempted to note the earliest occurrence of each reading and all later occurrences that seem to have been arrived at independently; mere secondings of someone else’s conjecture have been ignored.</p>
+
 
 <anchor type="xref" xml:id="anchor_0007-a"/>
 <note type="unadopted" xml:id="uc_0004" target="#tln_0004" targetEnd="#tln_0010"><label>4–10</label>
-<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, [= <quote>weighed</quote>]&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
+<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, [= <quote>weighed</quote>]&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name rend="lscaps">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0009" target="#tln_0009"><label>9</label>
 <app><lem>equalities</lem>] <appPart><rdg type="replace">the qualities</rdg> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 50)</wit></appPart></app></note>
