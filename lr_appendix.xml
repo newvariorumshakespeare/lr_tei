@@ -749,10 +749,8 @@
 
 
 
-
-
 <div type="level1" xml:id="div_unadopted">
-<head><hi rend="bold">Unadopted Conjectures</hi></head>
+<head>Unadopted Conjectures</head>
 
 <p>The following is a list of conjectural readings that are not recorded in either the textual or the commentary notes. Most of these readings are taken from printed editions or commentaries; a few are from manuscript sources. I have attempted to note the earliest occurrence of each reading and all later occurrences that seem to have been arrived at independently; mere secondings of someone else’s conjecture have been ignored.</p>
 
@@ -1223,8 +1221,7 @@
 <note type="unadopted" xml:id="uc_0337-02" target="#tln_0337"><label display="all(invisible)">337</label>
 <app><lem>plague</lem>] <appPart><rdg type="replace">place</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>, <ref targType="bibl" target="#b_simj0001"><name type="app">simpson</name></ref> ><hi rend="italic">apud</hi> <siglum rend="smcaps">john1</siglum> (8:2K4<hi rend="superscript">v</hi>)</note></wit></appPart>; <appPart><rdg type="replace">track</rdg> <wit><ref targType="bibl" target="#b_goug1884"><name type="app">gould</name></ref> (1887, p. 72)</wit></appPart>; <appPart><rdg type="replace">pilorye [pillory]</rdg> <wit><ref targType="bibl" target="#s_cam3"><name type="app">wilson</name></ref> (<siglum rend="smcaps">cam3</siglum>)</wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0338-01" target="#tln_0338"><label>338</label>
-<app><lem>The</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 89)</wit></appPart></app></note>
+<note type="unadopted" xml:id="uc_0338-01" target="#tln_0338"><label>338</label><app><lem>The</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 89)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0338-02" target="#tln_0338"><label display="all(invisible)">338</label>
 <app><lem>curiositie of nations</lem>] <appPart><rdg type="replace">calumny of Nature</rdg> <wit><ref targType="bibl" target="#pw_morh1888"><name type="app">morley</name></ref> (ed. 1888)</wit></appPart></app></note>
@@ -3156,8 +3153,6 @@
 
 
 
-
-
 <div type="level1" xml:id="div_thetext">
 <head><hi rend="bold">The Texts</hi></head>
 
@@ -3180,7 +3175,7 @@ This entry records the facts that the prospective publishers of the First Quarto
 
 <p>Though several quartos of plays by Shakespeare, Ben Jonson, and others had advertised their author’s name on their title pages, <ref targType="bibl" target="#s_col1"><name type="app">Collier</name></ref> (ed. 1843, 7:351–2) finds it worth remarking that the appearance of Sh.’s name prominently at the head of both Q1’s title page <hi rend="italic">and</hi> the first page of text is a peculiarity found in no other Shn. quarto if indeed in any other book of the period. He assumes that the purpose was to ensure that purchasers would be able to buy Sh.’s play rather than <title level="m">King Leir</title> (1605). <ref targType="bibl" target="#b_brod2000b"><name type="app">Brooks</name></ref> (2000, p. 71) suspects that the italic capitals of <quote><hi rend="italic">HIS</hi></quote> also emphasize Sh.’s authorship. <ref targType="bibl" target="#b_blap1982"><name type="app">Blayney</name></ref> (1982, p. 82): The name of William Shakespeare in large print on the title page <quote>would not have helped sales by virtue of adding several hundred buyers to an already large potential market—it would merely have removed some of the risk that the book might not sell at all.&hellip;Most of Shakespeare’s plays had a relatively undistinguished publishing history before 1623.</quote> Moreover (pp. 97 and 148, fig. 6), the same large type from the head of the title page was simply reimposed at the head of the first page of text as a common economy. The only other quarto naming Sh. in large type is the 1609 <title level="m">Sonnets.</title> Brooks (pp. 59–60): <quote>The material reality of <title level="m">Lear</title>’s initial publication is somewhat inglorious. The edition probably ran to no more than seven hundred copies, and it seems unlikely that it sold very quickly, because no further edition of the play appeared until Thomas Pavier’s [1619].</quote> Nonetheless he emphasizes (2001, p. 153) the singularity of the Q1 title page, designed to market the book on the merits of its author’s name.</p>
 
-<p>The contents and wording of the title page are probably the invention of Butter, not Sh.: <hi rend="bold">see n. <ref targType="note_cn" target="#cn_0000.3">0.3</ref></hi>. <ref targType="bibl" target="#b_grew1940a"><name type="app">Greg</name></ref> (1940, p. 381): <quote>The prominence given to the author’s name on the title-page, and also probably the explicit mention of Edgar’s story, are due to a desire to distinguish the piece as clearly as possible from its predecessor of three years before, the old <title level="m">King Leir</title>. The latter was, no doubt, still on sale, and Butter must naturally have been anxious lest it should be passed off on the unwary as his own more recent publication.</quote> The advertisement of court performance before James was certainly designed to attract purchasers; it has also led some editors to believe that the Q1’s text was based upon the <quote>prompt-book</quote> used for that performance, a doubtful idea (see <ptr targType="div" target="#div_q1_theatricalms"/>). Someone has carefully adjusted the SR’s phrase <quote>at Christmas Last</quote> to <quote>in Christmas Hollidayes</quote>; the original phrase, at the date of entry, had referred to 1606, but on a title page dated 1608 it would have erroneously referred to 1607. Blayney (p. 83) believes that the vague substitute is intentionally misleading, suggesting that <title level="m">Lr.</title> was last month’s play rather than last year’s.</p>
+<p>The contents and wording of the title page are probably the invention of Butter, not Sh.: see n. <ref targType="note_cn" target="#cn_0000.3">0.3</ref>. <ref targType="bibl" target="#b_grew1940a"><name type="app">Greg</name></ref> (1940, p. 381): <quote>The prominence given to the author’s name on the title-page, and also probably the explicit mention of Edgar’s story, are due to a desire to distinguish the piece as clearly as possible from its predecessor of three years before, the old <title level="m">King Leir</title>. The latter was, no doubt, still on sale, and Butter must naturally have been anxious lest it should be passed off on the unwary as his own more recent publication.</quote> The advertisement of court performance before James was certainly designed to attract purchasers; it has also led some editors to believe that the Q1’s text was based upon the <quote>prompt-book</quote> used for that performance, a doubtful idea (see <ptr targType="div" target="#div_q1_theatricalms"/>). Someone has carefully adjusted the SR’s phrase <quote>at Christmas Last</quote> to <quote>in Christmas Hollidayes</quote>; the original phrase, at the date of entry, had referred to 1606, but on a title page dated 1608 it would have erroneously referred to 1607. Blayney (p. 83) believes that the vague substitute is intentionally misleading, suggesting that <title level="m">Lr.</title> was last month’s play rather than last year’s.</p>
 
 
 <div type="level3" xml:id="div_q1_qualityofprinting">
