@@ -749,16 +749,14 @@
 
 
 
-
-
 <div type="level1" xml:id="div_unadopted">
-<head>  </head>
+<head>Unadopted Conjectures</head>
 
 <p>The following is a list of conjectural readings that are not recorded in either the textual or the commentary notes. Most of these readings are taken from printed editions or commentaries; a few are from manuscript sources. I have attempted to note the earliest occurrence of each reading and all later occurrences that seem to have been arrived at independently; mere secondings of someone else’s conjecture have been ignored.</p>
 
 <anchor type="xref" xml:id="anchor_0007-a"/>
 <note type="unadopted" xml:id="uc_0004" target="#tln_0004" targetEnd="#tln_0010"><label>4–10</label>
-<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, [= <quote>weighed</quote>]&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
+<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, [= <quote>weighed</quote>]&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name><hi rend="smcaps">walker</hi></name></ref> (1860, 1:13)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0009" target="#tln_0009"><label>9</label>
 <app><lem>equalities</lem>] <appPart><rdg type="replace">the qualities</rdg> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 50)</wit></appPart></app></note>
@@ -1160,7 +1158,7 @@
 <app><lem>our</lem>] <appPart><rdg type="replace">your</rdg> <wit><ref targType="bibl" target="#b_renv1931"><name type="app">rendall</name></ref> (1931, p. 427)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0293-02" target="#tln_0293"><label display="all(invisible)">293</label>
-<app><lem>washt</lem>] <appPart><rdg type="replace">unwashed</rdg> <wit><ref targType="bibl" target="#b_casl1967"><name type="app">casson</name></ref> <note place="inline"><hi rend="italic">apud</hi> <ref targType="bibl" target="#pw_skig1967"><name type="app">skillan</name></ref> (ed. 1967, p. vii)</note></wit></appPart></app></note>
+<app><lem>washt</lem>] <appPart><rdg type="replace">unwashed</rdg> <wit><ref targType="bibl" target="#b_casl1967"><name type="app">casson</name></ref> <hi rend="italic">apud</hi> <ref targType="bibl" target="#pw_skig1967"><name type="app">skillan</name></ref> (ed. 1967, p. vii)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0294" target="#tln_0294"><label>294</label>
 <app><lem>you</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 24)</wit></appPart></app></note>
@@ -1181,7 +1179,7 @@
 <app><lem>And&hellip;the worth</lem>] <appPart><rdg type="replace">Which well were worth the word</rdg> <wit><ref targType="bibl" target="#pw_mobc1876"><name type="app">moberly</name></ref> (ed. 1876)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0305-02" target="#tln_0305"><label display="all(invisible)">305</label>
-<app><lem>worth the&hellip;wanted</lem>] <appPart><rdg type="replace">worth to want that you have wanted</rdg> <wit><siglum rend="smcaps">smock</siglum> (corr. 1770), <siglum rend="smcaps">ecc</siglum></wit></appPart>; <appPart><rdg type="replace">worth the want that you have wasted</rdg> <wit><ref targType="bibl" target="#b_heab1765"><name type="app">heath</name></ref> (1765, p. 317)</wit></appPart>; <appPart><rdg type="replace">worth the wit that you have wanted</rdg> <wit><ref targType="bibl" target="#b_jacz1819"><name type="app">jackson</name></ref> (1819, p. 317)</wit></appPart>; <appPart><rdg type="replace">worthy want that worth have wanted</rdg> <wit><ref targType="bibl" target="#b_badc1866"><name type="app">badham</name></ref> <note place="inline"><hi rend="italic">apud</hi> <siglum rend="smcaps">cam1</siglum></note></wit></appPart></app></note>
+<app><lem>worth the&hellip;wanted</lem>] <appPart><rdg type="replace">worth to want that you have wanted</rdg> <wit><siglum rend="smcaps">smock</siglum> (corr. 1770), <siglum rend="smcaps">ecc</siglum></wit></appPart>; <appPart><rdg type="replace">worth the want that you have wasted</rdg> <wit><ref targType="bibl" target="#b_heab1765"><name type="app">heath</name></ref> (1765, p. 317)</wit></appPart>; <appPart><rdg type="replace">worth the wit that you have wanted</rdg> <wit><ref targType="bibl" target="#b_jacz1819"><name type="app">jackson</name></ref> (1819, p. 317)</wit></appPart>; <appPart><rdg type="replace">worthy want that worth have wanted</rdg> <wit><ref targType="bibl" target="#b_badc1866"><name type="app">badham</name></ref> <hi rend="italic">apud</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0305-03" target="#tln_0305"><label display="all(invisible)">305</label>
 <app><lem>the worth</lem>] <appPart><rdg type="replace">the worse</rdg> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 51)</wit></appPart>; <appPart><rdg type="replace">the words</rdg> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 192)</wit></appPart></app></note>
@@ -1395,7 +1393,7 @@
 <app><lem>my Lords</lem>] <appPart><rdgDesc><rdg type="replace">my daughter’s</rdg> <hi rend="italic">or</hi> <rdg type="replace">my child’s</rdg> <hi rend="italic">or</hi> <rdg type="replace">thy lord’s</rdg></rdgDesc> <wit><siglum>m<hi rend="smcaps">tby</hi>4</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0614" target="#tln_0614"><label>614</label>
-<app><lem>lookes</lem>] <appPart><rdg type="replace">locks <note place="inline">[= <quote>catches</quote>]</note></rdg> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:136)</wit></appPart>; <appPart><rdg type="replace">words</rdg> <wit><ref targType="bibl" target="#b_goug1884"><name type="app">gould</name></ref> (1884, p. 62)</wit></appPart></app></note>
+<app><lem>lookes</lem>] <appPart><rdg type="replace">locks [= <quote>catches</quote>]</rdg> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:136)</wit></appPart>; <appPart><rdg type="replace">words</rdg> <wit><ref targType="bibl" target="#b_goug1884"><name type="app">gould</name></ref> (1884, p. 62)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0620" target="#tln_0620"><label>620</label>
 <app><lem>lubbers, length</lem>] <appPart><rdg type="replace">lubbers-length</rdg> <wit><siglum>mQ1<hi rend="smcaps">bm</hi>2</siglum></wit></appPart></app></note>
@@ -1836,7 +1834,7 @@
 <app><lem>and</lem>] <appPart><rdg type="replace">hands [by writing a letter]</rdg> <wit><ref targType="bibl" target="#b_mach1923"><name type="app">macnaghten</name></ref> (1923, p. 852)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1245-02" target="#tln_1245" targetEnd="#tln_1246"><label>1245–6</label>
-<app><lem>time&caret;&hellip;state,</lem>] <appPart><rdg type="replace">&swdash;,&hellip;&swdash;&caret;</rdg> <wit><ref targType="bibl" target="#b_perp1886"><name type="app">perring</name></ref> (1885, p. 325) <hi rend="italic">and in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref> [<hi rend="italic">from</hi> = <quote>out of, free from</quote>]</wit></appPart></app></note>
+<app><lem>time&caret;&hellip;state,</lem>] <appPart><rdg type="replace">&swdash;,&hellip;&swdash;&caret;</rdg> <wit><ref targType="bibl" target="#b_perp1886"><name type="app">perring</name></ref> (1885, p. 325)<hi rend="italic">and in</hi> <ref targType="bibl" target="#b_wris0001"><name type="app">wright shakespeariana</name></ref> [<hi rend="italic">from</hi> = <quote>out of, free from</quote>]</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1245-03" target="#tln_1245" targetEnd="#tln_1246"><label display="all(invisible)">1245–6</label>
 <app><lem>time From</lem>] <appPart><rdg type="replace">balm For</rdg> <wit><ref targType="bibl" target="#b_bais1862"><name type="app">bailey</name></ref> (1866, 2:91)</wit></appPart></app></note>
@@ -1872,10 +1870,10 @@
 <app><lem>pelting</lem>] <appPart><rdg type="replace">pedling</rdg> <wit><siglum rend="smcaps">jen</siglum></wit></appPart>; <appPart><rdg type="replace">palting [= <quote>paltry</quote>]</rdg> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:147)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1271-01" target="#tln_1271"><label>1271</label>
-<app><lem>their</lem>] <appPart><rdg type="replace">reer <note place="inline">[= <quote>unwilling, grudging</quote>]</note></rdg> <wit><ref targType="bibl" target="#b_warw0001"><name type="app">warburton</name></ref> (1734) <hi rend="italic">in</hi> <ref targType="bibl" target="#b_thel1817"><name type="app">nichols</name></ref> (1817, 2:642)</wit></appPart></app></note>
+<app><lem>their</lem>] <appPart><rdg type="replace">reer [= <quote>unwilling, grudging</quote>]</rdg> <wit><ref targType="bibl" target="#b_warw0001"><name type="app">warburton</name></ref> (1734) <hi rend="italic">in</hi> <ref targType="bibl" target="#b_thel1817"><name type="app">nichols</name></ref> (1817, 2:642)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1271-02" target="#tln_1271"><label display="all(invisible)">1271</label>
-<app><lem>poore <hi rend="italic">Tuelygod</hi></lem>] <appPart><rdg type="replace">poor Turlupin</rdg> <wit><siglum rend="smcaps">warb</siglum></wit></appPart>; <appPart><rdg type="replace">poor Turly! good!</rdg> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:148)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">Poor, Truly a dog</rdg> <hi rend="italic">or</hi> <rdg type="replace">Truly a poor dog</rdg> <hi rend="italic">or</hi> <rdg type="replace">Poor Truly good</rdg> <hi rend="italic">or</hi> <rdg type="replace">Poor Truly gods</rdg> <hi rend="italic">or</hi> <rdg type="replace">Poor Troglodyte</rdg></rdgDesc> <wit><ref targType="bibl" target="#pw_jouw1859"><name type="app">jourdain ms</name></ref> (ca. 1859; 1860–1, p. 144)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">poore tirly-gaud</rdg> <hi rend="italic">or</hi> <rdg type="replace">tirlery-gaud <note place="inline">[= <quote>trifling, trumpery</quote>]</note></rdg></rdgDesc> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 195)</wit></appPart>; <appPart><rdg type="replace">poor turkeycock</rdg> <wit><ref targType="bibl" target="#b_fiss1984"><name type="app">fisher</name></ref> (1984, p. 20)</wit></appPart>; <appPart><rdg type="replace">Truelygood</rdg> <wit><ref targType="bibl" target="#s_ard3"><name type="app">foakes</name></ref> (ed. 1997)</wit></appPart></app></note>
+<app><lem>poore <hi rend="italic">Tuelygod</hi></lem>] <appPart><rdg type="replace">poor Turlupin</rdg> <wit><siglum rend="smcaps">warb</siglum></wit></appPart>; <appPart><rdg type="replace">poor Turly! good!</rdg> <wit><ref targType="bibl" target="#b_beca1815"><name type="app">becket</name></ref> (1815, 1:148)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">Poor, Truly a dog</rdg> <hi rend="italic">or</hi> <rdg type="replace">Truly a poor dog</rdg> <hi rend="italic">or</hi> <rdg type="replace">Poor Truly good</rdg> <hi rend="italic">or</hi> <rdg type="replace">Poor Truly gods</rdg> <hi rend="italic">or</hi> <rdg type="replace">Poor Troglodyte</rdg></rdgDesc> <wit><ref targType="bibl" target="#pw_jouw1859"><name type="app">jourdain ms</name></ref> (ca. 1859; 1860–1, p. 144)</wit></appPart>; <appPart><rdgDesc><rdg type="replace">poore tirly-gaud</rdg> <hi rend="italic">or</hi> <rdg type="replace">tirlery-gaud [= <quote>trifling, trumpery</quote>]</rdg></rdgDesc> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 195)</wit></appPart>; <appPart><rdg type="replace">poor turkeycock</rdg> <wit><ref targType="bibl" target="#b_fiss1984"><name type="app">fisher</name></ref> (1984, p. 20)</wit></appPart>; <appPart><rdg type="replace">Truelygood</rdg> <wit><ref targType="bibl" target="#s_ard3"><name type="app">foakes</name></ref> (ed. 1997)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1285" target="#tln_1285"><label>1285</label>
 <app><lem>neatherstockes</lem>] <appPart><rdg type="replace">nether socks</rdg> <wit><ref targType="bibl" target="#b_heab1765"><name type="app">heath</name></ref> (1765, p. 332)</wit></appPart></app></note>
@@ -1902,7 +1900,7 @@
 <app><lem>stay there</lem>] <appPart><rdgDesc><hi rend="italic">Om.</hi></rdgDesc> <wit><ref targType="bibl" target="#b_seye1805"><name type="app">seymour</name></ref> (1805, 2:109)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1336" target="#tln_1336"><label>1336</label>
-<app><lem>chance</lem>] <appPart><rdg type="replace">chanceth</rdg> <wit><ref targType="bibl" target="#b_anon0009"><name type="app">anon.</name></ref>  <hi rend="italic">apud</hi> <siglum rend="smcaps">v1880</siglum></wit></appPart></app></note>
+<app><lem>chance</lem>] <appPart><rdg type="replace">chanceth</rdg> <wit><ref targType="bibl" target="#b_anon0009"><name type="app">anon.</name></ref> <hi rend="italic">apud</hi> <siglum rend="smcaps">v1880</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_1341" target="#tln_1341" targetEnd="#tln_1342"><label>1341–2</label>
 <app><lem>all&hellip;men</lem>] <appPart><rdg type="replace">All men are led by their eyes, but blind men, and they follow their noses</rdg> <wit><siglum rend="smcaps">john1</siglum></wit></appPart></app></note>
@@ -2691,7 +2689,7 @@
 <app><lem>yet&caret;&hellip;how&caret;</lem>] <appPart><rdg type="replace">&swdash;,&hellip;&swdash;,</rdg> <wit><ref targType="bibl" target="#pw_blap1980"><name type="app">blayney ms</name></ref></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2495" target="#tln_2495"><label>2495</label>
-<app><lem>at each</lem>] <appPart><rdg type="replace">of beach</rdg> <wit><siglum>m<hi rend="smcaps">mal</hi>1</siglum>, fol. 47</wit></appPart>; <appPart><rdg type="replace">a-stretch</rdg> <wit><siglum rend="smcaps">jen</siglum></wit></appPart>; <appPart><rdg type="replace">at reach</rdg> <wit><ref targType="bibl" target="#s_v1793"><name type="app">steevens</name></ref> (<siglum>v1793</siglum>)</wit></appPart>; <appPart><rdg type="replace">at end</rdg> <wit><ref targType="bibl" target="#b_jacz1819"><name type="app">jackson</name></ref> (1819, p. 336), <ref targType="bibl" target="#b_sem1822"><name type="app">s.</name></ref> (1822)</wit></appPart>; <appPart><rdg type="replace">at eche [= at eke, <quote>added</quote>]</rdg> <wit><siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">wh1</siglum> (at eke)</wit></appPart>; <appPart><rdg type="replace">at length</rdg> <wit><ref targType="bibl" target="#b_jers1861"><name type="app">jervis</name></ref> (1861, p. 17)</wit></appPart>; <appPart><rdg type="replace">at lash</rdg> <wit><ref targType="bibl" target="#b_anon0002"><name type="app">anon.</name></ref> <hi rend="italic">apud</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart>; <appPart><rdg type="replace">at height</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 427)</wit></appPart>; <appPart><rdg type="replace">alength (sp. al enth)</rdg> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 202)</wit></appPart></app></note>
+<app><lem>at each</lem>] <appPart><rdg type="replace">of beach</rdg> <wit><siglum>m<hi rend="smcaps">mal</hi>1</siglum>, fol. 47</wit></appPart>; <appPart><rdg type="replace">a-stretch</rdg> <wit><siglum rend="smcaps">jen</siglum></wit></appPart>; <appPart><rdg type="replace">at reach</rdg> <wit><ref targType="bibl" target="#s_v1793"><name type="app">steevens</name></ref> (<siglum>v1793</siglum>)</wit></appPart>; <appPart><rdg type="replace">at end</rdg> <wit><ref targType="bibl" target="#b_jacz1819"><name type="app">jackson</name></ref> (1819, p. 336), <ref targType="bibl" target="#b_sem1822"><name type="app">s.</name></ref> (1822)</wit></appPart>; <appPart><rdg type="replace">at eche[= at eke, <quote>added</quote>]</rdg> <wit><siglum rend="smcaps">sing2</siglum>, <siglum rend="smcaps">wh1</siglum> (at eke)</wit></appPart>; <appPart><rdg type="replace">at length</rdg> <wit><ref targType="bibl" target="#b_jers1861"><name type="app">jervis</name></ref> (1861, p. 17)</wit></appPart>; <appPart><rdg type="replace">at lash</rdg> <wit><ref targType="bibl" target="#b_anon0002"><name type="app">anon.</name></ref> <hi rend="italic">apud</hi> <siglum rend="smcaps">cam1</siglum></wit></appPart>; <appPart><rdg type="replace">at height</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 427)</wit></appPart>; <appPart><rdg type="replace">alength (sp. al enth)</rdg> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 202)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_2499-01" target="#tln_2499"><label>2499</label>
 <app><lem>sommons</lem>] <appPart><rdg type="replace">somnets</rdg> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 185)</wit></appPart></app></note>
@@ -2985,7 +2983,7 @@
 <app><appPart><rdg type="insert"><stage type="description">his beaver downe</stage></rdg> <wit><siglum>m<hi rend="smcaps">col</hi>1</siglum></wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_3075" target="#tln_3075"><label>3075</label>
-<app><lem>yet&hellip;mou’t</lem>] <appPart><rdg type="replace">yet am I mou’t</rdg> <wit><siglum>mQ1<hi rend="smcaps">bm</hi>2</siglum></wit></appPart>; <appPart><rdg type="replace">yet ere I moot <note place="inline">[= <quote>speak</quote>]</note></rdg> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 186)</wit></appPart></app></note>
+<app><lem>yet&hellip;mou’t</lem>] <appPart><rdg type="replace">yet am I mou’t</rdg> <wit><siglum>mQ1<hi rend="smcaps">bm</hi>2</siglum></wit></appPart>; <appPart><rdg type="replace">yet ere I moot [= <quote>speak</quote>]</rdg> <wit><ref targType="bibl" target="#b_stop1980"><name type="app">stone</name></ref> (1980, p. 186)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_3083-01" target="#tln_3083"><label>3083</label>
 <app><lem>Behold it is the</lem>] <appPart><rdg type="replace">Behold it. By the</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum></wit></appPart></app></note>
@@ -3156,8 +3154,6 @@
 
 
 
-
-
 <div type="level1" xml:id="div_thetext">
 <head>The Texts</head>
 
@@ -3214,17 +3210,15 @@ This entry records the facts that the prospective publishers of the First Quarto
 <head>Press-Variants and Proof-Correction in Q1</head>
 
 <p xml:id="para_0013">The recognition of press-variants in Q1 was complicated for nearly a century by the variant readings in another issue of the play, very similar to Q1, that only gradually came to be recognized as a later, separate edition, Q2. <ref targType="bibl" target="#b_vicb1974"><name type="app">Vickers</name></ref> 6(1981):81: <quote>On <title level="m">King Lear</title>&hellip;in the 1778 edition Steevens disputed a reading given by Jennens [ed. 1770] (<quote>attaskt</quote>) since it was in neither of the Quartos he knew (it comes from the corrected state of Q<hi rend="subscript">1</hi>). He subsequently stated that there were two Quartos which <quote>differ from each other, though printed in the same year, and for the same printer</quote> (IX, pp. 403, 452), only to retract this opinion later (p. 564). But by 1793, in response to Malone’s statement that both Quartos read <quote><hi rend="italic">We</hi>, and that of which the first signature is B [i.e., of Q1], reads:—<hi rend="italic">We</hi> that too late <hi rend="italic">repent’s</hi></quote>, Steevens can reply that <quote>My copy of the quarto, of which the first signature is A [i.e., of Q2], reads:—<hi rend="italic">We</hi> that too late <hi rend="italic">repent’s us</hi></quote>, (XIV, p. 69). In the 1790 edition Malone had reported that the First Folio must have been proof-corrected during printing, since he had discovered copies in varying states (I, part 2, p. 157), and now Steevens applies the discovery to <title level="m">King Lear</title>: <quote>some of the quartos (like the folio 1623) must have been partially corrected while at press</quote> ([ed. 1793] XIV, p. 76). Having recorded more variants, he postulates the existence of a third Quarto (pp. 87f.).</quote> <ref targType="bibl" target="#s_v1821"><name type="app">Boswell</name></ref> (ed. 1821, 2:652), following a note by Malone in a copy of Q1, also describes three editions. <ref targType="bibl" target="#b_clac1863"><name type="app">Clark</name> &amp; <name type="app">Wright</name></ref> (ed. 1863–6, 8:xiii–xv) finally demonstrate that there were only two, one existing in copies having differing corrected sheets. Unfortunately they identified Q2 as the earlier edition, only later (<ref targType="bibl" target="#b_ella1869"><name type="app">Ellis</name></ref>, 1869, 1:217 n.) retracting their error. Nonetheless, by collating six copies of Q1 they discovered more than a hundred variants among copies of Q1. <ref targType="bibl" target="#b_kopr1877"><name type="app">Koppel</name></ref> (1877, pp. 67–70; summarized in <ref targType="bibl" target="#s_v1880"><name type="app">Furness</name></ref>, ed. 1880, p. 364) supports their argument that many of the corrected readings derived from the original manuscript from which Q was set.</p>
-
+    
 <p><ref targType="bibl" target="#s_hal"><name type="app">Halliwell</name></ref> (ed. 1865, 14:362–3) had preceded Clark &amp; Wright in distinguishing Q1 as the first edition and Q2 as the second, and in pointing out that no two copies of Q1 that he had seen contained <quote>precisely the same text.</quote> Halliwell also said in a supplementary volume (1871) to the Ashbee facsimiles of the Shn. quartos that twelve copies of Q1 were known to exist and needed to be inspected. It was now becoming apparent (see <ref targType="bibl" target="#pw_adea1890"><name type="app">Adee</name></ref>, ed. 1890, p. x) that no copy of Q1 was like any other because each contained a different mixture of corrected and uncorrected formes. <ref targType="bibl" target="#s_v1880"><name type="app">Furness</name></ref> (ed. 1880, pp. 356–7) mistakenly thought that such a mixture was due to piecemeal printing and carelessness on the part of the binder. <ref targType="bibl" target="#b_pola1909"><name type="app">Pollard</name></ref> (1909, p. 53) gives the correct explanation: <quote>While the edition was being printed the proofs of several sheets seem to have been read with the manuscript, and numerous corrections introduced. The copies of these sheets which had been printed without correction were not, however, destroyed, but mixed promiscuously with corrected copies, so that there are different combinations of corrected and uncorrected sheets in the different extant copies of this edition.&hellip;</quote> <ref targType="bibl" target="#b_mckr1927"><name type="app">McKerrow</name></ref> (1927, pp. 207–13) describes the process of stop-press correction of formes after printing has begun.</p>
-
+    
 <p><ref targType="bibl" target="#pw_danp1885"><name type="app">Daniel</name></ref> (facs. 1885, p. xi) also raised the question of how authoritative Okes’s corrections were: <quote>The corrections were made on a re-examination of the MS. from which the Q<hi rend="superscript">o</hi> was printed. In many cases the corrector succeeded in decyphering the words which had in the first instance baffled the printer; in others he himself appears to have failed and to have had recourse to conjecture and again, some of the corrections he made were once more blundered by the printer. Instances of successful correction are patent on every sheet.</quote> <ref targType="bibl" target="#s_rid"><name type="app">Ridley</name></ref> (ed. 1935, p. ix): <quote>That the alterations in the <quote>corrected</quote> sheets do often in fact give the correct reading of the MS. there can be little doubt; but there seems to me very little evidence that they were at all universally arrived at by a consultation of the MS. And, if they were not, we are more likely to be near to what Shakespeare wrote when we are looking at the efforts of a stupidly honest compositor struggling with a writing which he could not read [i.e., setting the uncorrected state] than if we rely upon an ingenious emender [producing the corrected state].</quote> Having examined six copies of Q1, Daniel (pp. vi–xi) laid the groundwork for the systematic study of Q1’s variants, finding and tabulating corrections existing in all sheets but B, I, and L. (There is no sheet A, only an unsigned half-sheet bearing the title page). Refining his results, <ref targType="bibl" target="#b_dorm1931"><name type="app">Doran</name></ref> (1931, pp. 11–12, 20) finds that sheets C, F, and H have the inner forme corrected (C twice), D, E, G, and K the outer forme, and that sheets B, I, and L are uncorrected. (P. 12): <quote>That Shakespeare had anything to do with the corrections in the first quarto of <title level="m">King Lear</title> is, from the conjectural nature of some of them, at least doubtful.</quote> <ref targType="bibl" target="#b_grew1933a"><name type="app">Greg</name></ref> (1933, p. 251) shows in addition that both inner and outer formes of K were corrected, to make the catchword on K4 recto agree with the changed first word on K4 verso. He further (1940, p. 4) singles out Doran’s <quote>very suggestive discovery</quote> <quote>that in every variant sheet the variants are confined to one <quote>forme</quote> or side of the sheet, the other forme appearing in one state only,</quote> and adds that <quote>still more suggestive was the fact that it was not quite true,</quote> citing the anomaly of sheet K.</p>
-
+    
 <p><ref targType="bibl" target="#b_grew1940e"><name type="app">Greg</name></ref>’s (1940) monograph, based on a collation of all twelve extant copies of Q1, describes exhaustively and definitively the differences between them, showing in tabular form (p. 11) which formes are corrected in which extant copy. In collating twice as many copies as Daniel he finds about a third more variants. (Pp. 15–16): <quote>The total number of alterations here listed is 167, of which 148 are substantive and 19 consequential.&hellip;[<hi rend="italic">16</hi>] Omitting these [i.e., two instances of type-shifts], Daniel’s total is 124&hellip;The number of substantive variants that I have been able to add is therefore 24, besides the 19 consequential.</quote></p>
-
+    
 <p><ref targType="bibl" target="#b_blap1982"><name type="app">Blayney</name></ref> (1982, pp. 220–1) adds five incidences of shifting type as being press-variants: <ref targType="lb" target="#tln_1065">1065</ref> Father, <ref targType="lb" target="#tln_1378">1378</ref> sp eake,commands, <ref targType="lb" target="#tln_1931">1931</ref> c.w. <hi rend="italic">Lear</hi><hi rend="superscript">.</hi>, <ref targType="lb" target="#tln_2053">2053</ref> turnover (master<hi rend="subscript"></hi>,, <ref targType="lb" target="#tln_2864p02">2864+2</ref> and <ref targType="lb" target="#tln_2866">2866</ref> him  nd mee. | Ou<hi rend="superscript">r</hi>. He also shows three words in E4<hi rend="superscript">v</hi> where three damaged types were replaced. (P. 221): <quote>If unnecessary sophistications of spelling and punctuation are&hellip;described, nearly a third of the variants in <title level="m">Lear</title> can be considered as miscorrections.</quote> He believes (p. 222) that the corrector was probably Okes himself. He provides a consolidated list (pp. 593–7) of all the known press-variants, including a few not noted by Greg and a few of his own conjecturing:</p>
 
-
-<ab type="tableGroup" xml:id="ab_001">
 <table xml:id="table_app_001" rows="8" cols="3">
 <head>C(i)</head>
 
@@ -4266,7 +4260,6 @@ This entry records the facts that the prospective publishers of the First Quarto
 <cell>One</cell>
 </row>
 </table>
-</ab>
 
 <p>Note (p. 597): <quote>Five formes of <title level="m">Lear</title> show quite clear evidence of the use of copy—outer D, outer E, outer G, inner H, and outer K. [See nn. <ref targType="note_cn" target="#cn_0819">819</ref>, <ref targType="note_cn" target="#cn_0820-01">820</ref>, <ref targType="note_cn" target="#cn_0867-02">867</ref>, <ref targType="note_cn" target="#cn_1039-01">1039</ref>, <ref targType="note_cn" target="#cn_1220p03-03">1220+3</ref>, <ref targType="note_cn" target="#cn_1790-02">1790</ref>, <ref targType="note_cn" target="#cn_1792-02">1792</ref>, <ref targType="note_cn" target="#cn_1794-01">1794</ref>, <ref targType="note_cn" target="#cn_1888-04">1888–9</ref>, <ref targType="note_cn" target="#cn_2132-02">2132</ref>, <ref targType="note_cn" target="#cn_2289-02">2289</ref>, <ref targType="note_cn" target="#cn_2297-03">2297</ref>, <ref targType="note_cn" target="#cn_2673-01">2673</ref>, <ref targType="note_cn" target="#cn_2674">2674</ref>, <ref targType="note_cn" target="#cn_2677-02">2677</ref>, <ref targType="note_cn" target="#cn_2990p01-01">2990+1</ref>.] No other Okes quarto of 1607 or 1608 shows the influence of copy in so many formes, and few formes show as many <quote>copy</quote> corrections as are found in any one of those five. While <title level="m">Lear</title> can hardly be described as an outstanding exception to Okes’s <quote>normal</quote> standards of correction it is neverthless somewhat unusual.</quote></p>
 
@@ -4588,14 +4581,14 @@ Other spellings sometimes used as discriminants proved inconclusive or inconsist
 
 <table xml:id="table_app_010" rows="12" cols="8">
 <row role="label">
-<cell>Act &amp; Scene</cell>
-<cell>No. of Lines</cell>
-<cell>Commas</cell>
-<cell>Semicolons</cell>
-<cell>Colons</cell>
-<cell>Questn. Marks</cell>
-<cell>Excln. Marks</cell>
-<cell>Full Stops</cell>
+<cell><hi rend="bold">Act &amp; Scene</hi></cell>
+<cell><hi rend="bold">No. of Lines</hi></cell>
+<cell><hi rend="bold">Commas</hi></cell>
+<cell><hi rend="bold">Semicolons</hi></cell>
+<cell><hi rend="bold">Colons</hi></cell>
+<cell><hi rend="bold">Questn. Marks</hi></cell>
+<cell><hi rend="bold">Excln. Marks</hi></cell>
+<cell><hi rend="bold">Full Stops</hi></cell>
 </row>
 
 <row>
@@ -4713,7 +4706,7 @@ Other spellings sometimes used as discriminants proved inconclusive or inconsist
 <cell></cell>
 <cell></cell>
 <cell cols="5">
-<figure xml:id="fig_011">
+<figure xml:id="fig_011" rend="align(right)">
 <graphic url="lr_figures/fig011.svg"/>
 <figDesc>A full-width horizontal brace, pointing down</figDesc>
 </figure>
@@ -4724,7 +4717,7 @@ Other spellings sometimes used as discriminants proved inconclusive or inconsist
 <cell></cell>
 <cell></cell>
 <cell></cell>
-<cell cols="5" rend="align(center)">87</cell>
+<cell cols="5" rend="align(right)">87</cell>
 </row>
 </table>
 
@@ -4739,7 +4732,7 @@ There are only two pairs of round brackets ( ) in these two acts. Speeches usual
 
 
 <div type="level4" xml:id="div_q1_lineation">
-<head>Prosody and Lineation</head>
+<head>Prosody and Line</head>
 
 <p>There has been considerable comment on two, sometimes related, features of the verse in Q1 <title level="m">Lr.</title>: the presence in many lines of verse of apparently superfluous syllables, and the confused and often erroneous division of the verse lines into irregular meter or prose, or of prose into false verse. The distinctions among these media are sometimes difficult to make because at this time in his career Sh. was writing verse often of great metrical freedom and even roughness, sometimes matching the agitated or distracted moods of the speakers.</p>
 
@@ -4793,8 +4786,6 @@ There are only two pairs of round brackets ( ) in these two acts. Speeches usual
 <head>The Copy for Q1</head>
 
 <p>Serious attempts to identify the nature of the copy from which Q1 <title level="m">Lr.</title> was set begin in the middle of the nineteenth century, and though they invoke a variety of evidence, they rely mainly on the many deficiencies in the Q1 text, particularly its many verbal errors, faulty punctuation and verse lineation, apparent mishearings, and presumed omissions of passages supplied later in the First Folio. The prevailing conviction for more than a century was that a manuscript so flawed, resulting in an edition so riddled with errors, must have been obtained by some kind of underhand means or <quote>piracy</quote> and consequently, despite its regular entry in the Stationers’ Register, was published surreptitiously without supervision from Sh. or his company. Such a provenance would explain the play-text’s low quality and its failure to be corrected authoritatively while in press. In 1931 that prevailing opinion was challenged powerfully by <ref targType="bibl" target="#b_dorm1933"><name type="app">Doran</name></ref>, who concluded that the MS behind Q1 was probably Sh.’s own autograph. Her argument was repeatedly dismissed by <ref targType="bibl" target="#b_grew1940e"><name type="app">Greg</name></ref>, largely on impressionistic grounds, and for several decades many other textuists, swayed by his immense authority, proposed alternatives to it; but it has in recent years become generally accepted. The following discussion will consider in turn the several theories of provenance, and the arguments that have been made for and against each one.</p>
-
-
 
 
 <div type="level4" xml:id="div_q1_theatricalms">
@@ -5682,451 +5673,451 @@ At <ref targType="lb" target="#tln_2771">2771</ref> in some copies <quote>the pe
 <body>
 
 <lg>
-<l><anchor type="marker" marker="*"/> n="45" rend="print_tln indent(14em)">while we</l>
-<l><anchor type="marker" marker="*"/>Vnburthen’d crawle toward death. Our son of <hi rend="italic">Cornwal</hi>,</l>
-<l><anchor type="marker" marker="*"/>And you our no lesse louing Sonne of <hi rend="italic">Albany</hi>,</l>
-<l><anchor type="marker" marker="*"/>We haue this houre a constant will to publish</l>
-<l><anchor type="marker" marker="*"/>Our daughters seuerall Dowers, that future strife</l>
-<l n="50" rend="print_tln"><anchor type="marker" marker="*"/>May be preuented now.<anchor type="marker" marker="*"/></l>
+<lb xml:id="tln_0045" n="45" ed="F" rend="print_tln indent(6em)"/><l>*while we</l>
+<l>*Vnburthen’d crawle toward death. Our son of <hi rend="italic">Cornwal</hi>,</l>
+<l>*And you our no lesse louing Sonne of <hi rend="italic">Albany</hi>,</l>
+<l>*We haue this houre a constant will to publish</l>
+<l>*Our daughters seuerall Dowers, that future strife</l>
+<l n="50" rend="print_tln">*May be preuented now.*</l>
 </lg>
 
 <lg>
-<l n="54" rend="print_tln"><anchor type="marker" marker="*"/>(Since now we will diuest vs both of Rule,</l>
-<l n="55" rend="print_tln"><anchor type="marker" marker="*"/>Interest of Territory, Cares of State)<anchor type="marker" marker="*"/></l>
+<nvsSeg type="marginlia" rend="align(right)"><l n="54" rend="print_tln"></l></nvsSeg><l>*(Since now we will diuest vs both of Rule,</l>
+<l n="55" rend="print_tln">*Interest of Territory, Cares of State)*</l>
 </lg>
 
 <lg>
-<l n="69" rend="print_tln indent(12em)"><anchor type="marker" marker="*"/>and with Champains rich’d</l>
-<l n="70" rend="print_tln"><anchor type="marker" marker="*"/>With plenteous Riuers,<anchor type="marker" marker="*"/></l>
+<l n="69" rend="print_tln indent(12em)">*and with Champains rich’d</l>
+<l n="70" rend="print_tln">*With plenteous Riuers,*</l>
 </lg>
 
 <lg>
-<l n="90" rend="print_tln"><anchor type="marker" marker="*"/>The Vines of France, and Milke of Burgundie,</l>
-<l n="91" rend="print_tln"><anchor type="marker" marker="*"/>Striue to be interest.<anchor type="marker" marker="*"/></l>
+<l n="90" rend="print_tln">*The Vines of France, and Milke of Burgundie,</l>
+<l n="91" rend="print_tln">*Striue to be interest.*</l>
 </lg>
 
 <lg>
-<l n="92" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>speake.<anchor type="marker" marker="*"/></l>
+<l n="92" rend="print_tln indent(6em)">*speake.*</l>
 </lg>
 
 <lg>
-<l n="94" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Lear.</hi> Nothing?</l>
-<l n="95" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Cor.</hi> Nothing.<anchor type="marker" marker="*"/></l>
+<l n="94" rend="print_tln"><hi rend="italic">*Lear.</hi> Nothing?</l>
+<l n="95" rend="print_tln"><hi rend="italic">*Cor.</hi> Nothing.*</l>
 </lg>
 
 <lg>
-<l n="125" rend="print_tln indent(3em)"><anchor type="marker" marker="*"/>to my bosome<anchor type="marker" marker="*"/></l>
+<l n="125" rend="print_tln indent(3em)">*to my bosome*</l>
 </lg>
 
 <lg>
-<l n="176" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Alb. Cor.</hi> Deare Sir forbeare.<anchor type="marker" marker="*"/></l>
+<l n="176" rend="print_tln"><hi rend="italic">*Alb. Cor.</hi> Deare Sir forbeare.*</l>
 </lg>
 
 <lg>
-<l n="181" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>recreant<anchor type="marker" marker="*"/></l>
+<l n="181" rend="print_tln indent(6em)">*recreant*</l>
 </lg>
 
 <lg>
-<l n="269" rend="print_tln"><anchor type="marker" marker="*"/>I am firme.<anchor type="marker" marker="*"/></l>
+<l n="269" rend="print_tln">*I am firme.*</l>
 </lg>
 
 <lg>
-<l n="344" rend="print_tln indent(9em)"><anchor type="marker" marker="*"/>Base, Base?<anchor type="marker" marker="*"/></l>
+<l n="344" rend="print_tln indent(9em)">*Base, Base?*</l>
 </lg>
 
 <lg>
-<l n="352" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>fine word: Legitimate.<anchor type="marker" marker="*"/></l>
+<l n="352" rend="print_tln indent(8em)">*fine word: Legitimate.*</l>
 </lg>
 
 <lg>
-<l n="382" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>and reuerence<anchor type="marker" marker="*"/></l>
+<l n="382" rend="print_tln indent(8em)">*and reuerence*</l>
 </lg>
 
 <lg>
-<l n="439" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>This villaine of mine comes vnder the</l>
-<l><anchor type="marker" marker="*"/>prediction; there’s Son against Father, the King fals from</l>
-<l><anchor type="marker" marker="*"/>byas of Nature, there’s Father against Childe. We haue</l>
-<l><anchor type="marker" marker="*"/>seene the best of our time. Machinations, hollownesse,</l>
-<l><anchor type="marker" marker="*"/>treacherie, and all ruinous disorders follow vs disquietly</l>
-<l n="444" rend="print_tln"><anchor type="marker" marker="*"/>to our Graues.<anchor type="marker" marker="*"/></l>
+<l n="439" rend="print_tln indent(6em)">*This villaine of mine comes vnder the</l>
+<l>*prediction; there’s Son against Father, the King fals from</l>
+<l>*byas of Nature, there’s Father against Childe. We haue</l>
+<l>*seene the best of our time. Machinations, hollownesse,</l>
+<l>*treacherie, and all ruinous disorders follow vs disquietly</l>
+<l n="444" rend="print_tln">*to our Graues.*</l>
 </lg>
 
 <lg>
-<l n="466" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>Fa, Sol, La, Me.<anchor type="marker" marker="*"/></l>
+<l n="466" rend="print_tln indent(4em)">*Fa, Sol, La, Me.*</l>
 </lg>
 
 <lg>
-<l n="487" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>I pray you haue a continent</l>
-<l><anchor type="marker" marker="*"/>forbearance till the speed of his rage goes slower: and as</l>
-<l><anchor type="marker" marker="*"/>I say, retire with me to my lodging, from whence I will</l>
-<l><anchor type="marker" marker="*"/>fitly bring you to heare my Lord speake: pray ye goe,</l>
-<l><anchor type="marker" marker="*"/>there’s my key: if you do stirre abroad, goe arm’d.</l>
-<l><hi rend="italic"><anchor type="marker" marker="*"/>Edg.</hi> Arm’d, Brother?</l>
-<l n="493" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Edm.<anchor type="marker" marker="*"/></hi> </l>
+<l n="487" rend="print_tln indent(8em)">*I pray you haue a continent</l>
+<l>*forbearance till the speed of his rage goes slower: and as</l>
+<l>*I say, retire with me to my lodging, from whence I will</l>
+<l>*fitly bring you to heare my Lord speake: pray ye goe,</l>
+<l>*there’s my key: if you do stirre abroad, goe arm’d.</l>
+<l><hi rend="italic">*Edg.</hi> Arm’d, Brother?</l>
+<l n="493" rend="print_tln"><hi rend="italic">*Edm.*</hi> </l>
 </lg>
 
 <lg>
-<l n="536" rend="print_tln"><anchor type="marker" marker="*"/>So may it come,<anchor type="marker" marker="*"/></l>
+<l n="536" rend="print_tln">*So may it come,*</l>
 </lg>
 
 <lg>
-<l n="589" rend="print_tln indent(9em)"><anchor type="marker" marker="*"/>of kindnesse<anchor type="marker" marker="*"/></l>
+<l n="589" rend="print_tln indent(9em)">*of kindnesse*</l>
 </lg>
 
 <lg>
-<l n="619" rend="print_tln indent(7em)"><anchor type="marker" marker="*"/>arise, away,<anchor type="marker" marker="*"/></l>
+<l n="619" rend="print_tln indent(7em)">*arise, away,*</l>
 </lg>
 
 <lg>
-<l n="621" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>goe too,<anchor type="marker" marker="*"/><space extent="10em"/><anchor type="marker" marker="*"/>, so<anchor type="marker" marker="*"/></l>
+<l n="621" rend="print_tln indent(8em)">*goe too,*<space extent="10em"/>*, so*</l>
 </lg>
 
 <lg>
-<l n="770" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>, speake Sir?<anchor type="marker" marker="*"/></l>
+<l n="770" rend="print_tln indent(6em)">*, speake Sir?*</l>
 </lg>
 
 <lg>
-<l n="774" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Alb.</hi> Pray Sir be patient.</l>
-<l n="775" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Lear.<anchor type="marker" marker="*"/></hi> </l>
+<l n="774" rend="print_tln"><hi rend="italic">*Alb.</hi> Pray Sir be patient.</l>
+<l n="775" rend="print_tln"><hi rend="italic">*Lear.*</hi> </l>
 </lg>
 
 <lg>
-<l n="787" rend="print_tln"><anchor type="marker" marker="*"/>Of what hath moued you.<anchor type="marker" marker="*"/></l>
+<l n="787" rend="print_tln">*Of what hath moued you.*</l>
 </lg>
 
 <lg>
-<l n="789" rend="print_tln indent(11em)"><anchor type="marker" marker="*"/>heare:<anchor type="marker" marker="*"/></l>
+<l n="789" rend="print_tln indent(11em)">*heare:*</l>
 </lg>
 
 <lg>
-<l n="823" rend="print_tln indent(16em)"><anchor type="marker" marker="*"/>Ha? Let it be so.<anchor type="marker" marker="*"/></l>
+<l n="823" rend="print_tln indent(16em)">*Ha? Let it be so.*</l>
 </lg>
 
 <lg>
-<l n="833" rend="print_tln indent(11em)"><anchor type="marker" marker="*"/>What <hi rend="italic">Oswald</hi>, hoa?<anchor type="marker" marker="*"/></l>
+<l n="833" rend="print_tln indent(11em)">*What <hi rend="italic">Oswald</hi>, hoa?*</l>
 </lg>
 
 <lg>
-<l n="842" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Gon.</hi> This man hath had good Counsell,</l>
-<l><anchor type="marker" marker="*"/>A hundred Knights?</l>
-<l><anchor type="marker" marker="*"/>’Tis politike, and safe to let him keepe</l>
-<l n="845" rend="print_tln"><anchor type="marker" marker="*"/>At point a hundred Knights: yes, that on euerie dreame,</l>
-<l><anchor type="marker" marker="*"/>Each buz, each fancie, each complaint, dislike,</l>
-<l><anchor type="marker" marker="*"/>He may enguard his dotage with their powres,</l>
-<l><anchor type="marker" marker="*"/>And hold our liues in mercy. <hi rend="italic">Oswald</hi>, I say.</l>
-<l><hi rend="italic"><anchor type="marker" marker="*"/>Alb.</hi> Well, you may feare too farre.</l>
-<l n="850" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Gon.</hi> Safer then trust too farre;</l>
-<l><anchor type="marker" marker="*"/>Let me still take away the harmes I feare,</l>
-<l><anchor type="marker" marker="*"/>Not feare still to be taken. I know his heart,</l>
-<l><anchor type="marker" marker="*"/>What he hath vtter’d I haue writ my Sister:</l>
-<l><anchor type="marker" marker="*"/>If she sustaine him, and his hundred Knights</l>
-<l n="855" rend="print_tln"><anchor type="marker" marker="*"/>When I haue shew’d th’vnfitnesse.[<anchor type="marker" marker="*"/>]</l>
+<l n="842" rend="print_tln"><hi rend="italic">*Gon.</hi> This man hath had good Counsell,</l>
+<l>*A hundred Knights?</l>
+<l>*’Tis politike, and safe to let him keepe</l>
+<l n="845" rend="print_tln">*At point a hundred Knights: yes, that on euerie dreame,</l>
+<l>*Each buz, each fancie, each complaint, dislike,</l>
+<l>*He may enguard his dotage with their powres,</l>
+<l>*And hold our liues in mercy. <hi rend="italic">Oswald</hi>, I say.</l>
+<l><hi rend="italic">*Alb.</hi> Well, you may feare too farre.</l>
+<l n="850" rend="print_tln"><hi rend="italic">*Gon.</hi> Safer then trust too farre;</l>
+<l>*Let me still take away the harmes I feare,</l>
+<l>*Not feare still to be taken. I know his heart,</l>
+<l>*What he hath vtter’d I haue writ my Sister:</l>
+<l>*If she sustaine him, and his hundred Knights</l>
+<l n="855" rend="print_tln">*When I haue shew’d th’vnfitnesse.[*]</l>
 </lg>
 
 <lg>
-<l n="919" rend="print_tln indent(14em)"><anchor type="marker" marker="*"/>How now<anchor type="marker" marker="*"/></l>
+<l n="919" rend="print_tln indent(14em)">*How now*</l>
 </lg>
 
 <lg>
-<l n="957" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>selfe.<anchor type="marker" marker="*"/></l>
+<l n="957" rend="print_tln indent(6em)">*selfe.*</l>
 </lg>
 
 <lg>
-<l n="961" rend="print_tln"><anchor type="marker" marker="*"/>Draw,<anchor type="marker" marker="*"/></l>
+<l n="961" rend="print_tln">*Draw,*</l>
 </lg>
 
 <lg>
-<l n="1016" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>said he?<anchor type="marker" marker="*"/></l>
+<l n="1016" rend="print_tln indent(8em)">*said he?*</l>
 </lg>
 
 <lg>
-<l n="1036" rend="print_tln indent(10em)"><anchor type="marker" marker="*"/>of that consort.<anchor type="marker" marker="*"/></l>
+<l n="1036" rend="print_tln indent(10em)">*of that consort.*</l>
 </lg>
 
 <lg>
-<l n="1118" rend="print_tln indent(14em)"><anchor type="marker" marker="*"/>Part.<anchor type="marker" marker="*"/></l>
+<l n="1118" rend="print_tln indent(14em)">*Part.*</l>
 </lg>
 
 <lg>
-<l n="1281" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Kent.</hi> No my Lord.<anchor type="marker" marker="*"/></l>
+<l n="1281" rend="print_tln"><hi rend="italic">*Kent.</hi> No my Lord.*</l>
 </lg>
 
 <lg>
-<l n="1296" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Kent.</hi> By <hi rend="italic">Iuno</hi>, I sweare I.</l>
-<l n="1297" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Lear.<anchor type="marker" marker="*"/></hi> </l>
+<l n="1296" rend="print_tln"><hi rend="italic">*Kent.</hi> By <hi rend="italic">Iuno</hi>, I sweare I.</l>
+<l n="1297" rend="print_tln"><hi rend="italic">*Lear.*</hi> </l>
 </lg>
 
 <lg>
-<l n="1322" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Foole.</hi> Winters not gon yet, if the wil’d Geese fly that way,</l>
-<l><anchor type="marker" marker="*"/>Fathers that weare rags, do make their Children blind,</l>
-<l><anchor type="marker" marker="*"/>But Fathers that beare bags, shall see their children kind.</l>
-<l><anchor type="marker" marker="*"/>Fortune that arrant whore, nere turns the key toth’ poore.</l>
-<l><anchor type="marker" marker="*"/>But for all this thou shalt haue as many Dolors for thy</l>
-<l n="1327" rend="print_tln"><anchor type="marker" marker="*"/>Daughters, as thou canst tell in a yeare.<anchor type="marker" marker="*"/></l>
+<l n="1322" rend="print_tln"><hi rend="italic">*Foole.</hi> Winters not gon yet, if the wil’d Geese fly that way,</l>
+<l>*Fathers that weare rags, do make their Children blind,</l>
+<l>*But Fathers that beare bags, shall see their children kind.</l>
+<l>*Fortune that arrant whore, nere turns the key toth’ poore.</l>
+<l>*But for all this thou shalt haue as many Dolors for thy</l>
+<l n="1327" rend="print_tln">*Daughters, as thou canst tell in a yeare.*</l>
 </lg>
 
 <lg>
-<l n="1350" rend="print_tln indent(10em)"><anchor type="marker" marker="*"/>and seekes<anchor type="marker" marker="*"/></l>
+<l n="1350" rend="print_tln indent(10em)">*and seekes*</l>
 </lg>
 
 <lg>
-<l n="1373" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Glo.</hi> Well my good Lord, I haue inform’d them so.</l>
-<l n="1374" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Lear.</hi> Inform’d them? Do’st thou vnderstand me man.<anchor type="marker" marker="*"/></l>
+<l n="1373" rend="print_tln"><hi rend="italic">*Glo.</hi> Well my good Lord, I haue inform’d them so.</l>
+<l n="1374" rend="print_tln"><hi rend="italic">*Lear.</hi> Inform’d them? Do’st thou vnderstand me man.*</l>
 </lg>
 
 <lg>
-<l n="1379" rend="print_tln"><anchor type="marker" marker="*"/>Are they inform’d of this? My breath and blood:<anchor type="marker" marker="*"/></l>
+<l n="1379" rend="print_tln">*Are they inform’d of this? My breath and blood:*</l>
 </lg>
 
 <lg>
-<l n="1397" rend="print_tln indent(1em)"><anchor type="marker" marker="*"/>me<anchor type="marker" marker="*"/><space extent="4em"/><anchor type="marker" marker="*"/>rising<anchor type="marker" marker="*"/><space extent="3em"/><anchor type="marker" marker="*"/>But downe.<anchor type="marker" marker="*"/></l>
+<l n="1397" rend="print_tln indent(1em)">*me*<space extent="4em"/>*rising*<space extent="3em"/>*But downe.*</l>
 </lg>
 
 <lg>
-<l n="1419" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Lear.</hi> Say? How is that?</l>
-<l><hi rend="italic"><anchor type="marker" marker="*"/>Reg.</hi> I cannot thinke my Sister in the least</l>
-<l><anchor type="marker" marker="*"/>Would faile her Obligation. If Sir perchance</l>
-<l><anchor type="marker" marker="*"/>She haue restrained the Riots of your Followres,</l>
-<l><anchor type="marker" marker="*"/>’Tis on such ground, and to such wholesome end,</l>
-<l n="1424" rend="print_tln"><anchor type="marker" marker="*"/>As cleeres her from all blame.<anchor type="marker" marker="*"/></l>
+<l n="1419" rend="print_tln"><hi rend="italic">*Lear.</hi> Say? How is that?</l>
+<l><hi rend="italic">*Reg.</hi> I cannot thinke my Sister in the least</l>
+<l>*Would faile her Obligation. If Sir perchance</l>
+<l>*She haue restrained the Riots of your Followres,</l>
+<l>*’Tis on such ground, and to such wholesome end,</l>
+<l n="1424" rend="print_tln">*As cleeres her from all blame.*</l>
 </lg>
 
 <lg>
-<l n="1599" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Corn.</hi> Whether is he going?</l>
-<l n="1600" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Glo.</hi> He cals to Horse,<anchor type="marker" marker="*"/></l>
+<l n="1599" rend="print_tln"><hi rend="italic">*Corn.</hi> Whether is he going?</l>
+<l n="1600" rend="print_tln"><hi rend="italic">*Glo.</hi> He cals to Horse,*</l>
 </lg>
 
 <lg>
-<l n="1631" rend="print_tln"><anchor type="marker" marker="*"/>Who haue, as who haue not, that their great Starres</l>
-<l><anchor type="marker" marker="*"/>Thron’d and set high; Seruants, who seeme no lesse,</l>
-<l><anchor type="marker" marker="*"/>Which are to France the Spies and Speculations</l>
-<l><anchor type="marker" marker="*"/>Intelligent of our State. What hath bin seene,</l>
-<l n="1635" rend="print_tln"><anchor type="marker" marker="*"/>Either in snuffes, and packings of the Dukes,</l>
-<l><anchor type="marker" marker="*"/>Or the hard Reine which both of them hath borne</l>
-<l><anchor type="marker" marker="*"/>Against the old kinde King; or something deeper,</l>
-<l n="1638" rend="print_tln"><anchor type="marker" marker="*"/>Whereof (perchance) these are but furnishings.<anchor type="marker" marker="*"/></l>
+<l n="1631" rend="print_tln">*Who haue, as who haue not, that their great Starres</l>
+<l>*Thron’d and set high; Seruants, who seeme no lesse,</l>
+<l>*Which are to France the Spies and Speculations</l>
+<l>*Intelligent of our State. What hath bin seene,</l>
+<l n="1635" rend="print_tln">*Either in snuffes, and packings of the Dukes,</l>
+<l>*Or the hard Reine which both of them hath borne</l>
+<l>*Against the old kinde King; or something deeper,</l>
+<l n="1638" rend="print_tln">*Whereof (perchance) these are but furnishings.*</l>
 </lg>
 
 <lg>
-<l n="1651" rend="print_tln indent(10em)"><anchor type="marker" marker="*"/>in which your pain<anchor type="marker" marker="*"/></l>
+<l n="1651" rend="print_tln indent(10em)">*in which your pain*</l>
 </lg>
 
 <lg>
-<l n="1734" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Foole.</hi> This is a braue night to coole a Curtizan:</l>
-<l><anchor type="marker" marker="*"/>Ile speake a Prophesie ere I go:</l>
-<l><anchor type="marker" marker="*"/>When Priests are more in word, then matter;</l>
-<l><anchor type="marker" marker="*"/>When Brewers marre their Malt with water;</l>
-<l><anchor type="marker" marker="*"/>When Nobles are their Taylors Tutors,</l>
-<l><anchor type="marker" marker="*"/>No Heretiques burn’d, but wenches Sutors;</l>
-<l n="1740" rend="print_tln"><anchor type="marker" marker="*"/>When euery Case in Law, is right;</l>
-<l><anchor type="marker" marker="*"/>No Squire in debt, nor no poore Knight;</l>
-<l><anchor type="marker" marker="*"/>When Slanders do not liue in Tongues;</l>
-<l><anchor type="marker" marker="*"/>Nor Cut-purses come not to throngs;</l>
-<l><anchor type="marker" marker="*"/>When Vsurers tell their Gold i’th’Field,</l>
-<l n="1745" rend="print_tln"><anchor type="marker" marker="*"/>And Baudes, and whores, do Churches build,</l>
-<l><anchor type="marker" marker="*"/>Then shal the Realme of <hi rend="italic">Albion</hi>, come to great confusion:</l>
-<l><anchor type="marker" marker="*"/>Then comes the time, who liues to see’t,</l>
-<l><anchor type="marker" marker="*"/>That going shalbe vs’d with feet.</l>
-<l n="1750" rend="print_tln"><anchor type="marker" marker="*"/>This prophecie <hi rend="italic">Merlin</hi> shall make, for I liue before his time.[<anchor type="marker" marker="*"/>]</l>
+<l n="1734" rend="print_tln"><hi rend="italic">*Foole.</hi> This is a braue night to coole a Curtizan:</l>
+<l>*Ile speake a Prophesie ere I go:</l>
+<l>*When Priests are more in word, then matter;</l>
+<l>*When Brewers marre their Malt with water;</l>
+<l>*When Nobles are their Taylors Tutors,</l>
+<l>*No Heretiques burn’d, but wenches Sutors;</l>
+<l n="1740" rend="print_tln">*When euery Case in Law, is right;</l>
+<l>*No Squire in debt, nor no poore Knight;</l>
+<l>*When Slanders do not liue in Tongues;</l>
+<l>*Nor Cut-purses come not to throngs;</l>
+<l>*When Vsurers tell their Gold i’th’Field,</l>
+<l n="1745" rend="print_tln">*And Baudes, and whores, do Churches build,</l>
+<l>*Then shal the Realme of <hi rend="italic">Albion</hi>, come to great confusion:</l>
+<l>*Then comes the time, who liues to see’t,</l>
+<l>*That going shalbe vs’d with feet.</l>
+<l n="1750" rend="print_tln">*This prophecie <hi rend="italic">Merlin</hi> shall make, for I liue before his time.[*]</l>
 </lg>
 
 <lg>
-<l n="1798" rend="print_tln"><anchor type="marker" marker="*"/>To shut me out? Poure on, I will endure:</l>
-<l n="1799" rend="print_tln"><anchor type="marker" marker="*"/>In such a night as this?<anchor type="marker" marker="*"/></l>
+<l n="1798" rend="print_tln">*To shut me out? Poure on, I will endure:</l>
+<l n="1799" rend="print_tln">*In such a night as this?*</l>
 </lg>
 
 <lg>
-<l n="1807" rend="print_tln"><anchor type="marker" marker="*"/>In Boy, go first. You houselesse pouertie,</l>
-<l n="1808" rend="print_tln"><anchor type="marker" marker="*"/>Nay get thee in; Ile pray, and then Ile sleepe.<anchor type="marker" marker="*"/></l>
+<l n="1807" rend="print_tln">*In Boy, go first. You houselesse pouertie,</l>
+<l n="1808" rend="print_tln">*Nay get thee in; Ile pray, and then Ile sleepe.*</l>
 </lg>
 
 <lg>
-<l n="1819" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Edg.</hi> Fathom, and halfe, Fathom and halfe; poore <hi rend="italic">Tom</hi>.<anchor type="marker" marker="*"/></l>
+<l n="1819" rend="print_tln"><hi rend="italic">*Edg.</hi> Fathom, and halfe, Fathom and halfe; poore <hi rend="italic">Tom</hi>.*</l>
 </lg>
 
 <lg>
-<l n="1823" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>a spirite,<anchor type="marker" marker="*"/></l>
+<l n="1823" rend="print_tln indent(8em)">*a spirite,*</l>
 </lg>
 
 <lg>
-<l n="1828" rend="print_tln indent(12em)"><anchor type="marker" marker="*"/>Humh,<anchor type="marker" marker="*"/></l>
+<l n="1828" rend="print_tln indent(12em)">*Humh,*</l>
 </lg>
 
 <lg>
-<l n="1833" rend="print_tln indent(14em)"><anchor type="marker" marker="*"/>Flame,</l>
-<l n="1834" rend="print_tln"><anchor type="marker" marker="*"/>through<anchor type="marker" marker="*"/></l>
+<l n="1833" rend="print_tln indent(14em)">*Flame,</l>
+<l n="1834" rend="print_tln">*through*</l>
 </lg>
 
 <lg>
-<l n="1839" rend="print_tln indent(10em)"><anchor type="marker" marker="*"/>O do, de, do, de, do de,<anchor type="marker" marker="*"/></l>
+<l n="1839" rend="print_tln indent(10em)">*O do, de, do, de, do de,*</l>
 </lg>
 
 <lg>
-<l n="1843" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>and there.[<anchor type="marker" marker="*"/>]</l>
+<l n="1843" rend="print_tln indent(4em)">*and there.[*]</l>
 </lg>
 
 <lg>
-<l n="1879" rend="print_tln indent(5em)"><anchor type="marker" marker="*"/>Sayes suum, mun,<anchor type="marker" marker="*"/></l>
+<l n="1879" rend="print_tln indent(5em)">*Sayes suum, mun,*</l>
 </lg>
 
 <lg>
-<l n="1982" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>not<anchor type="marker" marker="*"/></l>
+<l n="1982" rend="print_tln indent(8em)">*not*</l>
 </lg>
 
 <lg>
-<l n="2010" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Foole.</hi> No, he’s a Yeoman, that ha’s a Gentleman to</l>
-<l><anchor type="marker" marker="*"/>his Sonne: for hee’s a mad Yeoman that sees his Sonne a</l>
-<l><anchor type="marker" marker="*"/>Gentleman before him.</l>
-<l n="2013" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Lear.<anchor type="marker" marker="*"/></hi> </l>
+<l n="2010" rend="print_tln"><hi rend="italic">*Foole.</hi> No, he’s a Yeoman, that ha’s a Gentleman to</l>
+<l>*his Sonne: for hee’s a mad Yeoman that sees his Sonne a</l>
+<l>*Gentleman before him.</l>
+<l n="2013" rend="print_tln"><hi rend="italic">*Lear.*</hi> </l>
 </lg>
 
 <lg>
-<l n="2031" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>sese:<anchor type="marker" marker="*"/></l>
+<l n="2031" rend="print_tln indent(8em)">*sese:*</l>
 </lg>
 
 <lg>
-<l n="2040" rend="print_tln indent(14em)"><anchor type="marker" marker="*"/>and rest<anchor type="marker" marker="*"/></l>
+<l n="2040" rend="print_tln indent(14em)">*and rest*</l>
 </lg>
 
 <lg>
-<l n="2043" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Foole.</hi> And Ile go to bed at noone.<anchor type="marker" marker="*"/></l>
+<l n="2043" rend="print_tln"><hi rend="italic">*Foole.</hi> And Ile go to bed at noone.*</l>
 </lg>
 
 <lg>
-<l n="2184" rend="print_tln indent(12em)"><anchor type="marker" marker="*"/>Welcome then,</l>
-<l><anchor type="marker" marker="*"/>Thou vnsubstantiall ayre that I embrace:</l>
-<l><anchor type="marker" marker="*"/>The Wretch that thou hast blowne vnto the worst,</l>
-<l n="2187" rend="print_tln"><anchor type="marker" marker="*"/>Owes nothing to thy blasts.<anchor type="marker" marker="*"/></l>
+<l n="2184" rend="print_tln indent(12em)">*Welcome then,</l>
+<l>*Thou vnsubstantiall ayre that I embrace:</l>
+<l>*The Wretch that thou hast blowne vnto the worst,</l>
+<l n="2187" rend="print_tln">*Owes nothing to thy blasts.*</l>
 </lg>
 
 <lg>
-<l n="2243" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>And yet I must:<anchor type="marker" marker="*"/></l>
+<l n="2243" rend="print_tln indent(4em)">*And yet I must:*</l>
 </lg>
 
 <lg>
-<l n="2295" rend="print_tln"><anchor type="marker" marker="*"/>Oh, the difference of man, and man,<anchor type="marker" marker="*"/></l>
+<l n="2295" rend="print_tln">*Oh, the difference of man, and man,*</l>
 </lg>
 
 <lg>
-<l n="2479" rend="print_tln indent(12em)"><anchor type="marker" marker="*"/>him<anchor type="marker" marker="*"/></l>
+<l n="2479" rend="print_tln indent(12em)">*him*</l>
 </lg>
 
 <lg>
-<l n="2539" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>i’th’clout:<anchor type="marker" marker="*"/></l>
+<l n="2539" rend="print_tln indent(4em)">*i’th’clout:*</l>
 </lg>
 
 <lg>
-<l n="2543" rend="print_tln indent(7em)"><anchor type="marker" marker="*"/>with a white beard<anchor type="marker" marker="*"/>,</l>
+<l n="2543" rend="print_tln indent(7em)">*with a white beard*,</l>
 </lg>
 
 <lg>
-<l n="2597" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>Change places, and<anchor type="marker" marker="*"/></l>
+<l n="2597" rend="print_tln indent(4em)">*Change places, and*</l>
 </lg>
 
 <lg>
-<l n="2608" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>Place sinnes with Gold, and</l>
-<l><anchor type="marker" marker="*"/>the strong Lance of Iustice, hurtlesse breakes: Arme it in</l>
-<l><anchor type="marker" marker="*"/>ragges, a Pigmies straw do’s pierce it. None do’s offend,</l>
-<l><anchor type="marker" marker="*"/>none, I say none, Ile able ’em; take that of me my Friend,</l>
-<l n="2612" rend="print_tln"><anchor type="marker" marker="*"/>who haue the power to seale th’accusers lips.<anchor type="marker" marker="*"/></l>
+<l n="2608" rend="print_tln indent(8em)">8Place sinnes with Gold, and</l>
+<l>*the strong Lance of Iustice, hurtlesse breakes: Arme it in</l>
+<l>*ragges, a Pigmies straw do’s pierce it. None do’s offend,</l>
+<l>*none, I say none, Ile able ’em; take that of me my Friend,</l>
+<l n="2612" rend="print_tln">*who haue the power to seale th’accusers lips.*</l>
 </lg>
 
 <lg>
-<l n="2627" rend="print_tln indent(10em)"><anchor type="marker" marker="*"/>Ile put’t in proofe,<anchor type="marker" marker="*"/></l>
+<l n="2627" rend="print_tln indent(10em)">*Ile put’t in proofe,*</l>
 </lg>
 
 <lg>
-<l n="2632" rend="print_tln indent(7em)"><anchor type="marker" marker="*"/>Daughter—<anchor type="marker" marker="*"/></l>
+<l n="2632" rend="print_tln indent(7em)">*Daughter—*</l>
 </lg>
 
 <lg>
-<l n="2639" rend="print_tln indent(9em)"><anchor type="marker" marker="*"/>a man<anchor type="marker" marker="*"/></l>
+<l n="2639" rend="print_tln indent(9em)">*a man*</l>
 </lg>
 
 <lg>
-<l n="2641" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>smugge<anchor type="marker" marker="*"/></l>
+<l n="2641" rend="print_tln indent(4em)">*smugge*</l>
 </lg>
 
 <lg>
-<l n="2645" rend="print_tln indent(12em)"><anchor type="marker" marker="*"/>Sa, sa, sa, sa.<anchor type="marker" marker="*"/></l>
+<l n="2645" rend="print_tln indent(12em)">*Sa, sa, sa, sa.*</l>
 </lg>
 
 <lg>
-<l n="2816" rend="print_tln"><anchor type="marker" marker="*"/>Not an houre more, nor lesse:<anchor type="marker" marker="*"/></l>
+<l n="2816" rend="print_tln">*Not an houre more, nor lesse:*</l>
 </lg>
 
 <lg>
-<l n="2826" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>I am.<anchor type="marker" marker="*"/></l>
+<l n="2826" rend="print_tln indent(6em)">*I am.*</l>
 </lg>
 
 <lg>
-<l n="2890" rend="print_tln"><anchor type="marker" marker="*"/>And machination ceases.<anchor type="marker" marker="*"/></l>
+<l n="2890" rend="print_tln">*And machination ceases.*</l>
 </lg>
 
 <lg>
-<l n="2936" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Glo.</hi> And that’s true too.[<anchor type="marker" marker="*"/>]</l>
+<l n="2936" rend="print_tln"><hi rend="italic">*Glo.</hi> And that’s true too.[*]</l>
 </lg>
 
 <lg>
-<l n="2948" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>no, no:<anchor type="marker" marker="*"/></l>
+<l n="2948" rend="print_tln indent(6em)">*no, no:*</l>
 </lg>
 
 <lg>
-<l n="3019" rend="print_tln"><anchor type="marker" marker="*"/>Dispose of them, of me, the walls is thine:<anchor type="marker" marker="*"/></l>
+<l n="3019" rend="print_tln">*Dispose of them, of me, the walls is thine:*</l>
 </lg>
 
 <lg>
-<l n="3035" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Gon.</hi> An enterlude.</l>
-<l n="3036" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Alb.<anchor type="marker" marker="*"/></hi> </l>
+<l n="3035" rend="print_tln"><hi rend="italic">*Gon.</hi> An enterlude.</l>
+<l n="3036" rend="print_tln"><hi rend="italic">*Alb.*</hi> </l>
 </lg>
 
 <lg>
-<l n="3037" rend="print_tln"><anchor type="marker" marker="*"/>Let the Trumpet sound:<anchor type="marker" marker="*"/></l>
+<l n="3037" rend="print_tln">*Let the Trumpet sound:*</l>
 </lg>
 
 <lg>
-<l n="3100" rend="print_tln"><anchor type="marker" marker="*"/>What safe, and nicely I might well delay,<anchor type="marker" marker="*"/></l>
+<l n="3100" rend="print_tln">*What safe, and nicely I might well delay,*</l>
 </lg>
 
 <lg>
-<l n="3113" rend="print_tln indent(14em)"><anchor type="marker" marker="*"/>hold Sir,<anchor type="marker" marker="*"/></l>
+<l n="3113" rend="print_tln indent(14em)">*hold Sir,*</l>
 </lg>
 
 <lg>
-<l n="3135" rend="print_tln indent(14em)"><anchor type="marker" marker="*"/>tis true,<anchor type="marker" marker="*"/></l>
+<l n="3135" rend="print_tln indent(14em)">*tis true,*</l>
 </lg>
 
 <lg>
-<l n="3170" rend="print_tln indent(8em)"><anchor type="marker" marker="*"/>O helpe.<anchor type="marker" marker="*"/></l>
+<l n="3170" rend="print_tln indent(8em)">*O helpe.*</l>
 </lg>
 
 <lg>
-<l n="3171" rend="print_tln indent(2em)"><anchor type="marker" marker="*"/>Speake man.</l>
+<l n="3171" rend="print_tln indent(2em)">*Speake man.</l>
 </lg>
 
 <lg>
-<l n="3172" rend="print_tln"><hi rend="italic"><anchor type="marker" marker="*"/>Edg.<anchor type="marker" marker="*"/></hi> </l>
+<l n="3172" rend="print_tln"><hi rend="italic">*Edg.*</hi> </l>
 </lg>
 
 <lg>
-<l n="3175" rend="print_tln"><anchor type="marker" marker="*"/>O she’s dead.<anchor type="marker" marker="*"/></l>
+<l n="3175" rend="print_tln">*O she’s dead.*</l>
 </lg>
 
 <lg>
-<l n="3247" rend="print_tln indent(4em)"><anchor type="marker" marker="*"/>This is a dull sight,<anchor type="marker" marker="*"/></l>
+<l n="3247" rend="print_tln indent(4em)">*This is a dull sight,*</l>
 </lg>
 
 <lg>
-<l n="3269" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>great<anchor type="marker" marker="*"/></l>
+<l n="3269" rend="print_tln indent(6em)">*great*</l>
 </lg>
 
 <lg>
-<l n="3280" rend="print_tln indent(6em)"><anchor type="marker" marker="*"/>neuer, neuer.<anchor type="marker" marker="*"/></l>
+<l n="3280" rend="print_tln indent(6em)">*neuer, neuer.*</l>
 </lg>
 
 <lg>
-<l n="3282" rend="print_tln"><anchor type="marker" marker="*"/>Do you see this? Looke on her? Looke her lips,</l>
-<l n="3283" rend="print_tln"><anchor type="marker" marker="*"/>Looke there, looke there.<anchor type="marker" marker="*"/></l>
+<l n="3282" rend="print_tln">*Do you see this? Looke on her? Looke her lips,</l>
+<l n="3283" rend="print_tln">*Looke there, looke there.*</l>
 </lg>
 
 </body>
@@ -6787,42 +6778,42 @@ It is obvious that there is no room for <title level="m">Tim</title> between <ti
 
 <floatingText xml:id="text_monmouth">
 <body>
-<head>[From <title level="m">The British History</title>, tr. Aaron Thompson, 1718.]</head>
+<head>[From <title level="m"></hi>The British History</title>, tr. Aaron Thompson, 1718.]</head>
 
 <div>
 <head xml:id="head_001">[<hi rend="italic">50</hi>] Book II. Chap. XI. Leir, <hi rend="italic">the Son of</hi> Bladud, <hi rend="italic">having no Son, divides his Kingdom among his Daughters</hi>.</head>
 
-<p>After this unhappy Fate of <hi rend="italic">Bladud</hi>, [<ref targType="note_cn" target="#dpcn_02">DP 2</ref>] <title level="m">Leir</title> his Son was advanced to the Throne, and nobly governed his Country sixty Years. He built upon the River <hi rend="italic">Sore</hi> a City called in the <hi rend="italic">British</hi> Tongue <hi rend="italic">Kaerleir</hi>, in the <hi rend="italic">Saxon Leircestre</hi>. <anchor type="xref" xml:id="anchor_0035-a"/>He was without Male Issue, but had three Daughters whose Names were [<ref targType="note_cn" target="#dpcn_15">DP 15</ref>, <ref targType="note_cn" target="#dpcn_16">16</ref>, <ref targType="note_cn" target="#dpcn_17">17</ref>] <hi rend="italic">Gonorilla</hi>, <hi rend="italic">Regau</hi>, and <hi rend="italic">Cordeilla</hi>, of whom he was doatingly fond, but [<ref targType="note_cn" target="#cn_0131-02"><hi rend="smcaps">tln</hi> 131</ref>] especially of his youngest <hi rend="italic">Cordeilla</hi>.<anchor type="xref" xml:id="anchor_0035-b"/> When he began to grow old, he had Thoughts of dividing his Kingdom among them, and of bestowing them on such Husbands, as were fit to be advanced to the Government with them. <anchor type="xref" xml:id="anchor_0036-a"/>But [<ref targType="note_cn" target="#cn_0053-02"><hi rend="smcaps">tln</hi> 53–8</ref>] to make Tryal who was the worthiest of the best Part of his Kingdom, he went to each of them to ask, which of [<hi rend="italic">51</hi>] them loved him most.<anchor type="xref" xml:id="anchor_0036-b"/> The Question being proposed, <hi rend="italic">Gonorilla</hi> the Eldest made Answer, <quote>That she called Heaven to Witness, she loved him more than her own Soul.</quote> The Father reply’d, <quote>Since you have preferred my declining Age before your own Life, I will marry you, my dearest Daughter, to whomsoever you shall make Choice of, and give with you the third Part of my Kingdom.</quote> <anchor type="xref" xml:id="anchor_0037-a"/>Then <hi rend="italic">Regau</hi>, the second Daughter, willing after the Example of her Sister, to prevail upon her Fathers good Nature, answered with an Oath, <quote>That she could not otherwise express her Thoughts, but that she loved him [<ref targType="note_cn" target="#cn_0080-02"><hi rend="smcaps">tln</hi> 80–1</ref>] above all Creatures.</quote><anchor type="xref" xml:id="anchor_0037-b"/> <anchor type="xref" xml:id="anchor_0038-a"/>The [<ref targType="note_cn" target="#cn_0499-02"><hi rend="smcaps">tln</hi> 499</ref>] credulous Father upon this made her the same Promise that he did to her elder Sister, that is, the Choice of a Husband, with the third Part of his Kingdom.<anchor type="xref" xml:id="anchor_0038-b"/> But <hi rend="italic">Cordeilla</hi> the youngest, understanding how easily he was satisfied with the flattering Expressions of her Sisters, was desirous to make Tryal of his Affection after a different Manner. <quote>My Father,</quote> said she, <quote>Is there any Daughter that can love her Father more than Duty requires? In my Opinion, whoever pretends to it, must disguise her real Sentiments under the Veil of Flattery. I have always loved you as a Father, nor do I yet depart from my purposed Duty; and if you insist to have something more extorted from me, [<hi rend="italic">52</hi>] hear now the Greatness of my Affection, which I always bear you, and take this for a short Answer to all your Questions; Look how much you have, so much is your Value, and so much I love you.</quote> The Father supposing that she spoke this out of the Abundance of her Heart, was highly provoked, and immediately reply’d; <quote>Since you have so far despised my Old-age, as not to think me worthy the Love that your Sisters express for me, you shall have from me the like Regard, and shall be excluded from any Share with your Sisters in my Kingdom. Notwithstanding I do not say but that since you are my Daughter, I will marry you to some Foreigner, if Fortune offers you any such Husband; but will never, I do assure you, make it my Business to procure so honourable a Match for you as for your Sisters; because though I have hitherto loved you more than them, you have in Requital thought me less worthy your Affection than they.</quote> <anchor type="xref" xml:id="anchor_0039-a"/>And without farther Delay, after [<ref targType="note_cn" target="#cn_0006"><hi rend="smcaps">tln</hi> 6</ref>] Consultation with his Nobility, he bestowed his two other Daughters upon the [<ref targType="note_cn" target="#dpcn_05">DP 5</ref>] Dukes of <hi rend="italic">Cornwal</hi> and <hi rend="italic">Albania</hi>, with half the Island at present, but after his Death, the Inheritance of the whole Monarchy of <hi rend="italic">Britain</hi>.<anchor type="xref" xml:id="anchor_0039-b"/></p>
+<p>After this unhappy Fate of <hi rend="italic">Bladud</hi>, [<ref targType="note_cn" target="#dpcn_02">DP 2</ref>] <title level="m">Leir</title> his Son was advanced to the Throne, and nobly governed his Country sixty Years. He built upon the River <hi rend="italic">Sore</hi> a City called in the <hi rend="italic">British</hi> Tongue <hi rend="italic">Kaerleir</hi>, in the <hi rend="italic">Saxon Leircestre</hi>. He was without Male Issue, but had three Daughters whose Names were [<ref targType="note_cn" target="#dpcn_15">DP 15</ref>, <ref targType="note_cn" target="#dpcn_16">16</ref>, <ref targType="note_cn" target="#dpcn_17">17</ref>] <hi rend="italic">Gonorilla</hi>, <hi rend="italic">Regau</hi>, and <hi rend="italic">Cordeilla</hi>, of whom he was doatingly fond, but [<ref targType="note_cn" target="#cn_0131-02"><hi rend="smcaps">tln</hi> 131</ref>] especially of his youngest <hi rend="italic">Cordeilla</hi>. When he began to grow old, he had Thoughts of dividing his Kingdom among them, and of bestowing them on such Husbands, as were fit to be advanced to the Government with them. But [<ref targType="note_cn" target="#cn_0053-02"><hi rend="smcaps">tln</hi> 53–8</ref>] to make Tryal who was the worthiest of the best Part of his Kingdom, he went to each of them to ask, which of [<hi rend="italic">51</hi>] them loved him most. The Question being proposed, <hi rend="italic">Gonorilla</hi> the Eldest made Answer, <quote>That she called Heaven to Witness, she loved him more than her own Soul.</quote> The Father reply’d, <quote>Since you have preferred my declining Age before your own Life, I will marry you, my dearest Daughter, to whomsoever you shall make Choice of, and give with you the third Part of my Kingdom.</quote> Then <hi rend="italic">Regau</hi>, the second Daughter, willing after the Example of her Sister, to prevail upon her Fathers good Nature, answered with an Oath, <quote>That she could not otherwise express her Thoughts, but that she loved him [<ref targType="note_cn" target="#cn_0080-02"><hi rend="smcaps">tln</hi> 80–1</ref>] above all Creatures. The [<ref targType="note_cn" target="#cn_0499-02"><hi rend="smcaps">tln</hi> 499</ref>] credulous Father upon this made her the same Promise that he did to her elder Sister, that is, the Choice of a Husband, with the third Part of his Kingdom. But <hi rend="italic">Cordeilla</hi> the youngest, understanding how easily he was satisfied with the flattering Expressions of her Sisters, was desirous to make Tryal of his Affection after a different Manner. <quote>My Father,</quote> said she, <quote>Is there any Daughter that can love her Father more than Duty requires? In my Opinion, whoever pretends to it, must disguise her real Sentiments under the Veil of Flattery. I have always loved you as a Father, nor do I yet depart from my purposed Duty; and if you insist to have something more extorted from me, [<hi rend="italic">52</hi>] hear now the Greatness of my Affection, which I always bear you, and take this for a short Answer to all your Questions; Look how much you have, so much is your Value, and so much I love you.</quote> The Father supposing that she spoke this out of the Abundance of her Heart, was highly provoked, and immediately reply’d; <quote>Since you have so far despised my Old-age, as not to think me worthy the Love that your Sisters express for me, you shall have from me the like Regard, and shall be excluded from any Share with your Sisters in my Kingdom. Notwithstanding I do not say but that since you are my Daughter, I will marry you to some Foreigner, if Fortune offers you any such Husband; but will never, I do assure you, make it my Business to procure so honourable a Match for you as for your Sisters; because though I have hitherto loved you more than them, you have in Requital thought me less worthy your Affection than they.</quote> And without farther Delay, after [<ref targType="note_cn" target="#cn_0006"><hi rend="smcaps">tln</hi> 6</ref>] Consultation with his Nobility, he bestowed his two other Daughters upon the [<ref targType="note_cn" target="#dpcn_05">DP 5</ref>] Dukes of <hi rend="italic">Cornwal</hi> and <hi rend="italic">Albania</hi>, with half the Island at present, but after his Death, the Inheritance of the whole Monarchy of <hi rend="italic">Britain</hi>.</p>
 
-<p><anchor type="xref" xml:id="anchor_0040-a"/>It happened after this, that [<ref targType="note_cn" target="#dpcn_03">DP 3–4</ref>] <hi rend="italic">Aganippus</hi> King of the <hi rend="italic">Franks</hi>, having heard of the [<hi rend="italic">53</hi>] Fame of <hi rend="italic">Cordeilla</hi>’s Beauty, forthwith sent his Ambassadors to the King to desire <hi rend="italic">Cordeilla</hi> in Marriage.<anchor type="xref" xml:id="anchor_0040-b"/> The Father retaining yet his Anger to her, made Answer; <quote>That he was very willing to bestow his Daughter, but without either Money or Territories; because he had already given away his Kingdom with all his Treasure, to his elder Daughters, <hi rend="italic">Gonorilla</hi> and <hi rend="italic">Regau</hi>.</quote> When this was told <hi rend="italic">Aganippus</hi>, he being very much in Love with the Lady, sent again to King <title level="m">Leir</title>, to tell him, <quote>That he had Money and Territories enough, as he possessed the third Part of <hi rend="italic">Gaul</hi>, and desired no more than his Daughter only, that he might have Heirs by her.</quote> At last the Match was concluded, and <hi rend="italic">Cordeilla</hi> was sent to <hi rend="italic">Gaul</hi>, and married to <hi rend="italic">Aganippus</hi>.</p>
+<p>It happened after this, that [<ref targType="note_cn" target="#dpcn_03">DP 3–4</ref>] <hi rend="italic">Aganippus</hi> King of the <hi rend="italic">Franks</hi>, having heard of the [<hi rend="italic">53</hi>] Fame of <hi rend="italic">Cordeilla</hi>’s Beauty, forthwith sent his Ambassadors to the King to desire <hi rend="italic">Cordeilla</hi> in Marriage. The Father retaining yet his Anger to her, made Answer; <quote>That he was very willing to bestow his Daughter, but without either Money or Territories; because he had already given away his Kingdom with all his Treasure, to his elder Daughters, <hi rend="italic">Gonorilla</hi> and <hi rend="italic">Regau</hi>.</quote> When this was told <hi rend="italic">Aganippus</hi>, he being very much in Love with the Lady, sent again to King <title level="m">Leir</title>, to tell him, <quote>That he had Money and Territories enough, as he possessed the third Part of <hi rend="italic">Gaul</hi>, and desired no more than his Daughter only, that he might have Heirs by her.</quote> At last the Match was concluded, and <hi rend="italic">Cordeilla</hi> was sent to <hi rend="italic">Gaul</hi>, and married to <hi rend="italic">Aganippus</hi>.</p>
 </div>
 
 <div>
-<head>CHAP. XII. Leir <hi rend="italic">finding the Ingratitude of his two eldest Daughters, betakes himself to his youngest</hi> Cordeilla <hi rend="italic">in</hi> Gaul.</head>
+<head><hi rend="bold">CHAP. XII. Leir <hi rend="italic">finding the Ingratitude of his two eldest Daughters, betakes himself to his youngest</hi> Cordeilla <hi rend="italic">in</hi> Gaul.</hi></head>
 
-<p><anchor type="xref" xml:id="anchor_0041-a"/>A Long Time after this, when <title level="m">Leir</title> came to be infirm through Old-age, [<ref targType="note_cn" target="#cn_0045-03"><hi rend="smcaps">tln</hi> 45–50</ref>] the two Dukes, upon whom he had bestowed <hi rend="italic">Britain</hi> with his two Daughters, made an [<hi rend="italic">54</hi>] Insurrection against him, and deprived him of his Kingdom, and of all Regal Authority which he had hitherto exercised with great Power and Glory.<anchor type="xref" xml:id="anchor_0041-b"/> <anchor type="xref" xml:id="anchor_0042-a"/><anchor type="xref" xml:id="anchor_0043-a"/>But at last they came to an Agreement, and [<ref targType="note_cn" target="#dpcn_06">DP 6</ref>] <hi rend="italic">Maglaunus</hi> Duke of <hi rend="italic">Albania</hi>, one of his Sons-in-Law, was to allow him and sixty Soldiers, who were to be kept for State, a Subsistence at his own House.<anchor type="xref" xml:id="anchor_0042-b"/> After two Years Stay with his Son-in-Law, his Daughter <hi rend="italic">Gonorilla</hi> grudged at the Number of his Men, who began to upbraid the Ministers of the Court with their scanty Allowance; and having spoke to her Husband about it, gave Orders that [<ref targType="note_cn" target="#cn_0810-02"><hi rend="smcaps">tln</hi> 810</ref>] the Number of her Fathers Attendants be reduced to thirty, and the rest discharged.<anchor type="xref" xml:id="anchor_0043-b"/> <anchor type="xref" xml:id="anchor_0044-a"/>The Father resenting this Treatment, left <hi rend="italic">Maglaunus</hi>, and went to [<ref targType="note_cn" target="#dpcn_05">DP 5</ref>] <hi rend="italic">Henuinus</hi>, Duke of <hi rend="italic">Cornwal</hi>, to whom he had married his Daughter <hi rend="italic">Regau</hi>.<anchor type="xref" xml:id="anchor_0044-b"/> Here he met with an honourable Reception, but before the Year was at an End, a Quarrel happened between the two Families, which raised <hi rend="italic">Regau</hi>’s Indignation; so that she commanded her Father to discharge all his Attendants but five, and to be contented with their Service. This second Affliction was unsupportable to him, and made him return again to his former Daughter, with Hopes that the Misery of his Condition might move in her some Sentiments of Filial Piety, and that he with his Family might find a Subsistence from her. <anchor type="xref" xml:id="anchor_0045-a"/>But she [<hi rend="italic">55</hi>] not forgetting her Resentments, swore by the Gods, He should not stay with her, unless he would dismiss his Retinue, and be contented with the [<ref targType="note_cn" target="#cn_0580-01"><hi rend="smcaps">tln</hi> 580</ref>] Attendance of one Man; and with bitter Reproaches, told him how ill his Desire of vain-glorious Pomp suited with his Old-age and Poverty.<anchor type="xref" xml:id="anchor_0045-b"/> When he found that she was by no Means to be prevailed upon, he was at last forced to comply, and dismissing the Rest, to take up with one Man. But by this Time he began to reflect more sensibly with himself upon the Grandeur from which he had fallen, and the miserable State he was now reduced to, and to enter upon Thoughts of going beyond Sea to his youngest Daughter. Yet he doubted whether he should be able to move her Commiseration, whom (as was related above) he had treated so unworthily. However disdaining to bear any longer such base Usage, he took Shipping to <hi rend="italic">Gaul</hi>. In his Passage, he observed he had only the third Place given him among the Princes that were with him in the Ship, at which with deep Sighs and Tears, he burst forth into the following Complaint.</p>
+<p>A Long Time after this, when <title level="m">Leir</title> came to be infirm through Old-age, [<ref targType="note_cn" target="#cn_0045-03"><hi rend="smcaps">tln</hi> 45–50</ref>] the two Dukes, upon whom he had bestowed <hi rend="italic">Britain</hi> with his two Daughters, made an [<hi rend="italic">54</hi>] Insurrection against him, and deprived him of his Kingdom, and of all Regal Authority which he had hitherto exercised with great Power and Glory. But at last they came to an Agreement, and [<ref targType="note_cn" target="#dpcn_06">DP 6</ref>] <hi rend="italic">Maglaunus</hi> Duke of <hi rend="italic">Albania</hi>, one of his Sons-in-Law, was to allow him and sixty Soldiers, who were to be kept for State, a Subsistence at his own House. After two Years Stay with his Son-in-Law, his Daughter <hi rend="italic">Gonorilla</hi> grudged at the Number of his Men, who began to upbraid the Ministers of the Court with their scanty Allowance; and having spoke to her Husband about it, gave Orders that [<ref targType="note_cn" target="#cn_0810-02"><hi rend="smcaps">tln</hi> 810</ref>] the Number of her Fathers Attendants be reduced to thirty, and the rest discharged. The Father resenting this Treatment, left <hi rend="italic">Maglaunus</hi>, and went to [<ref targType="note_cn" target="#dpcn_05">DP 5</ref>] <hi rend="italic">Henuinus</hi>, Duke of <hi rend="italic">Cornwal</hi>, to whom he had married his Daughter <hi rend="italic">Regau</hi>. Here he met with an honourable Reception, but before the Year was at an End, a Quarrel happened between the two Families, which raised <hi rend="italic">Regau</hi>’s Indignation; so that she commanded her Father to discharge all his Attendants but five, and to be contented with their Service. This second Affliction was unsupportable to him, and made him return again to his former Daughter, with Hopes that the Misery of his Condition might move in her some Sentiments of Filial Piety, and that he with his Family might find a Subsistence from her. But she [<hi rend="italic">55</hi>] not forgetting her Resentments, swore by the Gods, He should not stay with her, unless he would dismiss his Retinue, and be contented with the [<ref targType="note_cn" target="#cn_0580-01"><hi rend="smcaps">tln</hi> 580</ref>] Attendance of one Man; and with bitter Reproaches, told him how ill his Desire of vain-glorious Pomp suited with his Old-age and Poverty. When he found that she was by no Means to be prevailed upon, he was at last forced to comply, and dismissing the Rest, to take up with one Man. But by this Time he began to reflect more sensibly with himself upon the Grandeur from which he had fallen, and the miserable State he was now reduced to, and to enter upon Thoughts of going beyond Sea to his youngest Daughter. Yet he doubted whether he should be able to move her Commiseration, whom (as was related above) he had treated so unworthily. However disdaining to bear any longer such base Usage, he took Shipping to <hi rend="italic">Gaul</hi>. In his Passage, he observed he had only the third Place given him among the Princes that were with him in the Ship, at which with deep Sighs and Tears, he burst forth into the following Complaint.</p>
 
 <p><quote>O irreversible Decrees of the Fates, that never swerve from your stated Course! Why did you ever advance me to an unstable Felicity, since the Punishment of lost Happiness is greater than the Sense [<hi rend="italic">56</hi>] of present Misery? The Remembrance of the Time when vast Numbers of Men obsequiously attended me at the taking of Cities and wasting the Enemies Countries, more deeply pierces my Heart, than the View of my present Calamity, which has exposed me to the Derision of those who formerly laid at my Feet. O Rage of Fortune! Shall I ever again see the Day, when I may be able to reward those according to their Deserts who have forsaken me in my Distress? How true was thy Answer, <hi rend="italic">Cordeilla</hi>, when I asked thee concerning thy Love to me, <hi rend="italic">As much as you have, so much is your Value, and so much I love you?</hi> While I had any Thing to give they valued me, being Friends not to me, but to my Gifts: They loved me then indeed, but my Gifts much more: When my Gifts ceased, my Friends vanished. But with what Face shall I presume to see you my dearest Daughter, since in my Anger I married you upon worse Terms than your Sisters, who, after all the mighty Favours they have received from me, suffer me to be in Banishment and Poverty?</quote></p>
 
-<p><anchor type="xref" xml:id="anchor_0046-a"/>As he was lamenting his Condition in these and the like Expressions, he arrived at <hi rend="italic">Karitia</hi>, where his Daughter was, and waited before the City while he sent a Messenger to inform her of the Misery he was fallen [<hi rend="italic">57</hi>] into, and to desire her Relief to a Father that suffered both Hunger and Nakedness.<anchor type="xref" xml:id="anchor_0046-b"/> [<ref targType="note_cn" target="#cn_2348"><hi rend="smcaps">tln</hi> 2348</ref>] <hi rend="italic">Cordeilla</hi> was startled at the News, and wept bitterly, and with Tears asked him how many Men her Father had with him. The Messenger answered, he had none but [<ref targType="note_cn" target="#dpcn_08">DP 8</ref>] one Man, who had been his Armour-bearer, and was staying with him without the Town. Then she took what Money she thought might be sufficient, and gave it the Messenger, with Orders to him to carry her Father to another City, and there give out that he was Sick, and to provide for him Bathing, Clothes, and all other Nourishment. She likewise gave Orders that he should take into his Service forty Men well cloathed and accoutred, and when all Things were thus prepared that he should then notify his Arrival to King <hi rend="italic">Aganippus</hi> and his Daughter. The Messenger quickly returning carried <title level="m">Leir</title> to another City, and there kept him concealed, till he had performed every Thing that <hi rend="italic">Cordeilla</hi> had commanded.</p>
+<p>As he was lamenting his Condition in these and the like Expressions, he arrived at <hi rend="italic">Karitia</hi>, where his Daughter was, and waited before the City while he sent a Messenger to inform her of the Misery he was fallen [<hi rend="italic">57</hi>] into, and to desire her Relief to a Father that suffered both Hunger and Nakedness. [<ref targType="note_cn" target="#cn_2348"><hi rend="smcaps">tln</hi> 2348</ref>] <hi rend="italic">Cordeilla</hi> was startled at the News, and wept bitterly, and with Tears asked him how many Men her Father had with him. The Messenger answered, he had none but [<ref targType="note_cn" target="#dpcn_08">DP 8</ref>] one Man, who had been his Armour-bearer, and was staying with him without the Town. Then she took what Money she thought might be sufficient, and gave it the Messenger, with Orders to him to carry her Father to another City, and there give out that he was Sick, and to provide for him Bathing, Clothes, and all other Nourishment. She likewise gave Orders that he should take into his Service forty Men well cloathed and accoutred, and when all Things were thus prepared that he should then notify his Arrival to King <hi rend="italic">Aganippus</hi> and his Daughter. The Messenger quickly returning carried <title level="m">Leir</title> to another City, and there kept him concealed, till he had performed every Thing that <hi rend="italic">Cordeilla</hi> had commanded.</p>
 </div>
 
 <div>
-<head>CHAP. XIII. <hi rend="italic">He is very honourably received by</hi> Cordeilla, <hi rend="italic">and the King of</hi> Gaul.</head>
+<head><hi rend="bold">CHAP. XIII. <hi rend="italic">He is very honourably received by</hi> Cordeilla, <hi rend="italic">and the King of</hi> Gaul.</hi></head>
 
 <p>As soon as he was provided with his Royal Apparel, Ornaments and Retinue, he sent Word to <hi rend="italic">Aganippus</hi> and his [<hi rend="italic">58</hi>] Daughter, that he was driven out of his Kingdom of <hi rend="italic">Britain</hi> by his Sons-in-Law, and was come to them to procure their Assistance for the Recovering of his Dominions. Upon which they being attended with their chief Ministers of State and the Nobility of the Kingdom, went out to meet him, and received him honourably, and submitted to his Management the whole Power of <hi rend="italic">Gaul</hi>, till such Time as he should be restored to his former Dignity.</p>
 </div>
 
 <div>
-<head>CHAP. XIV. Leir <hi rend="italic">by the Help of his Son-in-Law and</hi> Cord[ei]lla, <hi rend="italic">being restored to the Kingdom dies.</hi></head>
+<head><hi rend="bold">CHAP. XIV. Leir <hi rend="italic">by the Help of his Son-in-Law and</hi> Cord[ei]lla, <hi rend="italic">being restored to the Kingdom dies.</hi></head>
 
 <p xml:id="para_0080">In the mean Time <hi rend="italic">Aganippus</hi> sent Officers over all <hi rend="italic">Gaul</hi> to raise an Army, in Order to restore his Father-in-Law to his Kingdom of <hi rend="italic">Britain</hi>. Which done, <title level="m">Leir</title> returned to <hi rend="italic">Britain</hi> with his Son and Daughter and their Forces they had raised, where he fought with his Sons-in-Law, and routed them. Thus having reduced the whole Kingdom under his Power, he died in the third Year after. <hi rend="italic">Aganippus</hi> also died; so that <hi rend="italic">Cordeilla</hi> now obtaining the Government of the Kingdom, [<ref targType="note_cn" target="#dpcn_02">DP 2</ref>] buried her Father in a cer-[<hi rend="italic">59</hi>]tain Vault, which she ordered to be made for him under the River <hi rend="italic">Sore</hi> in <hi rend="italic">Leicester</hi>. The Subterraneous Place where he was buried, had been built to the Honour of the God <hi rend="italic">Janus</hi>. And here all the Workmen of the City, upon the anniversary Solemnity of that Festival, used to begin their yearly Labours.</p>
 </div>
 
 <div>
-<head>CHAP. XV. Cordeilla <hi rend="italic">being imprisoned kills herself.</hi> Margan <hi rend="italic">aspiring to the whole Kingdom is killed by</hi> Cunedagius.</head>
+<head><hi rend="bold">CHAP. XV. Cordeilla <hi rend="italic">being imprisoned kills herself.</hi> Margan <hi rend="italic">aspiring to the whole Kingdom is killed by</hi> Cunedagius.</head>
 
-<p>After a peaceable Possession of the Government for five Years, <hi rend="italic">Cordeilla</hi> began to meet with Disturbances from the two Sons of her Sisters, being both young Men of great Spirit, whereof one, named <hi rend="italic">Margan</hi>, was born to <hi rend="italic">Maglaunus</hi>, and the other, named <hi rend="italic">Cunedagius</hi>, to <hi rend="italic">Henuinus</hi>. These after the Death of their Fathers succeeding them in their Dukedoms, were incensed to see <hi rend="italic">Britain</hi> subject to the Power of a Woman, and raised Forces in Order to make an Insurrection against the Queen; <anchor type="xref" xml:id="anchor_0047-a"/>nor desisted from their Hostilities, till after a general Waste of her Countries, and several Battles fought, they at last took her and put her in Prison; [<hi rend="italic">60</hi>] [<ref targType="note_cn" target="#cn_3214-02"><hi rend="smcaps">tln</hi> 3214</ref>] where for Grief at the Loss of her Kingdom she killed herself.<anchor type="xref" xml:id="anchor_0047-b"/> After this they divided the Island between them, of which the Part that reaches from the North Side of <hi rend="italic">Humber</hi> to <hi rend="italic">Cathness</hi>, fell to <hi rend="italic">Margan</hi>; the other Part from the same River Westward was <hi rend="italic">Cunedagius</hi>’s Share. At the End of two Years, some restless Spirits that took Pleasure in the Troubles of the Nation had Access to <hi rend="italic">Margan</hi>, and inspired him with vain Conceits by representing to him, how mean and disgraceful it was for him not to govern the whole Island, which was his due by Right of Birth. Stirred up with these and the like Suggestions, he marched with an Army through <hi rend="italic">Cunedagius</hi>’s Country, and began to burn all before him. A War thus breaking out, he was met by <hi rend="italic">Cunedagius</hi> and all his Forces, and upon an Attack made he killed no small Number of his Men, put <hi rend="italic">Margan</hi> to Flight, and pursued him from one Province to another, till at last he killed him in a Town of <hi rend="italic">Kambria</hi>, which since his Death has been by the Country People called <hi rend="italic">Margan</hi> to this Day. After the Victory, <hi rend="italic">Cunedagius</hi> gained the Monarchy of the whole Island, which he governed gloriously for three and thirty Years. <anchor type="xref" xml:id="anchor_0048-a"/>At this Time flourished the Prophets <hi rend="italic">Isaiah</hi> and <hi rend="italic">Hoshea</hi>, and <hi rend="italic">Rome</hi> was built upon the eleventh of the Calends of <hi rend="italic">May</hi> by the two Brothers, <hi rend="italic">Romulus</hi> and <hi rend="italic">Remus</hi>.<anchor type="xref" xml:id="anchor_0048-b"/></p>
+<p>After a peaceable Possession of the Government for five Years, <hi rend="italic">Cordeilla</hi> began to meet with Disturbances from the two Sons of her Sisters, being both young Men of great Spirit, whereof one, named <hi rend="italic">Margan</hi>, was born to <hi rend="italic">Maglaunus</hi>, and the other, named <hi rend="italic">Cunedagius</hi>, to <hi rend="italic">Henuinus</hi>. These after the Death of their Fathers succeeding them in their Dukedoms, were incensed to see <hi rend="italic">Britain</hi> subject to the Power of a Woman, and raised Forces in Order to make an Insurrection against the Queen; nor desisted from their Hostilities, till after a general Waste of her Countries, and several Battles fought, they at last took her and put her in Prison; [<hi rend="italic">60</hi>] [<ref targType="note_cn" target="#cn_3214-02"><hi rend="smcaps">tln</hi> 3214</ref>] where for Grief at the Loss of her Kingdom she killed herself. After this they divided the Island between them, of which the Part that reaches from the North Side of <hi rend="italic">Humber</hi> to <hi rend="italic">Cathness</hi>, fell to <hi rend="italic">Margan</hi>; the other Part from the same River Westward was <hi rend="italic">Cunedagius</hi>’s Share. At the End of two Years, some restless Spirits that took Pleasure in the Troubles of the Nation had Access to <hi rend="italic">Margan</hi>, and inspired him with vain Conceits by representing to him, how mean and disgraceful it was for him not to govern the whole Island, which was his due by Right of Birth. Stirred up with these and the like Suggestions, he marched with an Army through <hi rend="italic">Cunedagius</hi>’s Country, and began to burn all before him. A War thus breaking out, he was met by <hi rend="italic">Cunedagius</hi> and all his Forces, and upon an Attack made he killed no small Number of his Men, put <hi rend="italic">Margan</hi> to Flight, and pursued him from one Province to another, till at last he killed him in a Town of <hi rend="italic">Kambria</hi>, which since his Death has been by the Country People called <hi rend="italic">Margan</hi> to this Day. After the Victory, <hi rend="italic">Cunedagius</hi> gained the Monarchy of the whole Island, which he governed gloriously for three and thirty Years. At this Time flourished the Prophets <hi rend="italic">Isaiah</hi> and <hi rend="italic">Hoshea</hi>, and <hi rend="italic">Rome</hi> was built upon the eleventh of the Calends of <hi rend="italic">May</hi> by the two Brothers, <hi rend="italic">Romulus</hi> and <hi rend="italic">Remus</hi>.</p>
 </div>
 </body>
 </floatingText>
@@ -6868,7 +6859,7 @@ It is obvious that there is no room for <title level="m">Tim</title> between <ti
 <div>
 <head rend="align(left)">[Book II, Chap. v.]</head>
 
-<p>[<hi rend="italic">12</hi>][<ref targType="note_cn" target="#dpcn_02">DP 2</ref>, <ref targType="note_cn" target="#cn_1968"><hi rend="smcaps">tln</hi> 1968</ref>] <note type="source" place="margin_left" xml:id="mgnn_001">Leir<lb/>the 10.<lb/>ruler.</note><anchor type="xref" xml:id="anchor_0049-a"/>Leir the sonne of Baldud was admitted ruler ouer the Britaines, [<ref targType="note_cn" target="#dpcn_03">DP 3–4</ref>] in the yeare of the world 3105, at what time Ioas reigned in Iuda.<anchor type="xref" xml:id="anchor_0049-b"/> <note type="source" place="margin_left" xml:id="mgnn_002">Mat. West.</note>This Leir was a prince of right noble demeanor, gouerning his land and subiects in great wealth. <note type="source" place="margin_left" xml:id="mgnn_003">Leicester is<lb/>builded.</note>He made the towne of Caerleir now called Leicester, which standeth vpon the riuer of Sore. <anchor type="xref" xml:id="anchor_0050-a"/>It is written that he had by his wife three daughters without other issue, whose names were [<ref targType="note_cn" target="#dpcn_15">DP 15</ref>] Gonorilla, [<ref targType="note_cn" target="#dpcn_16">DP 16</ref>] Regan, and [<ref targType="note_cn" target="#dpcn_17">DP 17</ref>] Cordeilla, which daughters he greatly loued, but [<hi rend="smcaps">tln</hi> <ref targType="note_cn" target="#cn_0053-02">53–8</ref>, <ref targType="note_cn" target="#cn_0131-02">131</ref>] specially Cordeilla the yoongest farre aboue the two elder.<anchor type="xref" xml:id="anchor_0050-b"/> <anchor type="xref" xml:id="anchor_0051-a"/>When this Leir therefore was come to great yeres, &amp; began to waxe vnweldie through age, [<ref targType="note_cn" target="#cn_0053-02"><hi rend="smcaps">tln</hi> 53–8</ref>] <note type="source" place="margin_left" xml:id="mgnn_004">Gal. Mon.</note>he thought to vnderstand the affections of his daughters towards him, and [<ref targType="note_cn" target="#cn_0049-02"><hi rend="smcaps">tln</hi> 49</ref>] preferre hir whome he best loued, to the succession ouer the kingdome.<anchor type="xref" xml:id="anchor_0051-b"/> <note type="source" place="margin_left" xml:id="mgnn_005">A triall of<lb/>loue.</note><anchor type="xref" xml:id="anchor_0052-a"/><anchor type="xref" xml:id="anchor_0053-a"/>Whervpon he first [<hi rend="italic">13</hi>] asked Gonorilla the eldest, how well she loued him: who calling hir gods to record, protested that [<ref targType="note_cn" target="#cn_0063-01"><hi rend="smcaps">tln</hi> 63</ref>] she <quote>loued him more than hir owne life, which by right and reason should be most deere vnto hir.</quote><anchor type="xref" xml:id="anchor_0053-b"/> <anchor type="xref" xml:id="anchor_0054-a"/>With which answer the father being well pleased, turned to the second, and demanded of hir how well she loued him: who answered (confirming hir saiengs with great othes) that [<ref targType="note_cn" target="#cn_0060-02"><hi rend="smcaps">tln</hi> 60–6</ref>] she <quote>loued him more than toong could expresse, and [<ref targType="note_cn" target="#cn_0080-02"><hi rend="smcaps">tln</hi> 80–1</ref>] farre aboue all other creatures of the world.</quote><anchor type="xref" xml:id="anchor_0052-b"/><anchor type="xref" xml:id="anchor_0054-b"/></p>
+<p><nvsSeg type="marginalia" rend="align(left)"> Lear </lb>the 10. </lb>ruler.</lb>Mat. West.</nvsSeg>[<hi rend="italic">12</hi>][<ref targType="note_cn" target="#dpcn_02">DP 2</ref>, <ref targType="note_cn" target="#cn_1968"><hi rend="smcaps">tln</hi> 1968</ref>] <anchor type="xref" xml:id="anchor_0049-a"/>Leir the sonne of Baldud was admitted ruler ouer the Britaines, [<ref targType="note_cn" target="#dpcn_03">DP 3–4</ref>] in the yeare of the world 3105, at what time Ioas reigned in Iuda.<anchor type="xref" xml:id="anchor_0049-b"/> <note type="source" place="margin_left" xml:id="mgnn_002">Mat. West.</note>This Leir was a prince of right noble demeanor, gouerning his land and subiects in great wealth. <note type="source" place="margin_left" xml:id="mgnn_003">Leicester is<lb/>builded.</note>He made the towne of Caerleir now called Leicester, which standeth vpon the riuer of Sore. <anchor type="xref" xml:id="anchor_0050-a"/>It is written that he had by his wife three daughters without other issue, whose names were [<ref targType="note_cn" target="#dpcn_15">DP 15</ref>] Gonorilla, [<ref targType="note_cn" target="#dpcn_16">DP 16</ref>] Regan, and [<ref targType="note_cn" target="#dpcn_17">DP 17</ref>] Cordeilla, which daughters he greatly loued, but [<hi rend="smcaps">tln</hi> <ref targType="note_cn" target="#cn_0053-02">53–8</ref>, <ref targType="note_cn" target="#cn_0131-02">131</ref>] specially Cordeilla the yoongest farre aboue the two elder.<anchor type="xref" xml:id="anchor_0050-b"/> <anchor type="xref" xml:id="anchor_0051-a"/>When this Leir therefore was come to great yeres, &amp; began to waxe vnweldie through age, [<ref targType="note_cn" target="#cn_0053-02"><hi rend="smcaps">tln</hi> 53–8</ref>] <note type="source" place="margin_left" xml:id="mgnn_004">Gal. Mon.</note>he thought to vnderstand the affections of his daughters towards him, and [<ref targType="note_cn" target="#cn_0049-02"><hi rend="smcaps">tln</hi> 49</ref>] preferre hir whome he best loued, to the succession ouer the kingdome.<anchor type="xref" xml:id="anchor_0051-b"/> <note type="source" place="margin_left" xml:id="mgnn_005">A triall of<lb/>loue.</note><anchor type="xref" xml:id="anchor_0052-a"/><anchor type="xref" xml:id="anchor_0053-a"/>Whervpon he first [<hi rend="italic">13</hi>] asked Gonorilla the eldest, how well she loued him: who calling hir gods to record, protested that [<ref targType="note_cn" target="#cn_0063-01"><hi rend="smcaps">tln</hi> 63</ref>] she <quote>loued him more than hir owne life, which by right and reason should be most deere vnto hir.</quote><anchor type="xref" xml:id="anchor_0053-b"/> <anchor type="xref" xml:id="anchor_0054-a"/>With which answer the father being well pleased, turned to the second, and demanded of hir how well she loued him: who answered (confirming hir saiengs with great othes) that [<ref targType="note_cn" target="#cn_0060-02"><hi rend="smcaps">tln</hi> 60–6</ref>] she <quote>loued him more than toong could expresse, and [<ref targType="note_cn" target="#cn_0080-02"><hi rend="smcaps">tln</hi> 80–1</ref>] farre aboue all other creatures of the world.</quote><anchor type="xref" xml:id="anchor_0052-b"/><anchor type="xref" xml:id="anchor_0054-b"/></p>
 
 <p>Then called he his yoongest daughter Cordeilla before him, and asked of hir what account she made of him, vnto whome she made this answer as followeth: <note type="source" place="margin_left" xml:id="mgnn_006">The answer<lb/>of the yoon&shy;<lb/>gest daugh&shy;<lb/>ter.</note><quote>Knowing the great loue and fatherlie zeale that you haue alwaies borne towards me (for the which I maie not answere you otherwise than I thinke, and as my conscience leadeth me) I protest vnto you, that [<ref targType="note_cn" target="#cn_0098-01"><hi rend="smcaps">tln</hi> 98–9</ref>] <anchor type="xref" xml:id="anchor_0055-a"/>I haue loued you euer, and will continuallie (while I liue) loue you as my naturall father. And if you would more vnderstand of the loue that I beare you, assertaine your selfe, that so much as you haue, so much you are worth, and so much I loue you, and no more.<anchor type="xref" xml:id="anchor_0055-b"/></quote> <anchor type="xref" xml:id="anchor_0056-a"/>The father being nothing content with this answer, <note type="source" place="margin_left" xml:id="mgnn_007">The two<lb/>eldest daugh&shy;<lb/>ters are ma&shy;<lb/>ried.</note>married his two eldest daughters, the one vnto [<ref targType="note_cn" target="#dpcn_05">DP 5</ref>] Henninus the duke of Cornewall, and the other vnto [<ref targType="note_cn" target="#dpcn_06">DP 6</ref>] Maglanus the duke of Albania, betwixt whome he willed and <note type="source" place="margin_left" xml:id="mgnn_008">The realme<lb/>is promised<lb/>to his two<lb/>daughters.</note>ordeined that his land should be diuided [<hi rend="smcaps">tln</hi> <ref targType="note_cn" target="#cn_0007-01">7</ref>, <ref targType="note_cn" target="#cn_0138-01">138</ref>] after his death, and the one halfe thereof immediatlie should be assigned to them in hand: but for the third daughter Cordeilla he reserued nothing.<anchor type="xref" xml:id="anchor_0056-b"/></p>
 
@@ -6883,6 +6874,7 @@ It is obvious that there is no room for <title level="m">Tim</title> between <ti
 <p><anchor type="xref" xml:id="anchor_0063-a"/>Herevpon, when this armie and nauie of ships were readie, [<ref targType="note_cn" target="#cn_2347p02"><hi rend="smcaps">tln</hi> 2347+2–+7</ref>] Leir and his daughter Cordeilla with hir husband tooke the sea, and arriuing in Britaine, fought with their enimies, and discomfited them in battell, in the which Maglanus and Henninus were slaine<anchor type="xref" xml:id="anchor_0063-b"/>: <anchor type="xref" xml:id="anchor_0064-a"/>and then was Leir restored to his kingdome, which he ruled after this by the space of two yeeres, and then died, fortie yeeres after he first began to reigne.<anchor type="xref" xml:id="anchor_0064-b"/> <note type="source" place="margin_left" xml:id="mgnn_010">Matth.West.</note>His bodie was buried at Leicester in a vaut vnder the chanell of the riuer of Sore beneath the towne.</p>
 </div>
 
+<div>
 <div>
 <head rend="italic align(center)">The gunarchie of queene Cordeilla,
 <lb/>how she was vanquished, of hir impri&shy;
@@ -7815,8 +7807,8 @@ It is obvious that there is no room for <title level="m">Tim</title> between <ti
 <floatingText xml:id="text_leir">
 <body>
 
-<milestone unit="sig_leir" n="A2r" xml:id="leir_sig_A2r">[A2<hi rend="superscript">r</hi>]</milestone>
-<head>The true Chronicle Historie of King
+<milestone unit="sig_leir" n="A2r" xml:id="leir_sig_A2r" rend="align(right)">[A2<hi rend="superscript">r</hi>]</milestone>
+<head rend="align(center)">The true Chronicle Historie of King
 <lb/><hi rend="italic">Leir and his three daughters.</hi><nvsSeg type="marginalia" rend="align(right)">[<ref targType="note_cn" target="#dpcn_02">DP 2</ref>]</nvsSeg></head>
 
 
@@ -15305,9 +15297,9 @@ A printed book rather than a manuscript playbook is surely referred to, either <
 
 <p>Silent versions begin with a lost Italian or German film (1905, 100 m.) which may have starred the Italian tragic actor Ermete Novelli. Vitagraph’s 1909 (960 ft.) <title level="m">Lr.</title>, directed by and starring William V. Ranous, attempted to include too much action for its 10-minute running time. Milano Film’s <title level="m">Lr.</title> (1910, 565 ft., dir. Giuseppe De Liguoro) omitted the Gloucester subplot, as did a version by Film d’Arte Italiana (1910, 1072 ft., dir. Gerolamo Lo Savio), in which Ermete Novelli played a doddering, self-pitying Lear. In the American Shakespeare version (Thanhouser Film Corp; 1916, 5 reels, 43 min.), which also omitted the Gloucester story and kept the Fool alive, Frederick Warde was an impressive Lear, and the battle scenes were spectacular; Warde’s son Ernest directed and played the Fool. The only filmed version of the 1930s was the so-called <title level="m">Yiddish King Lear</title> (Lear Pictures, 1935), based by Harry Thomashevsky on a play by Jacob Gordin (see below).</p>
 
-<p>A BBC production (1948, 200 min.) featured a majestic William Devlin, who had played Lear in London the year before. A 73-minute version, shown in the U.S. on Omnibus in 1953, was directed by Andrew McCullough and Peter Brook; it included music by Virgil Thomson and paired Orson Welles with an acrobatic Fool played by Alan Badel. <anchor type="xref" xml:id="anchor_0236-a"/>Peter Brook’s influential 1962 stage production became a radically cut (137-minute) version filmed in Jutland and released in 1971 by Filmways (London) and Athena/Laterna Films (Copenhagen). Set in a bleak, wintry countryside where the characters were housed in caves and dressed in furs and leather, and featuring an especially violent storm and the burning of Cordelia’s ships, Brook’s grim film purportedly reflected his outrage at the recent war in Vietnam. Paul Scofield played a cold, dehumanized Lear who learned nothing, opposite Jack MacGowran’s sensitive Fool; Annelise Gabold played a sullen and bitter Cordelia, and Irene Worth and Susan Engel played Goneril and Regan as glamorously heartless. Some found the liberal use of such devices as jump cuts, surprising camera angles, zoom lenses, and underexposure to be intrusive. Grigori Kozintsev’s more traditional Lenfilm version (140 min.), filmed in black and white in Estonia and released in the Soviet Union in 1970 and in America in 1972, presented the story of Lear more simply, as a folk tale with political overtones. Adapted from a translation by Boris Pasternak and including a musical score by Dmitri Shostakovich, the film showed the journey of a slight but still-vigorous old king (Yuri Yarvet) through humiliation and bitterness to forgiveness and newfound wisdom, as he comes to identify with the proletariat and turns his and Cordelia’s downfall to a joyous assertion of moral victory.<anchor type="xref" xml:id="anchor_0236-b"/></p>
+<p>A BBC production (1948, 200 min.) featured a majestic William Devlin, who had played Lear in London the year before. A 73-minute version, shown in the U.S. on Omnibus in 1953, was directed by Andrew McCullough and Peter Brook; it included music by Virgil Thomson and paired Orson Welles with an acrobatic Fool played by Alan Badel. Peter Brook’s influential 1962 stage production became a radically cut (137-minute) version filmed in Jutland and released in 1971 by Filmways (London) and Athena/Laterna Films (Copenhagen). Set in a bleak, wintry countryside where the characters were housed in caves and dressed in furs and leather, and featuring an especially violent storm and the burning of Cordelia’s ships, Brook’s grim film purportedly reflected his outrage at the recent war in Vietnam. Paul Scofield played a cold, dehumanized Lear who learned nothing, opposite Jack MacGowran’s sensitive Fool; Annelise Gabold played a sullen and bitter Cordelia, and Irene Worth and Susan Engel played Goneril and Regan as glamorously heartless. Some found the liberal use of such devices as jump cuts, surprising camera angles, zoom lenses, and underexposure to be intrusive. Grigori Kozintsev’s more traditional Lenfilm version (140 min.), filmed in black and white in Estonia and released in the Soviet Union in 1970 and in America in 1972, presented the story of Lear more simply, as a folk tale with political overtones. Adapted from a translation by Boris Pasternak and including a musical score by Dmitri Shostakovich, the film showed the journey of a slight but still-vigorous old king (Yuri Yarvet) through humiliation and bitterness to forgiveness and newfound wisdom, as he comes to identify with the proletariat and turns his and Cordelia’s downfall to a joyous assertion of moral victory.</p>
 
-<p>Some television versions were based on previous stage productions: examples are those of Triple Action Theatre/British Film Institute (1976, 45 min.), of Radiotelevisione Italiana (1979, 195 min.), and of PBS’s film (1975, 120 min.) of a live performance of Joseph Papp’s production (1973) in New York’s Central Park, notable mainly for the Lear of James Earl Jones. Other versions were filmed originally for television. <anchor type="xref" xml:id="anchor_0067-a"/>For the BBC series The Shakespeare Plays, Jonathan Miller directed (1982, 120 min.) Michael Hordern as an unmajestic, overwhelmed father. In 1983, for Granada TV, Michael Elliott directed an aging and physically weakened Laurence Olivier, whose despotic patriarch was by turns whimsical and deeply pathetic. The cast included John Hurt (a loving Fool), Dorothy Tutin (Goneril), and Diana Rigg (Regan).<anchor type="xref" xml:id="anchor_0067-b"/> <anchor type="xref" xml:id="anchor_0237-a"/>The 1998 PBS version was based on Richard Eyre’s National Theatre (Cottesloe) stage production of 1997, like it featuring bare scenery, simple lighting and costume, and Ian Holm’s nudity in the storm scenes. Michael Bryant’s Fool was as old as Lear. In accordance with some modern interpretative trends, Lear’s knights were shown as unruly and the elder daughters as aggressively adulterous.<anchor type="xref" xml:id="anchor_0237-b"/></p>
+<p>Some television versions were based on previous stage productions: examples are those of Triple Action Theatre/British Film Institute (1976, 45 min.), of Radiotelevisione Italiana (1979, 195 min.), and of PBS’s film (1975, 120 min.) of a live performance of Joseph Papp’s production (1973) in New York’s Central Park, notable mainly for the Lear of James Earl Jones. Other versions were filmed originally for television. For the BBC series The Shakespeare Plays, Jonathan Miller directed (1982, 120 min.) Michael Hordern as an unmajestic, overwhelmed father. In 1983, for Granada TV, Michael Elliott directed an aging and physically weakened Laurence Olivier, whose despotic patriarch was by turns whimsical and deeply pathetic. The cast included John Hurt (a loving Fool), Dorothy Tutin (Goneril), and Diana Rigg (Regan). The 1998 PBS version was based on Richard Eyre’s National Theatre (Cottesloe) stage production of 1997, like it featuring bare scenery, simple lighting and costume, and Ian Holm’s nudity in the storm scenes. Michael Bryant’s Fool was as old as Lear. In accordance with some modern interpretative trends, Lear’s knights were shown as unruly and the elder daughters as aggressively adulterous.</p>
 
 <anchor type="xref" xml:id="anchor_0238-a"/>
 <p>Tate’s <title level="m">History</title> (1681) anticipated several later stage adaptations, some of them even more remote from the original. William Moncrieff’s <title level="m">The Lear of Private Life</title> (London, Coburg Theatre, 1820) is based on Amelia Opie’s <title level="m">Father and Daughter</title> (1806), a novel about a woman who returns home from seduction and elopement to nurse her mad father. Jacob Gordin based two Yiddish plays on the Lear story. The first, <title level="m">Der Yidisher Kenig Lir</title> (<title level="m">The Jewish King Lear</title>, 1892), showed the disintegration of Russian-Jewish family life; starring Jacob Adler, it enjoyed hundreds of performances at New York’s Windsor Theater and became the source of a film in 1935. <title level="m">Mirele Efros</title> (<title level="m">The Jewish Queen Lear</title>, 1898), depicting a strong matriarch, continued on the stage for much of the 20th c. Ossip Dymow rewrote the play for a film version (Credo Pictures, 1939) made by Joseph Berne and Roman Rebush. Gordon Bottomley’s proto-feminist verse play <title level="m">King Lear’s Wife</title> (1915; His Majesty’s Theatre, 1916) depicts Lear’s mistreatment (adultery, mental cruelty leading to death) of his wife Hygd because she had produced a third daughter instead of a son; in revenge, Goneril, a <quote>virgin huntress,</quote> kills Lear’s mistress. Edward Bond’s <title level="m">Lear</title> (1971, Royal Court Theatre) shows the effects of state-sponsored violence—rape, butchery, oppression—on modern society. Though a Cordelia-like character defeats Lear’s two elder daughters in a revolution, she herself initiates a reign of terror. The elder daughters are executed (Goneril is literally anatomized), Cordelia is raped, and Lear is himself blinded and dies ingloriously. In Elaine Feinstein’s <title level="m">Lear’s Daughters</title> (Women’s Theatre Group, 1987), the father, who wanted sons, denies love to his artistic daughters, and his Queen dies. In Howard Barker’s <title level="m">Seven Lears</title> (1990), Lear and his daughters conspire to kill his virtuous queen (their mother) Clarissa and hate his mistress (their grandmother) Prudentia. In Melvin Bragg’s <title level="m">King Lear in New York</title> (1992) an aging film actor returns to play <title level="m">Lr.</title> on the stage.</p>
@@ -15479,7 +15471,7 @@ A printed book rather than a manuscript playbook is surely referred to, either <
 
 
 <div type="level2" xml:id="div_music_instrumental">
-<head>Instrumental Music</head>
+<headInstrumental Music</hi></head>
 
 <p xml:id="para_0050">The play’s instrumental music is on the whole associated with royal entrances, processions, or ceremonies or with military combat. There are directions for <hi rend="italic">Sennet</hi> (<ref targType="lb" target="#tln_0037">37</ref>), <hi rend="italic">Flourish</hi> (<ref targType="lb" target="#tln_0202">202</ref>, <ref targType="lb" target="#tln_0291">291</ref>, <ref targType="lb" target="#tln_1073">1073</ref>, <ref targType="lb" target="#tln_2982">2982</ref>), <hi rend="italic">Hornes within</hi> (<ref targType="lb" target="#tln_0538">538</ref>; perhaps implied at <ref targType="lb" target="#tln_0518">518</ref>), and <hi rend="italic">Tucket within</hi> (<ref targType="lb" target="#tln_1014">1014</ref>, <ref targType="lb" target="#tln_1466">1466</ref>). Trumpet calls for battle or duel are indicated in SDs or dialogue at <ref targType="lb" target="#tln_2926">2926</ref> (<hi rend="italic">retreat</hi>), <ref targType="lb" target="#tln_3058">3058</ref>, <ref targType="lb" target="#tln_3063">3063</ref>, <ref targType="lb" target="#tln_3064">3064</ref>, <ref targType="lb" target="#tln_3065">3065</ref>, <ref targType="lb" target="#tln_3066">3066</ref> (= Q <ref targType="lb" target="#tln_3067">3067</ref>?), and <ref targType="lb" target="#tln_3106">3106</ref>. A drum is called for explicitly at <ref targType="lb" target="#tln_2349">2349</ref>, <ref targType="lb" target="#tln_2737">2737</ref> (Q <ref targType="lb" target="#tln_2739">2739</ref>), <ref targType="lb" target="#tln_2845">2845</ref>, <ref targType="lb" target="#tln_2864">2864</ref>, <ref targType="lb" target="#tln_2918">2918</ref>, <ref targType="lb" target="#tln_2938">2938</ref>; it may be played in the <hi rend="italic">Alarum</hi>s at <ref targType="lb" target="#tln_2918">2918</ref>, <ref targType="lb" target="#tln_2926">2926</ref>, and <ref targType="lb" target="#tln_3107">3107</ref>, and probably plays for the <hi rend="italic">dead March</hi> (<ref targType="lb" target="#tln_3302">3302</ref>). Quiet music, probably by a consort of recorders or viols, is implied (in Q only) at <ref targType="lb" target="#tln_2775p02">2775+2</ref>. Except at <ref targType="lb" target="#tln_0037">37</ref>, <ref targType="lb" target="#tln_2739">2739</ref>, <ref targType="lb" target="#tln_2775p02">2775+2</ref>, <ref targType="lb" target="#tln_2918">2918</ref>, <ref targType="lb" target="#tln_2926">2926</ref>, <ref targType="lb" target="#tln_3058">3058</ref>, and <ref targType="lb" target="#tln_3106">3106</ref>, the musical cues have been added in F, the more theatrical text; F’s omission of Q’s soft music at <ref targType="lb" target="#tln_2775p02">2775+2</ref> presumably reflects a change in staging (see n. <ref targType="note_cn" target="#cn_2775p02-03">2775+2</ref>). Though none of the original music is known, contemporary examples suitable for use have been suggested. Scores for various trumpet calls and fanfares and for drum tattoos and marches are provided by <ref targType="bibl" target="#b_naye1896"><name type="app">Naylor</name></ref> (1896, pp. 208–11) and <ref targType="bibl" target="#b_lonj1955"><name type="app">Long</name></ref> (1971, 3:269–72). For soft offstage music in 4.7 (<ref targType="lb" target="#tln_2775p02">2775+2</ref>) Long (p. 179) provides from Antony Holborne’s <title level="m">Pavans, Galliards, Almains, and Other Short Aeirs</title> (1599, no. 17) a consort piece called <quote>Paradizo,</quote> scored for two voices; <quote>with added inner voices, Holborne’s score may be arranged for three recorders—alto, tenor, and bass—with a sackbut or trombone to sound the lower bass notes.</quote> <ref targType="bibl" target="#b_manj1956"><name type="app">Manifold</name></ref> (1956, p. 149) suggests <quote>The Earl of Salisbury’s Pavan.</quote></p>
 
