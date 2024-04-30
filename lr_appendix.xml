@@ -5673,7 +5673,7 @@ At <ref targType="lb" target="#tln_2771">2771</ref> in some copies <quote>the pe
 <body>
 
 <lg>
-<lb xml:id="tln_0045" n="45" ed="F" rend="print_tln indent(6em)"/><l>*while we</l>
+<l rend="indent(12em)">*while we <note place="margin_right" xml:id="tln_0045" n="45"</note></l>
 <l>*Vnburthen’d crawle toward death. Our son of <hi rend="italic">Cornwal</hi>,</l>
 <l>*And you our no lesse louing Sonne of <hi rend="italic">Albany</hi>,</l>
 <l>*We haue this houre a constant will to publish</l>
@@ -5681,8 +5681,9 @@ At <ref targType="lb" target="#tln_2771">2771</ref> in some copies <quote>the pe
 <l n="50" rend="print_tln">*May be preuented now.*</l>
 </lg>
 
+
 <lg>
-<nvsSeg type="marginlia" rend="align(right)"><l n="54" rend="print_tln"></l></nvsSeg><l>*(Since now we will diuest vs both of Rule,</l>
+<lb xml:id="tln_0054" n="54"></lb></nvsSeg><l>*(Since now we will diuest vs both of Rule,</l>
 <l n="55" rend="print_tln">*Interest of Territory, Cares of State)*</l>
 </lg>
 
@@ -15471,7 +15472,7 @@ A printed book rather than a manuscript playbook is surely referred to, either <
 
 
 <div type="level2" xml:id="div_music_instrumental">
-<headInstrumental Music</hi></head>
+<head>Instrumental Music</head>
 
 <p xml:id="para_0050">The play’s instrumental music is on the whole associated with royal entrances, processions, or ceremonies or with military combat. There are directions for <hi rend="italic">Sennet</hi> (<ref targType="lb" target="#tln_0037">37</ref>), <hi rend="italic">Flourish</hi> (<ref targType="lb" target="#tln_0202">202</ref>, <ref targType="lb" target="#tln_0291">291</ref>, <ref targType="lb" target="#tln_1073">1073</ref>, <ref targType="lb" target="#tln_2982">2982</ref>), <hi rend="italic">Hornes within</hi> (<ref targType="lb" target="#tln_0538">538</ref>; perhaps implied at <ref targType="lb" target="#tln_0518">518</ref>), and <hi rend="italic">Tucket within</hi> (<ref targType="lb" target="#tln_1014">1014</ref>, <ref targType="lb" target="#tln_1466">1466</ref>). Trumpet calls for battle or duel are indicated in SDs or dialogue at <ref targType="lb" target="#tln_2926">2926</ref> (<hi rend="italic">retreat</hi>), <ref targType="lb" target="#tln_3058">3058</ref>, <ref targType="lb" target="#tln_3063">3063</ref>, <ref targType="lb" target="#tln_3064">3064</ref>, <ref targType="lb" target="#tln_3065">3065</ref>, <ref targType="lb" target="#tln_3066">3066</ref> (= Q <ref targType="lb" target="#tln_3067">3067</ref>?), and <ref targType="lb" target="#tln_3106">3106</ref>. A drum is called for explicitly at <ref targType="lb" target="#tln_2349">2349</ref>, <ref targType="lb" target="#tln_2737">2737</ref> (Q <ref targType="lb" target="#tln_2739">2739</ref>), <ref targType="lb" target="#tln_2845">2845</ref>, <ref targType="lb" target="#tln_2864">2864</ref>, <ref targType="lb" target="#tln_2918">2918</ref>, <ref targType="lb" target="#tln_2938">2938</ref>; it may be played in the <hi rend="italic">Alarum</hi>s at <ref targType="lb" target="#tln_2918">2918</ref>, <ref targType="lb" target="#tln_2926">2926</ref>, and <ref targType="lb" target="#tln_3107">3107</ref>, and probably plays for the <hi rend="italic">dead March</hi> (<ref targType="lb" target="#tln_3302">3302</ref>). Quiet music, probably by a consort of recorders or viols, is implied (in Q only) at <ref targType="lb" target="#tln_2775p02">2775+2</ref>. Except at <ref targType="lb" target="#tln_0037">37</ref>, <ref targType="lb" target="#tln_2739">2739</ref>, <ref targType="lb" target="#tln_2775p02">2775+2</ref>, <ref targType="lb" target="#tln_2918">2918</ref>, <ref targType="lb" target="#tln_2926">2926</ref>, <ref targType="lb" target="#tln_3058">3058</ref>, and <ref targType="lb" target="#tln_3106">3106</ref>, the musical cues have been added in F, the more theatrical text; F’s omission of Q’s soft music at <ref targType="lb" target="#tln_2775p02">2775+2</ref> presumably reflects a change in staging (see n. <ref targType="note_cn" target="#cn_2775p02-03">2775+2</ref>). Though none of the original music is known, contemporary examples suitable for use have been suggested. Scores for various trumpet calls and fanfares and for drum tattoos and marches are provided by <ref targType="bibl" target="#b_naye1896"><name type="app">Naylor</name></ref> (1896, pp. 208–11) and <ref targType="bibl" target="#b_lonj1955"><name type="app">Long</name></ref> (1971, 3:269–72). For soft offstage music in 4.7 (<ref targType="lb" target="#tln_2775p02">2775+2</ref>) Long (p. 179) provides from Antony Holborne’s <title level="m">Pavans, Galliards, Almains, and Other Short Aeirs</title> (1599, no. 17) a consort piece called <quote>Paradizo,</quote> scored for two voices; <quote>with added inner voices, Holborne’s score may be arranged for three recorders—alto, tenor, and bass—with a sackbut or trombone to sound the lower bass notes.</quote> <ref targType="bibl" target="#b_manj1956"><name type="app">Manifold</name></ref> (1956, p. 149) suggests <quote>The Earl of Salisbury’s Pavan.</quote></p>
 
