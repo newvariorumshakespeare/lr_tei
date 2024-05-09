@@ -25,19 +25,23 @@
 
 <lb xml:id="dpln_01" n="1" rend="print_tln"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
 
-<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>, <roleDesc>King of <hi rend="clear">Britain</hi> </roleDesc>.</castItem>
-<lb xml:id="dpln_03" n="3"/><castItem rend="italic align(left)"><role xml:id="France">King of<hi rend="clear"> France</hi></role>.</castItem>
-<lb xml:id="dpln_04" n="4"/><castItem rend="italic align(left)"><role xml:id="Burgandy">Duke of<hi rend="clear"> Burgundy</hi></role>.</castItem>
-<lb xml:id="dpln_05" n="5" rend="print_tln"/><castItem rend="italic align(left)"><role xml:id="Cornwall">Duke of<hi rend="clear"> Cornwall</hi></role>.</castItem>
-<lb xml:id="dpln_06" n="6"/><castItem rend="italic align(left)"><role xml:id="Albany">Duke of<hi rend="clear"> Albany</hi></role>.</castItem>
-<lb xml:id="dpln_07" n="7"/><castItem rend="italic align(left)"><role xml:id="Gloster">Earl of<hi rend="clear"> Gloster</hi></role>.</castItem>
-<lb xml:id="dpln_08" n="8"/><castItem rend="italic align(left)"><role xml:id="Kent">Earl of<hi rend="clear"> Kent</hi></role>.</castItem>
+<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<roleDesc> King of <hi rend="clear">Britain</hi> </roleDesc>.</castItem>
+    
+<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>, King of <hi rend="italic">Britain</hi>.</castItem>
+    <lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
+    
+<lb xml:id="dpln_03" n="3"/><castItem rend="italic"><role xml:id="France">King of<hi rend="clear"> France</hi></role>.</castItem>
+<lb xml:id="dpln_04" n="4"/><castItem rend="italic"><role xml:id="Burgandy">Duke of<hi rend="clear"> Burgundy</hi></role>.</castItem>
+<lb xml:id="dpln_05" n="5" rend="print_tln"/><castItem rend="italic"><role xml:id="Cornwall">Duke of<hi rend="clear"> Cornwall</hi></role>.</castItem>
+<lb xml:id="dpln_06" n="6"/><castItem rend="italic"><role xml:id="Albany">Duke of<hi rend="clear"> Albany</hi></role>.</castItem>
+<lb xml:id="dpln_07" n="7"/><castItem rend="italic"><role xml:id="Gloster">Earl of<hi rend="clear"> Gloster</hi></role>.</castItem>
+<lb xml:id="dpln_08" n="8"/><castItem rend="italic"><role xml:id="Kent">Earl of<hi rend="clear"> Kent</hi></role>.</castItem>
 <lb xml:id="dpln_09" n="9"/><castItem><role xml:id="Edgar">Edgar</role>, <roleDesc>Son to <hi rend="clear"> Gloster</hi> </roleDesc>.</castItem>
 <lb xml:id="dpln_10" n="10" rend="print_tln"/><castItem><role xml:id="Edmund">Edmund</role>, <roleDesc>Bastard Son to<hi rend="clear"> Gloster</hi></roleDesc>.</castItem>
 <lb xml:id="dpln_11" n="11"/><castItem><role xml:id="Curan">Curan</role>, <roleDesc><hi rend="italic">a Courtier</hi></roleDesc>.</castItem>
-<lb xml:id="dpln_12" n="12"/><castItem rend="italic align(left)"><role xml:id="Doctor">Doctor</role>.</castItem>
-<lb xml:id="dpln_13" n="13"/><castItem rend="italic align(left)"><role xml:id="Fool">Fool</role>.</castItem>
-<lb xml:id="dpln_14" n="14"/><castItem rend="italic align(left)"><role xml:id="Steward">Steward</role>.</castItem>
+<lb xml:id="dpln_12" n="12"/><castItem rend="italic"><role xml:id="Doctor">Doctor</role>.</castItem>
+<lb xml:id="dpln_13" n="13"/><castItem rend="italic"><role xml:id="Fool">Fool</role>.</castItem>
+<lb xml:id="dpln_14" n="14"/><castItem rend="italic"><role xml:id="Steward">Steward</role>.</castItem>
     
 <castGroup rend="braced_right(#rd_daughters)">
 <lb xml:id="dpln_15" n="15" rend="print_tln"/><castItem><role xml:id="Gonerill">Gonerill</role>,</castItem>
@@ -48,8 +52,10 @@
     
     
 
-<lb xml:id="dpln_18" n="18"/><castItem rend="italic align(center)"><role xml:id="Knights">Knights attending on the King</role>, <role xml:id="Officers">Officers</role>, <role xml:id="Messengers">Messen&shy; </role></castItem>
-<lb xml:id="dpln_19" n="19"/>"/><castItem rend="italic align(center)">gers, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>.<anchor type="marker" marker="]" rend="clear"/></castItem>
+<castItem rend="italic align(center)">
+<lb xml:id="dpln_18" n="18"/><role xml:id="Knights">Knights attending on the King</role>, <role xml:id="Officers">Officers</role>, <role xml:id="Messengers">Messen&shy;
+<lb xml:id="dpln_19" n="19"/>gers</role>, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>.<anchor type="marker" marker="]"/>
+</castItem>
     
 
 <castItem display="all(suppress)"><role xml:id="Gentleman"/></castItem>
@@ -679,7 +685,7 @@
 <lb xml:id="tln_0459" n="459"/>that it followes, I am rough and lecherous, Fut, I should
 <lb xml:id="tln_0460" n="460" rend="print_tln"/>haue beene that I am, had the maidenlest starre of the Fir&shy;
 <lb xml:id="tln_0461" n="461"/>mament twinckled on my bastardy.
-<lb xml:id="tln_0462" n="462"/><stage type="enter" rend="align(center)">Enter <name>Edgar</name></stage>
+<lb xml:id="tln_0462" n="462"/><stage type="enter" rend="align(center)">Enter Edgar</stage>
 <lb xml:id="tln_0463" n="463"/><name>Edgar</name>; and out hee comes like the Catastrophe of the old Comedy,
 <lb xml:id="tln_0464" n="464"/>mine is villanous melancholy, with a sith like them
 <lb xml:id="tln_0465" n="465" rend="print_tln"/>of Bedlam; O these eclipses doe portend these diui&shy;
@@ -800,8 +806,8 @@
     
 <lb xml:id="tln_0529" n="529"/><head>Scena Quarta.</head>
 
-<lb xml:id="tln_0530" n="530"/><stage type="enter" rend="align(center)">Enter <name>Kent</name>.</stage>
-    
+<lb xml:id="tln_0530" n="530"/><stage type="enter" rend="align(center)">Enter Kent.</stage>
+
 <lb xml:id="tln_0531" n="531" rend="print_tln"/><sp who="#Kent"><speaker>Kent.</speaker><p>If but as well I other accents borrow,
 <milestone unit="sig_Q" n="C3v">[C3<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_0532" n="532"/>that can my speech defuse, my good intent
@@ -812,7 +818,7 @@
 <lb xml:id="tln_0537" n="537"/>shall find the full of labour.</p></sp>
 
 <milestone unit="sig_F" n="qq4b">(qq4<hi rend="superscript">b</hi>)</milestone>
-<lb xml:id="tln_0538" n="538"/><stage type="enter" rend="align(center)">Enter <name>Lear</name>.</stage> 
+<lb xml:id="tln_0538" n="538"/><stage type="enter" rend="align(center)">Enter Lear.</stage>
 
 <lb xml:id="tln_0539" n="539"/><sp who="#Lear"><speaker>Lear.</speaker><p>Let me not stay a iot for dinner, goe get it rea&shy;
 <lb xml:id="tln_0540" n="540" rend="print_tln"/>die, how now, what art thou?</p></sp>
@@ -943,8 +949,8 @@
 <lb xml:id="tln_0622" n="622"/><sp who="#Lear"><speaker>Lear.</speaker><p>Now friendly knaue I thanke thee, their’s
 <lb xml:id="tln_0623" n="623"/>earnest of thy seruice.</p></sp>
 
-<lb xml:id="tln_0624" n="624"/><stage type="enter" rend="align(center)">Enter <name>Foole</name>.</stage>
-    
+<lb xml:id="tln_0624" n="624"/><stage type="enter" rend="align(center)">Enter Foole.</stage>
+
 <milestone unit="sig_Q" n="C4v">[C4<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_0625" n="625" rend="print_tln"/><sp who="#Fool"><speaker>Foole.</speaker><p>Let me hire him too, heer’s my coxcombe.</p></sp>
 
@@ -2755,8 +2761,8 @@
 <lb xml:id="tln_1914" n="1914"/>stock-punisht and imprisoned, who hath had three sutes
 <lb xml:id="tln_1915" n="1915" rend="print_tln"/>to his backe, sixe shirts to his bodie,
 <lb xml:id="tln_1916" n="1916"/>horse to ride, and weapon to weare.
-<lb xml:id="tln_1917" n="1917"/><p rend="indent(2em)">But mise and rats, and such small Deere,</p>
-<lb xml:id="tln_1918" n="1918"/><p rend="indent(2em)">Hath beene <name>Toms</name> foode for seuen long yeare.</p>
+<lb xml:id="tln_1917" n="1917" rend="indent(2em)"/>But mise and rats, and such small Deere,
+<lb xml:id="tln_1918" n="1918" rend="indent(2em)"/>Hath beene <name>Toms</name> foode for seuen long yeare.
 <lb xml:id="tln_1919" n="1919"/>Beware my follower, peace snulbug, peace thou fiend.</p></sp>
 
 <lb xml:id="tln_1920" n="1920" rend="print_tln"/><sp who="#Gloster"><speaker>Glost.</speaker><p>What hath your Grace no better company?</p></sp>
@@ -4095,10 +4101,10 @@
 <lb xml:id="tln_2720" n="2720" rend="print_tln"/>gayle, from the lothed warmth whereof deliuer me, and sup&shy;
 <milestone unit="sig_Q" n="K1v">[K1<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_2721" n="2721"/>ply the place for your labour,
-<lb xml:id="tln_2722" n="2722"/><p rend="indent(5em)">your wife (so I would say) your affectio&shy; </p>
-<lb xml:id="tln_2723i" n="2723–"/><p rend="indent(5em)">nate seruant</p>
-<lb xml:id="tln_2723p01-2723f" n="+1, –2723"/><p rend="indent(5.5em)"><nvsSeg type="edDiff" ed="Q" xml:id="tln_2723p01"><anchor type="marker" marker="⸢"/>and for you her owne for<name>Venter</name>,<anchor type="marker" marker="⸣"/></nvsSeg> <nvsSeg type="linePart" xml:id="tln_2723f"><name>Gonorill</name>.</nvsSeg></p></p></sp>
-    
+<lb xml:id="tln_2722" n="2722" rend="indent(5em)"/>your wife (so I would say) your affectio&shy;
+<lb xml:id="tln_2723i" n="2723–" rend="print_tln indent(5em)"/>nate seruant
+<lb xml:id="tln_2723p01-2723f" n="+1, –2723" rend="print_tln indent(5.5em)"/><nvsSeg type="edDiff" ed="Q" xml:id="tln_2723p01"><anchor type="marker" marker="⸢"/>and for you her owne for <name>Venter</name>,<anchor type="marker" marker="⸣"/></nvsSeg> <nvsSeg type="linePart" xml:id="tln_2723f"><name>Gonorill</name>.</nvsSeg></p></sp>
+
 <lb xml:id="tln_2724" n="2724"/><sp who="#Edgar"><speaker>Edg.</speaker><p>O Indistinguisht space of womans wit,
 <lb xml:id="tln_2725" n="2725" rend="print_tln"/>A plot vpon her vertuous husbands life,
 <lb xml:id="tln_2726" n="2726"/>And the exchange my brother heere in the sands,
