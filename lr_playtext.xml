@@ -27,8 +27,8 @@
 
 <lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<roleDesc> King of <hi rend="clear">Britain</hi> </roleDesc>.</castItem>
     
-<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>, King of <hi rend="italic">Britain</hi>.</castItem>
-    <lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
+<lb xml:id="dpln_20" n="20"/><castItem><role xml:id="Lear">LEAR</role>, King of <hi rend="italic">Britain</hi>.</castItem>
+<lb xml:id="dpln_21" n="21"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
     
 <lb xml:id="dpln_03" n="3"/><castItem rend="italic"><role xml:id="France">King of<hi rend="clear"> France</hi></role>.</castItem>
 <lb xml:id="dpln_04" n="4"/><castItem rend="italic"><role xml:id="Burgandy">Duke of<hi rend="clear"> Burgundy</hi></role>.</castItem>
