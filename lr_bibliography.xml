@@ -2127,7 +2127,7 @@
 
 <bibl xml:id="b_gibj0001"><author>Gibson, James M</author>. <note place="inline">Private contributor.</note></bibl>
 
-<bibl xml:id="b_gibj2002"><editor display="book(ldash)">Gibson, James M</editor>, ed. <title level="m">Records of Early English Drama. Kent: Diocese of Canterbury</title>. <extent>3 vols.</extent> <pubPlace>London &amp; Toronto</pubPlace>, <date>2002</date>.</bibl>
+<bibl xml:id="b_gibj2002"><author display="book(ldash)">Gibson, James M</author>, ed. <title level="m">Records of Early English Drama. Kent: Diocese of Canterbury</title>. <extent>3 vols.</extent> <pubPlace>London &amp; Toronto</pubPlace>, <date>2002</date>.</bibl>
 
 <bibl xml:id="b_giej1963"><author>Gielgud, John</author>. <title level="m">Stage Directions</title>. <date>1963</date>.</bibl>
 
@@ -2245,7 +2245,7 @@
 
 <bibl xml:id="b_grej1889"><author>Greenhill, James</author>. <title level="a">A Selection of Songs, Catches, and Ballads Mentiond [sic] by Shakspere</title> <date>[1889]</date>. <title level="m">New Shakspere Society’s Transactions 1887–1892</title>. <date>N. d.</date> <biblScope type="pages">Pp. 1†-21†</biblScope>.</bibl>
 
-<bibl xml:id="b_grej1884"><editor display="book(ldash)">Greenhill, James</editor>, <editor>W. A. Harrison</editor>, &amp; <editor>F. J. Furnivall</editor>, comps. <title level="m">A List of All the Songs &amp; Passages in Shakspere Which Have Been Set to Music</title>, <edition>Rev. ed.</edition> <title level="s">New Shakspere Soc. Pubs.</title>, <biblScope type="series">Ser. 8</biblScope>, <biblScope type="issue">No. 3</biblScope>. <date>1884</date>.</bibl>
+<bibl xml:id="b_grej1884"><author display="book(ldash)">Greenhill, James</author>, <editor>W. A. Harrison</editor>, &amp; <editor>F. J. Furnivall</editor>, comps. <title level="m">A List of All the Songs &amp; Passages in Shakspere Which Have Been Set to Music</title>, <edition>Rev. ed.</edition> <title level="s">New Shakspere Soc. Pubs.</title>, <biblScope type="series">Ser. 8</biblScope>, <biblScope type="issue">No. 3</biblScope>. <date>1884</date>.</bibl>
 
 <bibl xml:id="b_gree1931"><author>Greenlaw, Edwin</author>. <title level="m">The Province of Literary History</title>. <pubPlace>Baltimore</pubPlace>, <date>1931</date>.</bibl>
 
@@ -2483,7 +2483,7 @@
 
 <bibl xml:id="b_harg1933"><author display="book(ldash)">Harrison, George B</author>. <title level="a">These late eclipses.</title> <title level="j">TLS</title>, <date>30 Nov. 1933</date>, <biblScope type="pages">p. 856</biblScope>; <date>14 Dec. 1933</date>, <biblScope type="pages">p. 896</biblScope>.</bibl>
 
-<bibl xml:id="b_harg1962"><editor display="book(ldash)">Harrison, George B.</editor>, &amp; <editor>Robert F. McDonnell</editor>, eds. <title level="m"><title level="m">King Lear</title>: Text, Sources, Criticism.</title> <pubPlace>New York</pubPlace>, <date>1962</date>.</bibl>
+<bibl xml:id="b_harg1962"><author display="book(ldash)">Harrison, George B.</author>, &amp; <editor>Robert F. McDonnell</editor>, eds. <title level="m"><title level="m">King Lear</title>: Text, Sources, Criticism.</title> <pubPlace>New York</pubPlace>, <date>1962</date>.</bibl>
 
 <bibl xml:id="b_hart1964"><author>Harrison, Thomas P.</author> <title level="a"><title level="m">Titus Andronicus</title> and <title level="m">King Lear</title>: A Study in Continuity.</title> <title level="m">Shakespearean Essays</title>. Ed. <editor>Alwin Thaler</editor> &amp; <editor>Norman Sanders</editor>. <pubPlace>Knoxville</pubPlace>, <date>1964</date>. <biblScope type="pages">Pp. 121–30</biblScope>.</bibl>
 
@@ -2637,7 +2637,7 @@
 
 <bibl xml:id="b_hinc1953"><author display="book(ldash)">Hinman, Charlton</author>. <title level="a">Variant Readings in the First Folio of Shakespeare.</title> <title level="j">SQ</title> <biblScope type="vol">4</biblScope> (<date>1953</date>), <biblScope type="pages">27–88</biblScope>.</bibl>
 
-<bibl xml:id="b_hinc1996"><editor display="book(ldash)">Hinman, Charlton</editor>, ed. <title level="m">The First Folio of Shakespeare</title>. <title level="s">The Norton Facsimile.</title> <edition>2nd ed.</edition>, <respStmt><resp>with a new introduction by</resp> <name>Peter W. M. Blayney</name></respStmt>. <pubPlace>New York &amp; London</pubPlace>, <date>1996</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1968</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_hinc1996"><author display="book(ldash)">Hinman, Charlton</author>, ed. <title level="m">The First Folio of Shakespeare</title>. <title level="s">The Norton Facsimile.</title> <edition>2nd ed.</edition>, <respStmt><resp>with a new introduction by</resp> <name>Peter W. M. Blayney</name></respStmt>. <pubPlace>New York &amp; London</pubPlace>, <date>1996</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1968</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_hirh1973"><author>Hiramatsu, Hideo</author>. <title level="a">The Structure and Theme of <title level="m">King Lear</title>.</title> <title level="j">ShStud</title> <biblScope type="vol">12</biblScope> (<date>1973–4</date>), <biblScope type="pages">31–45</biblScope>.</bibl>
 
@@ -2791,7 +2791,7 @@
 
 <bibl xml:id="b_howt1977"><author display="book(ldash)">Howard-Hill, Trevor</author>. <title level="m">A Reassessment of Compositors B and E in the First Folio Tragedies</title>. <pubPlace>Columbia, S. C.</pubPlace>, <date>1977</date>.</bibl>
 
-<bibl xml:id="b_howt1971"><editor display="book(ldash)">Howard-Hill, Trevor</editor>, comp. <title level="m">A Concordance to the Text of the First Folio</title>. <pubPlace>Oxford</pubPlace>, <date>1971</date>.</bibl>
+<bibl xml:id="b_howt1971"><author display="book(ldash)">Howard-Hill, Trevor</author>, comp. <title level="m">A Concordance to the Text of the First Folio</title>. <pubPlace>Oxford</pubPlace>, <date>1971</date>.</bibl>
 
 <bibl xml:id="b_howh1970"><author>Howarth, Herbert</author>. <title level="m">The Tiger’s Heart: Eight Essays on Shakespeare</title>. <date>1970</date>.</bibl>
 
@@ -4031,13 +4031,13 @@
 
 <bibl xml:id="b_muik1953"><author display="book(ldash)">Muir, Kenneth</author>. <title level="a">This’ a Good Block.</title> <title level="j">TLS</title>, <date>30 Jan. 1953</date>, <biblScope type="pages">p. 73</biblScope>.</bibl>
 
-<bibl xml:id="b_muik1984"><editor display="book(ldash)">Muir, Kenneth</editor>, ed. <title level="m"><title level="m" rend="clear">King Lear</title>: Critical Essays.</title> <title level="s">Shakespearean Criticism</title> <biblScope type="vol">1</biblScope>. <pubPlace>New York &amp; London</pubPlace>, <date>1984</date>.</bibl>
+<bibl xml:id="b_muik1984"><author display="book(ldash)">Muir, Kenneth</author>, ed. <title level="m"><title level="m" rend="clear">King Lear</title>: Critical Essays.</title> <title level="s">Shakespearean Criticism</title> <biblScope type="vol">1</biblScope>. <pubPlace>New York &amp; London</pubPlace>, <date>1984</date>.</bibl>
 
 <bibl xml:id="b_muik1950b"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <author>John F. Danby</author>. <title level="a"><title level="m">Arcadia</title> and <title level="m">King Lear</title>.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">195</biblScope> (<date>1950</date>), <biblScope type="pages">49–51</biblScope>.</bibl>
 
 <bibl xml:id="b_muik1937"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <author>Sean O’Loughlin</author>. <title level="m">The Voyage to Illyria: A New Study of Shakespeare</title>. <date>1937</date>.</bibl>
 
-<bibl xml:id="b_muik1982"><editor display="book(ldash)">Muir, Kenneth</editor>, &amp; <editor>Stanley Wells</editor>, eds. <title level="m">Aspects of <title level="m" rend="clear">King Lear</title>: Articles Reprinted from Shakespeare Survey.</title> <pubPlace>Cambridge &amp; New York</pubPlace>, <date>1982</date>.</bibl>
+<bibl xml:id="b_muik1982"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <editor>Stanley Wells</editor>, eds. <title level="m">Aspects of <title level="m" rend="clear">King Lear</title>: Articles Reprinted from Shakespeare Survey.</title> <pubPlace>Cambridge &amp; New York</pubPlace>, <date>1982</date>.</bibl>
 
 <bibl xml:id="b_mulj1967"><author>Mulholland, Joan</author>. <title level="a"><quote>Thou</quote> and <quote>You</quote> in Shakespeare: A Study in the Second Person Pronoun.</title> <title level="j">ES</title> <biblScope type="vol">48</biblScope> (<date>1967</date>), <biblScope type="pages">34–43, 163</biblScope>.</bibl>
 
@@ -4097,7 +4097,7 @@
 
 <bibl xml:id="b_naye1896"><author>Naylor, Edward W.</author> <title level="m">Shakespeare and Music</title>. <date>1896</date>. (<note place="inline"><bibl><edition>New ed.</edition> <date>1931</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_naye1913"><editor display="book(ldash)">Naylor, Edward W.</editor>, ed. <title level="m">Shakespeare Music</title>. <date>1913</date>.</bibl>
+<bibl xml:id="b_naye1913"><author display="book(ldash)">Naylor, Edward W.</author>, ed. <title level="m">Shakespeare Music</title>. <date>1913</date>.</bibl>
 
 <bibl xml:id="b_neiw1910"><author>Neidig, William</author>. <title level="a">The Shakespeare Quartos of 1619.</title> <title level="j">MP</title> <biblScope type="vol">8</biblScope> (<date>1910</date>), <biblScope type="pages">145–63</biblScope>.</bibl>
 
@@ -4451,7 +4451,7 @@
 
 <bibl xml:id="b_prog1973"><author>Proudfoot, [G.] Richard</author>. <title level="a">Textual Studies.</title> <title level="j">ShS</title> <biblScope type="vol">26</biblScope> (<date>1973</date>), <biblScope type="pages">177–84</biblScope>.</bibl>
 
-<bibl xml:id="b_prog1992"><editor display="book(ldash)">Proudfoot, [G.] Richard</editor>, ed. <title level="m">Tom a Lincoln</title>. <title level="s">MSR.</title> <pubPlace>Oxford</pubPlace>, <date>1992</date>.</bibl>
+<bibl xml:id="b_prog1992"><author display="book(ldash)">Proudfoot, [G.] Richard</author>, ed. <title level="m">Tom a Lincoln</title>. <title level="s">MSR.</title> <pubPlace>Oxford</pubPlace>, <date>1992</date>.</bibl>
 
 <bibl xml:id="b_prof1961"><author>Provost, Foster</author>. <title level="a">On Justice and the Music in <title level="m">Richard II</title> and <title level="m">King Lear</title>.</title> <title level="j">Duquesne Stud., Annuale Mediaevale</title> <biblScope type="vol">2</biblScope> (<date>1961</date>), <biblScope type="pages">55–71</biblScope>.</bibl>
 
@@ -4977,7 +4977,7 @@
 
 <bibl xml:id="b_shac1965"><author display="book(ldash)">Shattuck, Charles H</author>. <title level="m">The Shakespeare Promptbooks: A Descriptive Catalogue</title>. <pubPlace>Urbana</pubPlace>, <date>1965</date>.</bibl>
 
-<bibl xml:id="b_shac1974"><editor display="book(ldash)">Shattuck, Charles H.</editor>, ed. <title level="m">John Philip Kemble Promptbooks</title>. <extent>11 vols.</extent> <pubPlace>Charlottesville</pubPlace>, <date>1974</date>.</bibl>
+<bibl xml:id="b_shac1974"><author display="book(ldash)">Shattuck, Charles H.</author>, ed. <title level="m">John Philip Kemble Promptbooks</title>. <extent>11 vols.</extent> <pubPlace>Charlottesville</pubPlace>, <date>1974</date>.</bibl>
 
 <bibl xml:id="b_shaj1966"><author>Shaw, John</author>. <title level="a"><title level="m">King Lear</title>: The Final Lines.</title> <title level="j">EIC</title> <biblScope type="vol">16</biblScope> (<date>1966</date>), <biblScope type="pages">261–7</biblScope>.</bibl>
 
@@ -5447,7 +5447,7 @@
 
 <bibl xml:id="b_tayg1993"><author display="book(ldash)">Taylor, Gary</author>, &amp; <author>John Jowett</author>. <title level="m">Shakespeare Reshaped 1606–1623</title>. <pubPlace>Oxford</pubPlace>, <date>1993</date>.</bibl>
 
-<bibl xml:id="b_tayg1983d"><editor display="book(ldash)">Taylor, Gary</editor>, &amp; <editor>Michael Warren</editor>, eds.  <title level="m">The Division of the Kingdoms: Shakespeare’s Two Versions of <title level="m">King Lear</title></title>. <title level="s">Oxford Shakespeare Studies</title>. <pubPlace>Oxford</pubPlace>, <date>1983</date>.</bibl>
+<bibl xml:id="b_tayg1983d"><author display="book(ldash)">Taylor, Gary</author>, &amp; <editor>Michael Warren</editor>, eds.  <title level="m">The Division of the Kingdoms: Shakespeare’s Two Versions of <title level="m">King Lear</title></title>. <title level="s">Oxford Shakespeare Studies</title>. <pubPlace>Oxford</pubPlace>, <date>1983</date>.</bibl>
 
 <bibl xml:id="b_tayg1943"><author>Taylor, George C.</author> <title level="a">Montaigne-Shakespeare and the Deadly Parallel.</title> <title level="j">PQ</title> <biblScope type="vol">22</biblScope> (<date>1943</date>), <biblScope type="pages">330–7</biblScope>.</bibl>
 
@@ -5843,7 +5843,7 @@
 
 <bibl xml:id="b_wels1961"><author display="book(ldash)">Wells, Stanley</author>. <title level="a">Tom O’Bedlam’s Song and <title level="m">King Lear</title>.</title> <title level="j">SQ</title> <biblScope type="vol">12</biblScope> (<date>1961</date>), <biblScope type="pages">311–15</biblScope>.</bibl>
 
-<bibl xml:id="b_wels1997"><editor display="book(ldash)">Wells, Stanley</editor>, ed. <title level="m">Shakespeare in the Theatre: An Anthology of Criticism</title>. <pubPlace>Oxford</pubPlace>, <date>1997</date>.</bibl>
+<bibl xml:id="b_wels1997"><author display="book(ldash)">Wells, Stanley</author>, ed. <title level="m">Shakespeare in the Theatre: An Anthology of Criticism</title>. <pubPlace>Oxford</pubPlace>, <date>1997</date>.</bibl>
 
 <bibl xml:id="b_wels1987"><author display="book(ldash)">Wells, Stanley</author>, &amp; <author>Gary Taylor</author> <author>et al.</author> <title level="m">William Shakespeare: A Textual Companion</title>. <pubPlace>Oxford</pubPlace>, <date>1987</date>.</bibl>
 
