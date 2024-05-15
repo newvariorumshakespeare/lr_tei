@@ -48,10 +48,11 @@
     
     
 
-<castItem rend="italic align(center)">
+<castItem rend="align(center)">
 <lb xml:id="dpln_18" n="18"/><role xml:id="Knights">Knights attending on the King</role>, <role xml:id="Officers">Officers</role>, <role xml:id="Messengers">Messen&shy;
-<lb xml:id="dpln_19" n="19"/>gers</role>, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>.<anchor type="marker" marker="]"/>
+<lb xml:id="dpln_19" n="19"/>gers</role>, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>].
 </castItem>
+    
     
 
 <castItem display="all(suppress)"><role xml:id="Gentleman"/></castItem>
