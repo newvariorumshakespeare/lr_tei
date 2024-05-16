@@ -48,7 +48,7 @@
     
     
 
-<castItem rend="align(center)">
+<castItem rend="italic align(center)">
 <lb xml:id="dpln_18" n="18"/><role xml:id="Knights">Knights attending on the King</role>, <role xml:id="Officers">Officers</role>, <role xml:id="Messengers">Messen&shy;
 <lb xml:id="dpln_19" n="19"/>gers</role>, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>].
 </castItem>
@@ -182,7 +182,7 @@
 <lb xml:id="tln_0071" n="71"/>We make thee Lady, to thine and <name>Albaines</name> issue,
 <lb xml:id="tln_0072" n="72"/>Be this perpetuall, what saies our second daughter?
 <milestone unit="sig_Q" n="B2">[B2]</milestone>
-<lb xml:id="tln_0073" n="73"/>Our deerest <name>Regan</name>, wife to <name>Cornwell</name><nvsSeg type="edDiff" ed="Q"><anchor type="marker" marker="⸢"/>, speake<anchor type="marker" marker="⸣"/></nvsSeg>?</p></sp>
+<lb xml:id="tln_0073" n="73"/>Our deerest <name>Regan</name>, wife to <name>Cornwell</name>, <nvsSeg type="edDiff" ed="Q"><anchor type="marker" marker="⸢"/>speake<anchor type="marker" marker="⸣"/></nvsSeg>?</p></sp>
 
 <lb xml:id="tln_0074" n="74"/><sp who="#Regan"><speaker>Reg.</speaker><p>Sir I am made of the selfe same mettall that my sister is,
 <lb xml:id="tln_0075" n="75" rend="print_tln"/>And prize me at her worth in my true heart,
