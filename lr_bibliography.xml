@@ -4499,7 +4499,7 @@
 
 <bibl xml:id="b_rapd1954"><author>Raphael, D. Daiches</author>. <title level="a">Tragedy and Religion.</title> <title level="j">Listener</title> <biblScope type="vol">52</biblScope> (<date>1954</date>), <biblScope type="pages">360–1</biblScope>.</bibl>
 
-<bibl xml:id="b_rapm1843"><author>Rapp, Moritz</author>, tr. <title level="m">Lr.</title> in <title level="m">William Shakspere’s dramatische Werke</title>. Ed. <editor>Adelbert Keller</editor> &amp; <editor>M. Rapp</editor>. <pubPlace>Stuttgart</pubPlace>, <date>1843</date>.</bibl>
+<bibl xml:id="b_rapm1843"><translator>Rapp, Moritz</translator>, tr. <title level="m">Lr.</title> in <title level="m">William Shakspere’s dramatische Werke</title>. Ed. <editor>Adelbert Keller</editor> &amp; <editor>M. Rapp</editor>. <pubPlace>Stuttgart</pubPlace>, <date>1843</date>.</bibl>
 
 <bibl xml:id="b_rase1997"><author>Rasmussen, Eric</author>. <title level="a">The Revision of Scripts.</title> <title level="m">A New History of Early English Drama</title>. Ed. <editor>John D. Cox</editor> &amp; <editor>David S. Kastan</editor>. <pubPlace>New York</pubPlace>, <date>1997</date>. <biblScope type="pages">Pp. 441–60</biblScope>.</bibl>
 
@@ -5261,7 +5261,7 @@
 
 <bibl xml:id="b_stes1968"><author>Stetner, S. C. V.</author>, &amp; <author>Oscar B. Goodman</author>. <title level="a">Lear’s Darker Purpose.</title> <title level="j">L&amp;P</title> <biblScope type="vol">18</biblScope> (<date>1968</date>), <biblScope type="pages">82–90</biblScope>.</bibl>
 
-<bibl xml:id="b_stes1970"><nvsSeg type="rend" display="book(ldash)"><author>Stetner, S. C. V.</author>, &amp; <author>Oscar B. Goodman</author></nvsSeg>. <title level="a">Regan’s Profession.</title> <title level="j">ES</title> <biblScope type="vol">51</biblScope> (<date>1970</date>), <biblScope type="pages">331–6</biblScope>.</bibl>
+<bibl xml:id="b_stes1970"><author display="book(ldash)">Stetner, S. C. V. &amp; Oscar B. Goodman</author>. <title level="a">Regan’s Profession.</title> <title level="j">ES</title> <biblScope type="vol">51</biblScope> (<date>1970</date>), <biblScope type="pages">331–6</biblScope>.</bibl>
 
 <bibl xml:id="b_stej1961"><author>Stevens, John E.</author> <title level="m">Music &amp; Poetry in the Early Tudor Court</title>. <date>1961</date>.</bibl>
 
@@ -5761,7 +5761,7 @@
 
 <bibl xml:id="b_walj1971"><author display="book(ldash)">Walton, J[ames] K</author>. <title level="m">The Quarto Copy for the First Folio of Shakespeare</title>. <pubPlace>Dublin</pubPlace>, <date>1971</date>.</bibl>
 
-<bibl xml:id="b_warw0001"><author>Warburton, William</author>. <note place="inline">Cited in <author>Pierre Bayle</author>. <title level="m">A General Dictionary, Historical and Critical</title>. Tr. <author>John Peter Bernard</author> <author>et al.</author> <extent>10 vols.</extent> <date>1734–41</date>. <biblScope type="vol">9</biblScope> (<date>1739</date>): <biblScope type="misc">s.v. Shakespeare</biblScope>.</note> <note place="inline">Contributor to <siglum rend="smcaps">han2</siglum>, <siglum rend="smcaps">theo1</siglum>.</note></bibl>
+<bibl xml:id="b_warw0001"><author>Warburton, William</author>. <note place="inline">Cited in <author>Pierre Bayle</author>. <title level="m">A General Dictionary, Historical and Critical</title>. Tr. <author>John Peter Bernard</author> <translator>et al.</translator> <extent>10 vols.</extent> <date>1734–41</date>. <biblScope type="vol">9</biblScope> (<date>1739</date>): <biblScope type="misc">s.v. Shakespeare</biblScope>.</note> <note place="inline">Contributor to <siglum rend="smcaps">han2</siglum>, <siglum rend="smcaps">theo1</siglum>.</note></bibl>
 
 <bibl xml:id="b_warw0002"><author display="book(ldash)">Warburton, William</author>. <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_thel1817">Theobald, Lewis</ref>.</note></bibl>
 
