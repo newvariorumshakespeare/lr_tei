@@ -2393,7 +2393,7 @@
 
 <bibl xml:id="b_halj1880a"><author display="book(ldash)">Halliwell-Phillipps, James O</author>. <title level="a"><title level="m" rend="quotes">King Lear</title>: Lypsbury = Lydbury</title>; <title level="a"><title level="m" rend="quotes">King Lear,</title> [<ref targType="lb" target="#tln_1083">1083</ref>]: <quote>Picture.</quote></title> <biblScope type="series">6</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">1</biblScope> (<date>1880</date>), <biblScope type="pages">92</biblScope>.</bibl>
 
-<bibl xml:id="b_halj1880b"><author display="book(ldash)">Halliwell-Phillipps, James O.</author>. <title level="a">Old ballad quoted in <title level="m">King Lear</title>.</title> <biblScope type="series">6</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">1</biblScope> (<date>1880</date>), <biblScope type="pages">53</biblScope>.</bibl>
+<bibl xml:id="b_halj1880b"><author display="book(ldash)">Halliwell-Phillipps, James O</author>. <title level="a">Old ballad quoted in <title level="m">King Lear</title>.</title> <biblScope type="series">6</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">1</biblScope> (<date>1880</date>), <biblScope type="pages">53</biblScope>.</bibl>
 
 <bibl xml:id="b_halj1889"><author display="book(ldash)">Halliwell-Phillipps, James O</author>. <title level="m">Outlines of the Life of Shakespeare</title>. <edition>8th ed.</edition> <extent>2 vols.</extent> <date>1889</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1881</date></bibl>; <bibl><edition>2nd ed.</edition> <date>1882</date></bibl>; <bibl><edition>7th ed.</edition> <date>1887</date></bibl>.</note>)</bibl>
 
@@ -5261,7 +5261,7 @@
 
 <bibl xml:id="b_stes1968"><author>Stetner, S. C. V.</author>, &amp; <author>Oscar B. Goodman</author>. <title level="a">Lear’s Darker Purpose.</title> <title level="j">L&amp;P</title> <biblScope type="vol">18</biblScope> (<date>1968</date>), <biblScope type="pages">82–90</biblScope>.</bibl>
 
-<bibl xml:id="b_stes1970"><author display="book(ldash)">Stetner, S. C. V. &amp; Oscar B. Goodman</author>. <title level="a">Regan’s Profession.</title> <title level="j">ES</title> <biblScope type="vol">51</biblScope> (<date>1970</date>), <biblScope type="pages">331–6</biblScope>.</bibl>
+<bibl xml:id="b_stes1970"><author display="book(ldash)">Stetner, S. C. V., &amp; Oscar B. Goodman</author>. <title level="a">Regan’s Profession.</title> <title level="j">ES</title> <biblScope type="vol">51</biblScope> (<date>1970</date>), <biblScope type="pages">331–6</biblScope>.</bibl>
 
 <bibl xml:id="b_stej1961"><author>Stevens, John E.</author> <title level="m">Music &amp; Poetry in the Early Tudor Court</title>. <date>1961</date>.</bibl>
 
