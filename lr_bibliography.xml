@@ -67,7 +67,7 @@
 
 <bibl xml:id="b_adej1992"><author display="book(ldash)">Adelman, Janet</author>. <title level="m">Suffocating Mothers: Fantasies of Maternal Origin in Shakespeare’s Plays, <title level="m">Hamlet</title> to <title level="m">The Tempest</title>.</title> <pubPlace>New York &amp; London</pubPlace>, <date>1992</date>.</bibl>
 
-<bibl xml:id="b_adej1978"><editor display="book(ldash)">Adelman, Janet</editor>, ed. <title level="m">Twentieth Century Interpretations of <title level="m">King Lear</title>.</title> <pubPlace>Englewood Cliffs, N. J.</pubPlace>, <date>1978</date>.</bibl>
+<bibl xml:id="b_adej1978"><author display="book(ldash)">Adelman, Janet</author>, ed. <title level="m">Twentieth Century Interpretations of <title level="m">King Lear</title>.</title> <pubPlace>Englewood Cliffs, N. J.</pubPlace>, <date>1978</date>.</bibl>
 
 <bibl xml:id="b_adld1985"><author>Adler, Doris</author>. <title level="a">The Half-Life of Tate in <title level="m">King Lear</title>.</title> <biblScope type="series">3</biblScope> <title level="j">KR</title> <biblScope type="vol">7</biblScope> (<date>1985</date>), <biblScope type="pages">52–6</biblScope>.</bibl>
 
@@ -615,7 +615,7 @@
 
 <bibl xml:id="b_bonr1903"><author>Bond, R. Warwick</author>. <title level="a"><quote>A sleeveless errand</quote>: [<ref targType="lb" target="#tln_1238" targetEnd="#tln_1239">1238–9</ref>].</title> <title level="j">Athenaeum</title>, <biblScope type="issue">No. 3955</biblScope> (<date>15 Aug. 1903</date>), <biblScope type="pages">pp. 220–1</biblScope>.</bibl>
 
-<bibl xml:id="b_bonr1902"><editor display="book(ldash)">Bond, R. Warwick</editor>, ed. <title level="m">The Complete Works of John Lyly</title>. <extent>3 vols.</extent> <pubPlace>Oxford</pubPlace>, <date>1902</date>.</bibl>
+<bibl xml:id="b_bonr1902"><author display="book(ldash)">Bond, R. Warwick</author>, ed. <title level="m">The Complete Works of John Lyly</title>. <extent>3 vols.</extent> <pubPlace>Oxford</pubPlace>, <date>1902</date>.</bibl>
 
 <bibl xml:id="b_bonh1960"><author>Bonheim, Helmut</author>. <title level="m">The <title level="m" rend="clear">King Lear</title> Perplex.</title> <pubPlace>Belmont, Cal.</pubPlace>, <date>1960</date>.</bibl>
 
@@ -1037,7 +1037,7 @@
 
 <bibl xml:id="b_chal1976"><author>Champion, Larry S.</author> <title level="m">Shakespeare’s Tragic Perspective</title>. <pubPlace>Athens, Ga.</pubPlace>, <date>1976</date>.</bibl>
 
-<bibl xml:id="b_chal1980"><editor display="book(ldash)">Champion, Larry S.</editor>, comp. <title level="m"><title level="m">King Lear</title>: An Annotated Bibliography.</title> <title level="s">Garland Shakespeare Bibliographies.</title> <extent>2 vols.</extent> <pubPlace>New York &amp; London</pubPlace>, <date>1980</date>.</bibl>
+<bibl xml:id="b_chal1980"><author display="book(ldash)">Champion, Larry S.</author>, comp. <title level="m"><title level="m">King Lear</title>: An Annotated Bibliography.</title> <title level="s">Garland Shakespeare Bibliographies.</title> <extent>2 vols.</extent> <pubPlace>New York &amp; London</pubPlace>, <date>1980</date>.</bibl>
 
 <bibl xml:id="b_chaf1873"><author>Chance, F.</author> <title level="a"><title level="m">King Lear</title>: [<ref targType="lb" target="#tln_1105">1105</ref>].</title> <biblScope type="series">4</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">12</biblScope> (<date>1873</date>), <biblScope type="pages">43–4</biblScope>.</bibl>
 
@@ -1073,7 +1073,7 @@
 
 <bibl xml:id="b_chif1860"><editor>Child, Francis J.</editor>, ed. <title level="m">English and Scottish Ballads</title>. <extent>8 vols.</extent> <pubPlace>Boston</pubPlace>, <date>1860</date>.</bibl>
 
-<bibl xml:id="b_chif1882"><editor display="book(ldash)">Child, Francis J.</editor>, ed. <title level="m">The English and Scottish Popular Ballads</title>. <extent>5 vols.</extent> <pubPlace>Boston &amp; New York</pubPlace>, <date>1882–98</date>.</bibl>
+<bibl xml:id="b_chif1882"><author display="book(ldash)">Child, Francis J.</author>, ed. <title level="m">The English and Scottish Popular Ballads</title>. <extent>5 vols.</extent> <pubPlace>Boston &amp; New York</pubPlace>, <date>1882–98</date>.</bibl>
 
 <bibl xml:id="b_chrl1987"><author>Christian, Lynda G.</author> <title level="m">Theatrum Mundi: The History of an Idea</title>. <pubPlace>New York &amp; London</pubPlace>, <date>1987</date>. (<note place="inline">Rpt. of Harvard diss., <date>1969</date>.</note>)</bibl>
 
@@ -1179,7 +1179,7 @@
 
 <bibl xml:id="b_colr1974c"><author display="book(ldash)">Colie, Rosalie L</author>. <title level="m">Shakespeare’s Living Art</title>. <pubPlace>Princeton</pubPlace>, <date>1974</date>.</bibl>
 
-<bibl xml:id="b_colr1974d"><editor display="book(ldash)">Colie, Rosalie L.</editor>, &amp; <editor>F. T. Flahiff</editor>, eds. <title level="m">Some Facets of  <title level="m">King Lear</title>: Essays in Prismatic Criticism</title>. <pubPlace>Toronto</pubPlace>, <date>1974</date>.</bibl>
+<bibl xml:id="b_colr1974d"><author display="book(ldash)">Colie, Rosalie L.</author>, &amp; <editor>F. T. Flahiff</editor>, eds. <title level="m">Some Facets of  <title level="m">King Lear</title>: Essays in Prismatic Criticism</title>. <pubPlace>Toronto</pubPlace>, <date>1974</date>.</bibl>
 
 <bibl xml:id="b_colj1831"><author>Collier, John Payne</author>. <title level="m">The History of English Dramatic Poetry to the Time of Shakespeare and Annals of the Stage to the Restoration</title>. <extent>3 vols.</extent> <date>1831</date>.</bibl>
 
@@ -1187,13 +1187,13 @@
 
 <bibl xml:id="b_colj1852"><author display="book(ldash)">Collier, John Payne</author>. <title level="a">One or Two Passages in <title level="m">King Lear</title>.</title> <biblScope type="series">1</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">6</biblScope> (<date>1852</date>), <biblScope type="pages">41–2</biblScope>.</bibl>
 
-<bibl xml:id="b_colj1843"><editor display="book(ldash)">Collier, John Payne</editor>, ed. <title level="m">Shakespeare’s Library</title>. <extent>2 vols.</extent> <date>1843</date>.</bibl>
+<bibl xml:id="b_colj1843"><author display="book(ldash)">Collier, John Payne</author>, ed. <title level="m">Shakespeare’s Library</title>. <extent>2 vols.</extent> <date>1843</date>.</bibl>
 
 <bibl xml:id="b_coll0001"><author>Collins</author>. <note place="inline">Quoted in <siglum>v1778</siglum>. Either John Collins (1741–97) or a fictional persona of Steevens.</note></bibl>
 
 <bibl xml:id="b_cold1933"><author>Collins, D. C.</author> <title level="a">These late eclipses.</title> <title level="j">TLS</title>, <date>14 Dec. 1933</date>, <biblScope type="pages">p. 896</biblScope>.</bibl>
 
-<bibl xml:id="b_cold1931"><editor display="book(ldash)">Collins, D. C.</editor>, ed. <title level="m">J. Norden, Vicissitudo Rerum, 1601</title>. <title level="s">Sh. Assn. Facs.</title> <biblScope type="vol">4</biblScope>. <pubPlace>Oxford</pubPlace>, <date>1931</date>.</bibl>
+<bibl xml:id="b_cold1931"><author display="book(ldash)">Collins, D. C.</author>, ed. <title level="m">J. Norden, Vicissitudo Rerum, 1601</title>. <title level="s">Sh. Assn. Facs.</title> <biblScope type="vol">4</biblScope>. <pubPlace>Oxford</pubPlace>, <date>1931</date>.</bibl>
 
 <bibl xml:id="b_colj1903"><author>Collins, J. Churton</author>. <title level="a">Had Shakespeare read the Greek Tragedies?</title> <title level="j">Fortnightly Rev.</title> <biblScope type="vol">OS 79</biblScope> (<date>1903</date>), <biblScope type="pages">618–37, 848–58</biblScope>; <biblScope type="vol">80</biblScope> (<date>1903</date>), <biblScope type="pages">115–31</biblScope>. (<note place="inline"><bibl><edition>Rpt. in</edition> <ref targType="bibl" target="#b_colj1904"><title level="m">Studies in Shakespeare</title></ref>, <date>1904</date>.</bibl></note>)</bibl>
 
@@ -1379,7 +1379,7 @@
 
 <bibl xml:id="b_danp1878"><author display="book(ldash)">Daniel, P[eter] A</author>. <title level="a">Time Analysis of the Plots of Shakspere’s Plays: Part II. The Tragedies.</title> <title level="m">New Shakspere Society’s Transactions 1877–9</title>. <date>N. d.</date> <biblScope type="pages">Pp. 180–256</biblScope>. (<note place="inline">Paper read <date>13 Dec. 1878</date>.</note>)</bibl>
 
-<bibl xml:id="b_danp1864"><editor display="book(ldash)">Daniel, P[eter] A.</editor>, ed. <rs>MS notes by Howard Staunton, transcribed from his notebooks and marginalia into his ed. 1864, Folger Library copy, by P. A. Daniel</rs>.</bibl>
+<bibl xml:id="b_danp1864"><author display="book(ldash)">Daniel, P[eter] A.</author>, ed. <rs>MS notes by Howard Staunton, transcribed from his notebooks and marginalia into his ed. 1864, Folger Library copy, by P. A. Daniel</rs>.</bibl>
 
 <bibl xml:id="b_danl1981a"><author>Danson, Lawrence N.</author> <title level="a"><title level="m">King Lear</title> and the Two Abysses.</title> <title level="m">On <title level="m">King Lear</title>.</title> <pubPlace>Princeton</pubPlace>, <date>1981</date>. <biblScope type="pages">Pp. 119–35</biblScope>.</bibl>
 
@@ -1387,7 +1387,7 @@
 
 <bibl xml:id="b_danl1974"><author display="book(ldash)">Danson, Lawrence N</author>. <title level="m">Tragic Alphabet: Shakespeare’s Drama of Language</title>. <pubPlace>New Haven &amp; London</pubPlace>, <date>1974</date>.</bibl>
 
-<bibl xml:id="b_danl1981b"><editor display="book(ldash)">Danson, Lawrence N.</editor>, ed. <title level="m">On <title level="m">King Lear</title>.</title> <pubPlace>Princeton</pubPlace>, <date>1981</date>.</bibl>
+<bibl xml:id="b_danl1981b"><author display="book(ldash)">Danson, Lawrence N.</author>, ed. <title level="m">On <title level="m">King Lear</title>.</title> <pubPlace>Princeton</pubPlace>, <date>1981</date>.</bibl>
 
 <bibl xml:id="b_darr1938"><author>Darby, Robert H.</author> <title level="a">Astrology in Shakespeare’s <title level="m">Lear</title>.</title> <title level="j">ES</title> <biblScope type="vol">20</biblScope> (<date>1938</date>), <biblScope type="pages">250–7</biblScope>.</bibl>
 
@@ -1817,7 +1817,7 @@
 
 <bibl xml:id="b_evag1976"><author display="book(ldash)">Evans, G. Blakemore</author>. <title level="a"><title level="m">Shakespeare Restored</title>—Once Again.</title> <title level="m">Editing Renaissance Dramatic Texts English, Italian, and Spanish</title>. Ed. <editor>Anne Lancashire</editor>. <pubPlace>New York &amp; London</pubPlace>, <date>1976</date>. <biblScope type="pages">Pp. 39–56</biblScope>.</bibl>
 
-<bibl xml:id="b_evag1996"><editor display="book(ldash)">Evans, G. Blakemore</editor>, ed. <title level="m">Shakespearean Prompt-Books of the Seventeenth Century</title>. <note place="inline"><biblScope type="vol">Vol. VIII</biblScope>: <title level="m" rend="clear">King Lear</title>, <title level="m" rend="clear">Henry VIII</title>, <title level="m" rend="clear">The Merry Wives of Windsor</title>, <title level="m" rend="clear">Twelfth Night</title>, <title level="m" rend="clear">The Comedy of Errors</title>, <title level="m" rend="clear">The Winter’s Tale</title></note>. <pubPlace>Charlottesville</pubPlace>, <date>1996</date>.</bibl>
+<bibl xml:id="b_evag1996"><author display="book(ldash)">Evans, G. Blakemore</author>, ed. <title level="m">Shakespearean Prompt-Books of the Seventeenth Century</title>. <note place="inline"><biblScope type="vol">Vol. VIII</biblScope>: <title level="m" rend="clear">King Lear</title>, <title level="m" rend="clear">Henry VIII</title>, <title level="m" rend="clear">The Merry Wives of Windsor</title>, <title level="m" rend="clear">Twelfth Night</title>, <title level="m" rend="clear">The Comedy of Errors</title>, <title level="m" rend="clear">The Winter’s Tale</title></note>. <pubPlace>Charlottesville</pubPlace>, <date>1996</date>.</bibl>
 
 <bibl xml:id="b_evaj1990"><author>Evans, John X.</author> <title level="a">Erasmian Folly and Shakespeare’s <title level="m">King Lear</title>: A Study in Humanist Intertextuality.</title> <title level="j">Moreana</title>, <biblScope type="issue">No. 103</biblScope> (<date>1990</date>), <biblScope type="pages">3–23</biblScope>.</bibl>
 
@@ -1833,7 +1833,7 @@
 
 <bibl xml:id="b_evee1954"><author>Everitt, E. B.</author> <title level="m">The Young Shakespeare: Studies in Documentary Evidence</title>. <title level="s">Anglistica</title> <biblScope type="vol">2</biblScope>. <pubPlace>Copenhagen</pubPlace>, <date>1954</date>.</bibl>
 
-<bibl xml:id="b_evee1965"><editor display="book(ldash)">Everitt, E. B.</editor>, &amp; <editor>R. L. Armstrong</editor>, eds. <title level="m">Six Early Plays Related to the Shakespeare Canon</title>. <title level="s">Anglistica</title> <biblScope type="vol">14</biblScope>. <pubPlace>Copenhagen</pubPlace>, <date>1965</date>.</bibl>
+<bibl xml:id="b_evee1965"><author display="book(ldash)">Everitt, E. B.</author>, &amp; <editor>R. L. Armstrong</editor>, eds. <title level="m">Six Early Plays Related to the Shakespeare Canon</title>. <title level="s">Anglistica</title> <biblScope type="vol">14</biblScope>. <pubPlace>Copenhagen</pubPlace>, <date>1965</date>.</bibl>
 
 <bibl xml:id="b_ewbi1971"><author>Ewbank, Inga-Stina</author>. <title level="a"><quote>More Poignantly Than Words</quote>: Some Uses and Limitations of Visual Symbolism.</title> <title level="j">ShS</title> <biblScope type="vol">24</biblScope> (<date>1971</date>), <biblScope type="pages">13–18</biblScope>.</bibl>
 
@@ -2245,7 +2245,7 @@
 
 <bibl xml:id="b_grej1889"><author>Greenhill, James</author>. <title level="a">A Selection of Songs, Catches, and Ballads Mentiond [sic] by Shakspere</title> <date>[1889]</date>. <title level="m">New Shakspere Society’s Transactions 1887–1892</title>. <date>N. d.</date> <biblScope type="pages">Pp. 1†-21†</biblScope>.</bibl>
 
-<bibl xml:id="b_grej1884"><editor display="book(ldash)">Greenhill, James</editor>, <editor>W. A. Harrison</editor>, &amp; <editor>F. J. Furnivall</editor>, comps. <title level="m">A List of All the Songs &amp; Passages in Shakspere Which Have Been Set to Music</title>, <edition>Rev. ed.</edition> <title level="s">New Shakspere Soc. Pubs.</title>, <biblScope type="series">Ser. 8</biblScope>, <biblScope type="issue">No. 3</biblScope>. <date>1884</date>.</bibl>
+<bibl xml:id="b_grej1884"><author display="book(ldash)">Greenhill, James</author>, <editor>W. A. Harrison</editor>, &amp; <editor>F. J. Furnivall</editor>, comps. <title level="m">A List of All the Songs &amp; Passages in Shakspere Which Have Been Set to Music</title>, <edition>Rev. ed.</edition> <title level="s">New Shakspere Soc. Pubs.</title>, <biblScope type="series">Ser. 8</biblScope>, <biblScope type="issue">No. 3</biblScope>. <date>1884</date>.</bibl>
 
 <bibl xml:id="b_gree1931"><author>Greenlaw, Edwin</author>. <title level="m">The Province of Literary History</title>. <pubPlace>Baltimore</pubPlace>, <date>1931</date>.</bibl>
 
@@ -2289,9 +2289,9 @@
 
 <bibl xml:id="b_grew1940e"><author display="book(ldash)">Greg, W[alter] W</author>. <title level="m">The Variants in the First Quarto of <title level="m" rend="quotes">King Lear.</title></title> <date>1940</date>.</bibl>
 
-<bibl xml:id="b_grew1907"><editor display="book(ldash)">Greg, W[alter] W.</editor>, ed. <title level="m">Henslowe Papers</title>. <date>1907</date>.</bibl>
+<bibl xml:id="b_grew1907"><author display="book(ldash)">Greg, W[alter] W.</author>, ed. <title level="m">Henslowe Papers</title>. <date>1907</date>.</bibl>
 
-<bibl xml:id="b_grew1904"><editor display="book(ldash)">Greg, W[alter] W.</editor>, ed. <title level="m">Henslowe’s Diary</title>. <extent>2 vols.</extent> <date>1904–7</date>.</bibl>
+<bibl xml:id="b_grew1904"><author display="book(ldash)">Greg, W[alter] W.</author>, ed. <title level="m">Henslowe’s Diary</title>. <extent>2 vols.</extent> <date>1904–7</date>.</bibl>
 
 <bibl xml:id="b_gren1992"><author>Grene, Nicholas</author>. <title level="m">Shakespeare’s Tragic Imagination</title>. <pubPlace>New York</pubPlace>, <date>1992</date>.</bibl>
 
@@ -2483,7 +2483,7 @@
 
 <bibl xml:id="b_harg1933"><author display="book(ldash)">Harrison, George B</author>. <title level="a">These late eclipses.</title> <title level="j">TLS</title>, <date>30 Nov. 1933</date>, <biblScope type="pages">p. 856</biblScope>; <date>14 Dec. 1933</date>, <biblScope type="pages">p. 896</biblScope>.</bibl>
 
-<bibl xml:id="b_harg1962"><editor display="book(ldash)">Harrison, George B.</editor>, &amp; <editor>Robert F. McDonnell</editor>, eds. <title level="m"><title level="m">King Lear</title>: Text, Sources, Criticism.</title> <pubPlace>New York</pubPlace>, <date>1962</date>.</bibl>
+<bibl xml:id="b_harg1962"><author display="book(ldash)">Harrison, George B.</author>, &amp; <editor>Robert F. McDonnell</editor>, eds. <title level="m"><title level="m">King Lear</title>: Text, Sources, Criticism.</title> <pubPlace>New York</pubPlace>, <date>1962</date>.</bibl>
 
 <bibl xml:id="b_hart1964"><author>Harrison, Thomas P.</author> <title level="a"><title level="m">Titus Andronicus</title> and <title level="m">King Lear</title>: A Study in Continuity.</title> <title level="m">Shakespearean Essays</title>. Ed. <editor>Alwin Thaler</editor> &amp; <editor>Norman Sanders</editor>. <pubPlace>Knoxville</pubPlace>, <date>1964</date>. <biblScope type="pages">Pp. 121–30</biblScope>.</bibl>
 
@@ -2637,7 +2637,7 @@
 
 <bibl xml:id="b_hinc1953"><author display="book(ldash)">Hinman, Charlton</author>. <title level="a">Variant Readings in the First Folio of Shakespeare.</title> <title level="j">SQ</title> <biblScope type="vol">4</biblScope> (<date>1953</date>), <biblScope type="pages">27–88</biblScope>.</bibl>
 
-<bibl xml:id="b_hinc1996"><editor display="book(ldash)">Hinman, Charlton</editor>, ed. <title level="m">The First Folio of Shakespeare</title>. <title level="s">The Norton Facsimile.</title> <edition>2nd ed.</edition>, <respStmt><resp>with a new introduction by</resp> <name>Peter W. M. Blayney</name></respStmt>. <pubPlace>New York &amp; London</pubPlace>, <date>1996</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1968</date>.</bibl></note>)</bibl>
+<bibl xml:id="b_hinc1996"><author display="book(ldash)">Hinman, Charlton</author>, ed. <title level="m">The First Folio of Shakespeare</title>. <title level="s">The Norton Facsimile.</title> <edition>2nd ed.</edition>, <respStmt><resp>with a new introduction by</resp> <name>Peter W. M. Blayney</name></respStmt>. <pubPlace>New York &amp; London</pubPlace>, <date>1996</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1968</date>.</bibl></note>)</bibl>
 
 <bibl xml:id="b_hirh1973"><author>Hiramatsu, Hideo</author>. <title level="a">The Structure and Theme of <title level="m">King Lear</title>.</title> <title level="j">ShStud</title> <biblScope type="vol">12</biblScope> (<date>1973–4</date>), <biblScope type="pages">31–45</biblScope>.</bibl>
 
@@ -2791,7 +2791,7 @@
 
 <bibl xml:id="b_howt1977"><author display="book(ldash)">Howard-Hill, Trevor</author>. <title level="m">A Reassessment of Compositors B and E in the First Folio Tragedies</title>. <pubPlace>Columbia, S. C.</pubPlace>, <date>1977</date>.</bibl>
 
-<bibl xml:id="b_howt1971"><editor display="book(ldash)">Howard-Hill, Trevor</editor>, comp. <title level="m">A Concordance to the Text of the First Folio</title>. <pubPlace>Oxford</pubPlace>, <date>1971</date>.</bibl>
+<bibl xml:id="b_howt1971"><author display="book(ldash)">Howard-Hill, Trevor</author>, comp. <title level="m">A Concordance to the Text of the First Folio</title>. <pubPlace>Oxford</pubPlace>, <date>1971</date>.</bibl>
 
 <bibl xml:id="b_howh1970"><author>Howarth, Herbert</author>. <title level="m">The Tiger’s Heart: Eight Essays on Shakespeare</title>. <date>1970</date>.</bibl>
 
@@ -3395,7 +3395,7 @@
 
 <bibl xml:id="b_lees1916"><author display="book(ldash)">Lee, Sidney</author>. <title level="m">A Life of William Shakespeare</title>. <edition>Enl. ed.</edition> <pubPlace>New York</pubPlace>, <date>1916</date>. (<note place="inline"><bibl><edition>1st ed.</edition> <date>1898</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_lees0001"><editor display="book(ldash)">Lee, Sidney</editor>, ed. <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_sidl1909"><title level="m">Chronicle History of King Leir</title></ref>.</note></bibl>
+<bibl xml:id="b_lees0001"><author display="book(ldash)">Lee, Sidney</author>, ed. <note place="inline"><hi rend="italic">See</hi> <ref targType="bibl" target="#b_sidl1909"><title level="m">Chronicle History of King Leir</title></ref>.</note></bibl>
 
 <bibl xml:id="b_leec1950"><author>Leech, Clifford</author>. <title level="m">Shakespeare’s Tragedies and Other Studies in Seventeenth Century Drama</title>. <date>1950</date>.</bibl>
 
@@ -4031,13 +4031,13 @@
 
 <bibl xml:id="b_muik1953"><author display="book(ldash)">Muir, Kenneth</author>. <title level="a">This’ a Good Block.</title> <title level="j">TLS</title>, <date>30 Jan. 1953</date>, <biblScope type="pages">p. 73</biblScope>.</bibl>
 
-<bibl xml:id="b_muik1984"><editor display="book(ldash)">Muir, Kenneth</editor>, ed. <title level="m"><title level="m" rend="clear">King Lear</title>: Critical Essays.</title> <title level="s">Shakespearean Criticism</title> <biblScope type="vol">1</biblScope>. <pubPlace>New York &amp; London</pubPlace>, <date>1984</date>.</bibl>
+<bibl xml:id="b_muik1984"><author display="book(ldash)">Muir, Kenneth</author>, ed. <title level="m"><title level="m" rend="clear">King Lear</title>: Critical Essays.</title> <title level="s">Shakespearean Criticism</title> <biblScope type="vol">1</biblScope>. <pubPlace>New York &amp; London</pubPlace>, <date>1984</date>.</bibl>
 
 <bibl xml:id="b_muik1950b"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <author>John F. Danby</author>. <title level="a"><title level="m">Arcadia</title> and <title level="m">King Lear</title>.</title> <title level="j">N&amp;Q</title> <biblScope type="vol">195</biblScope> (<date>1950</date>), <biblScope type="pages">49–51</biblScope>.</bibl>
 
 <bibl xml:id="b_muik1937"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <author>Sean O’Loughlin</author>. <title level="m">The Voyage to Illyria: A New Study of Shakespeare</title>. <date>1937</date>.</bibl>
 
-<bibl xml:id="b_muik1982"><editor display="book(ldash)">Muir, Kenneth</editor>, &amp; <editor>Stanley Wells</editor>, eds. <title level="m">Aspects of <title level="m" rend="clear">King Lear</title>: Articles Reprinted from Shakespeare Survey.</title> <pubPlace>Cambridge &amp; New York</pubPlace>, <date>1982</date>.</bibl>
+<bibl xml:id="b_muik1982"><author display="book(ldash)">Muir, Kenneth</author>, &amp; <editor>Stanley Wells</editor>, eds. <title level="m">Aspects of <title level="m" rend="clear">King Lear</title>: Articles Reprinted from Shakespeare Survey.</title> <pubPlace>Cambridge &amp; New York</pubPlace>, <date>1982</date>.</bibl>
 
 <bibl xml:id="b_mulj1967"><author>Mulholland, Joan</author>. <title level="a"><quote>Thou</quote> and <quote>You</quote> in Shakespeare: A Study in the Second Person Pronoun.</title> <title level="j">ES</title> <biblScope type="vol">48</biblScope> (<date>1967</date>), <biblScope type="pages">34–43, 163</biblScope>.</bibl>
 
@@ -4097,7 +4097,7 @@
 
 <bibl xml:id="b_naye1896"><author>Naylor, Edward W.</author> <title level="m">Shakespeare and Music</title>. <date>1896</date>. (<note place="inline"><bibl><edition>New ed.</edition> <date>1931</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_naye1913"><editor display="book(ldash)">Naylor, Edward W.</editor>, ed. <title level="m">Shakespeare Music</title>. <date>1913</date>.</bibl>
+<bibl xml:id="b_naye1913"><author display="book(ldash)">Naylor, Edward W.</author>, ed. <title level="m">Shakespeare Music</title>. <date>1913</date>.</bibl>
 
 <bibl xml:id="b_neiw1910"><author>Neidig, William</author>. <title level="a">The Shakespeare Quartos of 1619.</title> <title level="j">MP</title> <biblScope type="vol">8</biblScope> (<date>1910</date>), <biblScope type="pages">145–63</biblScope>.</bibl>
 
@@ -4451,7 +4451,7 @@
 
 <bibl xml:id="b_prog1973"><author>Proudfoot, [G.] Richard</author>. <title level="a">Textual Studies.</title> <title level="j">ShS</title> <biblScope type="vol">26</biblScope> (<date>1973</date>), <biblScope type="pages">177–84</biblScope>.</bibl>
 
-<bibl xml:id="b_prog1992"><editor display="book(ldash)">Proudfoot, [G.] Richard</editor>, ed. <title level="m">Tom a Lincoln</title>. <title level="s">MSR.</title> <pubPlace>Oxford</pubPlace>, <date>1992</date>.</bibl>
+<bibl xml:id="b_prog1992"><author display="book(ldash)">Proudfoot, [G.] Richard</author>, ed. <title level="m">Tom a Lincoln</title>. <title level="s">MSR.</title> <pubPlace>Oxford</pubPlace>, <date>1992</date>.</bibl>
 
 <bibl xml:id="b_prof1961"><author>Provost, Foster</author>. <title level="a">On Justice and the Music in <title level="m">Richard II</title> and <title level="m">King Lear</title>.</title> <title level="j">Duquesne Stud., Annuale Mediaevale</title> <biblScope type="vol">2</biblScope> (<date>1961</date>), <biblScope type="pages">55–71</biblScope>.</bibl>
 
@@ -4499,7 +4499,7 @@
 
 <bibl xml:id="b_rapd1954"><author>Raphael, D. Daiches</author>. <title level="a">Tragedy and Religion.</title> <title level="j">Listener</title> <biblScope type="vol">52</biblScope> (<date>1954</date>), <biblScope type="pages">360–1</biblScope>.</bibl>
 
-<bibl xml:id="b_rapm1843"><translator>Rapp, Moritz</translator>, tr. <title level="m">Lr.</title> in <title level="m">William Shakspere’s dramatische Werke</title>. Ed. <editor>Adelbert Keller</editor> &amp; <editor>M. Rapp</editor>. <pubPlace>Stuttgart</pubPlace>, <date>1843</date>.</bibl>
+<bibl xml:id="b_rapm1843"><author>Rapp, Moritz</author>, tr. <title level="m">Lr.</title> in <title level="m">William Shakspere’s dramatische Werke</title>. Ed. <editor>Adelbert Keller</editor> &amp; <editor>M. Rapp</editor>. <pubPlace>Stuttgart</pubPlace>, <date>1843</date>.</bibl>
 
 <bibl xml:id="b_rase1997"><author>Rasmussen, Eric</author>. <title level="a">The Revision of Scripts.</title> <title level="m">A New History of Early English Drama</title>. Ed. <editor>John D. Cox</editor> &amp; <editor>David S. Kastan</editor>. <pubPlace>New York</pubPlace>, <date>1997</date>. <biblScope type="pages">Pp. 441–60</biblScope>.</bibl>
 
@@ -4699,7 +4699,7 @@
 
 <bibl xml:id="b_rotk1999"><author>Rothwell, Kenneth S.</author> <title level="m">A History of Shakespeare on Screen: A Century of Film and Television</title>. <pubPlace>Cambridge</pubPlace>, <date>1999</date>.</bibl>
 
-<bibl xml:id="b_rotk1990"><author display="book(ldash)">Rothwell, Kenneth S.</author>, &amp; <author>Annabelle H. Melzer</author>. <title level="m">Shakespeare on Screen: An International Filmography and Videography</title>. <pubPlace>New York &amp; London</pubPlace>, <date>1990</date>.</bibl>
+<bibl xml:id="b_rotk1990"><author display="book(ldash)">Rothwell, Kenneth S</author>, &amp; <author>Annabelle H. Melzer</author>. <title level="m">Shakespeare on Screen: An International Filmography and Videography</title>. <pubPlace>New York &amp; London</pubPlace>, <date>1990</date>.</bibl>
 
 <bibl xml:id="b_rotg1974"><author>Roti, Grant C.</author> <title level="a">Shakespeare’s <title level="m">King Lear</title> [<ref targType="lb" target="#tln_0061">61</ref>].</title> <title level="j">Expl</title> <biblScope type="vol">32</biblScope> (<date>1974</date>), <biblScope type="misc">item 67</biblScope>.</bibl>
 
@@ -4977,7 +4977,7 @@
 
 <bibl xml:id="b_shac1965"><author display="book(ldash)">Shattuck, Charles H</author>. <title level="m">The Shakespeare Promptbooks: A Descriptive Catalogue</title>. <pubPlace>Urbana</pubPlace>, <date>1965</date>.</bibl>
 
-<bibl xml:id="b_shac1974"><editor display="book(ldash)">Shattuck, Charles H.</editor>, ed. <title level="m">John Philip Kemble Promptbooks</title>. <extent>11 vols.</extent> <pubPlace>Charlottesville</pubPlace>, <date>1974</date>.</bibl>
+<bibl xml:id="b_shac1974"><author display="book(ldash)">Shattuck, Charles H.</author>, ed. <title level="m">John Philip Kemble Promptbooks</title>. <extent>11 vols.</extent> <pubPlace>Charlottesville</pubPlace>, <date>1974</date>.</bibl>
 
 <bibl xml:id="b_shaj1966"><author>Shaw, John</author>. <title level="a"><title level="m">King Lear</title>: The Final Lines.</title> <title level="j">EIC</title> <biblScope type="vol">16</biblScope> (<date>1966</date>), <biblScope type="pages">261–7</biblScope>.</bibl>
 
@@ -5111,7 +5111,7 @@
 
 <bibl xml:id="b_smiw0001"><author>Smith, William (<date>1690–1767</date>)</author>. <note place="inline">Contributor to <ref targType="bibl" target="#b_grez1754">Grey 1754</ref>.</note></bibl>
 
-<bibl xml:id="b_smiw1739"><author>Smith, William</author>. <title level="m">Dionysius Longinus on the Sublime: Translated from the Greek, with Notes and Observations</title>. <date>1739</date>.</bibl>
+    <bibl xml:id="b_smiw1739"><author display="book(ldash)">Smith, William</author>. <title level="m">Dionysius Longinus on the Sublime: Translated from the Greek, with Notes and Observations</title>. <date>1739</date>.</bibl>
 
 <bibl xml:id="b_smig1970"><author>Smithers, G. V.</author> <title level="a">Guide-Lines for Interpreting the Uses of the Suffix <quote>-ed</quote> in Shakespeare’s English.</title> <title level="j">ShS</title> <biblScope type="vol">23</biblScope> (<date>1970</date>), <biblScope type="pages">27–37</biblScope>.</bibl>
 
@@ -5235,7 +5235,7 @@
 
 <bibl xml:id="b_steg0002"><author display="book(ldash)">Steevens, George</author>. <note place="inline">MS notes in <siglum>v1793</siglum>, Bodleian Library copy Malone C.192.</note></bibl>
 
-<bibl xml:id="b_steg1766"><editor display="book(ldash)">Steevens, George</editor>, ed. <title level="m">Twenty of the Plays of Shakespeare&hellip;printed in Quarto</title>. <extent>4 vols.</extent> <date>1766</date>.</bibl>
+<bibl xml:id="b_steg1766"><author display="book(ldash)">Steevens, George</author>, ed. <title level="m">Twenty of the Plays of Shakespeare&hellip;printed in Quarto</title>. <extent>4 vols.</extent> <date>1766</date>.</bibl>
 
 <bibl xml:id="b_stew1969"><author>Stein, Walter</author>. <title level="m">Criticism as Dialogue</title>. <date>1969</date>.</bibl>
 
@@ -5843,7 +5843,7 @@
 
 <bibl xml:id="b_wels1961"><author display="book(ldash)">Wells, Stanley</author>. <title level="a">Tom O’Bedlam’s Song and <title level="m">King Lear</title>.</title> <title level="j">SQ</title> <biblScope type="vol">12</biblScope> (<date>1961</date>), <biblScope type="pages">311–15</biblScope>.</bibl>
 
-<bibl xml:id="b_wels1997"><editor display="book(ldash)">Wells, Stanley</editor>, ed. <title level="m">Shakespeare in the Theatre: An Anthology of Criticism</title>. <pubPlace>Oxford</pubPlace>, <date>1997</date>.</bibl>
+<bibl xml:id="b_wels1997"><author display="book(ldash)">Wells, Stanley</author>, ed. <title level="m">Shakespeare in the Theatre: An Anthology of Criticism</title>. <pubPlace>Oxford</pubPlace>, <date>1997</date>.</bibl>
 
 <bibl xml:id="b_wels1987"><author display="book(ldash)">Wells, Stanley</author>, &amp; <author>Gary Taylor</author> <author>et al.</author> <title level="m">William Shakespeare: A Textual Companion</title>. <pubPlace>Oxford</pubPlace>, <date>1987</date>.</bibl>
 
@@ -6037,7 +6037,7 @@
 
 <bibl xml:id="b_wilj1924"><author display="book(ldash)">Wilson, J[ohn] Dover</author>. <title level="a">The Task of Heminge and Condell.</title> <title level="m">Studies in the First Folio Written for the Shakespeare Association</title>. <date>1924</date>. <biblScope type="pages">Pp. 53–77</biblScope>.</bibl>
 
-<bibl xml:id="b_wilj1931"><editor display="book(ldash)">Wilson, J[ohn] Dover</editor>, ed. <title level="m"><title level="m">King Lear</title>: A Facsimile of the First Folio Text.</title> [<date>1931</date>.]</bibl>
+<bibl xml:id="b_wilj1931"><author display="book(ldash)">Wilson, J[ohn] Dover</author>, ed. <title level="m"><title level="m">King Lear</title>: A Facsimile of the First Folio Text.</title> [<date>1931</date>.]</bibl>
 
 <bibl xml:id="b_wilk1978"><author>Wilson, K. J.</author> <title level="a">Shakespeare’s <quote>Tameness of a Wolf.</quote></title> <title level="j">N&amp;Q</title> <biblScope type="vol">223</biblScope> (<date>1978</date>), <biblScope type="pages">149</biblScope>.</bibl>
 
