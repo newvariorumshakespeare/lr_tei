@@ -829,7 +829,7 @@
 
 <bibl xml:id="b_bulg1969"><author>Bullough, Geoffrey</author>. <title level="a"><title level="m">King Lear</title> and the Annesley Case: A Reconsideration.</title> <title level="m">Festschrift Rudolf Stamm zu seinem sechzigsten Geburtstag am 12. April 1969</title>. Ed. <editor>Eduard Kolb</editor> &amp; <editor>Jörg Hasler</editor>. <pubPlace>Bern &amp; München</pubPlace>, <date>1969</date>. <biblScope type="pages">Pp. 43–9</biblScope>.</bibl>
 
-<bibl xml:id="b_bulg1957"><editor display="book(ldash)">Bullough, Geoffrey</editor>, ed. <title level="m">Narrative and Dramatic Sources of Shakespeare</title>. <extent>8 vols.</extent> <pubPlace>London &amp; New York</pubPlace>, <date>1957–75</date>. <biblScope type="vol">Vol. 4</biblScope> (<date>1962</date>): <title level="m">Later English History Plays: <title level="m" rend="clear">King John</title>, <title level="m" rend="clear">Henry IV</title>, <title level="m" rend="clear">Henry V</title>, <title level="m" rend="clear">Henry VIII</title></title>; <biblScope type="vol">Vol. 7</biblScope> (<date>1973</date>): <title level="m">Major Tragedies: <title level="m" rend="clear">Hamlet</title>, <title level="m" rend="clear">Othello</title>, <title level="m" rend="clear">King Lear</title>, <title level="m" rend="clear">Macbeth</title></title>.</bibl>
+<bibl xml:id="b_bulg1957"><author display="book(ldash)">Bullough, Geoffrey</author>, ed. <title level="m">Narrative and Dramatic Sources of Shakespeare</title>. <extent>8 vols.</extent> <pubPlace>London &amp; New York</pubPlace>, <date>1957–75</date>. <biblScope type="vol">Vol. 4</biblScope> (<date>1962</date>): <title level="m">Later English History Plays: <title level="m" rend="clear">King John</title>, <title level="m" rend="clear">Henry IV</title>, <title level="m" rend="clear">Henry V</title>, <title level="m" rend="clear">Henry VIII</title></title>; <biblScope type="vol">Vol. 7</biblScope> (<date>1973</date>): <title level="m">Major Tragedies: <title level="m" rend="clear">Hamlet</title>, <title level="m" rend="clear">Othello</title>, <title level="m" rend="clear">King Lear</title>, <title level="m" rend="clear">Macbeth</title></title>.</bibl>
 
 <bibl xml:id="b_bulj1985"><author>Bulman, James C.</author> <title level="m">The Heroic Idiom of Shakespearean Tragedy</title>. <pubPlace>Newark, Del.</pubPlace>, <date>1985</date>.</bibl>
 
@@ -917,7 +917,7 @@
 
 <bibl xml:id="b_calc1992"><author>Calvo, Clara</author>. <title level="a">Authorial Revision and Authoritative Texts: a Case for Discourse Stylistics and the Pied Bull Quarto.</title> <title level="m">Proceedings of the II Conference on the Spanish Soc. for Eng. Renaissance Stud</title>. Ed. <editor>S. G. Fernandez-Corugedo</editor>. <pubPlace>Oviedo</pubPlace>, <date>1992</date>. <biblScope type="pages">Pp. 39–56</biblScope>.</bibl>
 
-<bibl xml:id="b_camc1932"><author>Camden, Carroll, Jr</author> <title level="a">An Absurdity in <title level="m">King Lear</title>?</title> <title level="j">PQ</title> <biblScope type="vol">11</biblScope> (<date>1932</date>), <biblScope type="pages">408–9</biblScope>.</bibl>
+<bibl xml:id="b_camc1932"><author>Camden, Carroll, Jr.</author> <title level="a">An Absurdity in <title level="m">King Lear</title>?</title> <title level="j">PQ</title> <biblScope type="vol">11</biblScope> (<date>1932</date>), <biblScope type="pages">408–9</biblScope>.</bibl>
 
 <bibl xml:id="b_camc1933"><author display="book(ldash)">Camden, Carroll, Jr</author>. <title level="a">Astrology in Shakespeare’s Day.</title> <title level="j">Isis</title> <biblScope type="vol">19</biblScope> (<date>1933</date>), <biblScope type="pages">26–73</biblScope>.</bibl>
 
@@ -1037,7 +1037,7 @@
 
 <bibl xml:id="b_chal1976"><author>Champion, Larry S.</author> <title level="m">Shakespeare’s Tragic Perspective</title>. <pubPlace>Athens, Ga.</pubPlace>, <date>1976</date>.</bibl>
 
-<bibl xml:id="b_chal1980"><author display="book(ldash)">Champion, Larry S.</author>, comp. <title level="m"><title level="m">King Lear</title>: An Annotated Bibliography.</title> <title level="s">Garland Shakespeare Bibliographies.</title> <extent>2 vols.</extent> <pubPlace>New York &amp; London</pubPlace>, <date>1980</date>.</bibl>
+<bibl xml:id="b_chal1980"><author display="book(ldash)">Champion, Larry S</author>, comp. <title level="m"><title level="m">King Lear</title>: An Annotated Bibliography.</title> <title level="s">Garland Shakespeare Bibliographies.</title> <extent>2 vols.</extent> <pubPlace>New York &amp; London</pubPlace>, <date>1980</date>.</bibl>
 
 <bibl xml:id="b_chaf1873"><author>Chance, F.</author> <title level="a"><title level="m">King Lear</title>: [<ref targType="lb" target="#tln_1105">1105</ref>].</title> <biblScope type="series">4</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">12</biblScope> (<date>1873</date>), <biblScope type="pages">43–4</biblScope>.</bibl>
 
@@ -1073,7 +1073,7 @@
 
 <bibl xml:id="b_chif1860"><editor>Child, Francis J.</editor>, ed. <title level="m">English and Scottish Ballads</title>. <extent>8 vols.</extent> <pubPlace>Boston</pubPlace>, <date>1860</date>.</bibl>
 
-<bibl xml:id="b_chif1882"><author display="book(ldash)">Child, Francis J.</author>, ed. <title level="m">The English and Scottish Popular Ballads</title>. <extent>5 vols.</extent> <pubPlace>Boston &amp; New York</pubPlace>, <date>1882–98</date>.</bibl>
+<bibl xml:id="b_chif1882"><author display="book(ldash)">Child, Francis J</author>, ed. <title level="m">The English and Scottish Popular Ballads</title>. <extent>5 vols.</extent> <pubPlace>Boston &amp; New York</pubPlace>, <date>1882–98</date>.</bibl>
 
 <bibl xml:id="b_chrl1987"><author>Christian, Lynda G.</author> <title level="m">Theatrum Mundi: The History of an Idea</title>. <pubPlace>New York &amp; London</pubPlace>, <date>1987</date>. (<note place="inline">Rpt. of Harvard diss., <date>1969</date>.</note>)</bibl>
 
@@ -1179,7 +1179,7 @@
 
 <bibl xml:id="b_colr1974c"><author display="book(ldash)">Colie, Rosalie L</author>. <title level="m">Shakespeare’s Living Art</title>. <pubPlace>Princeton</pubPlace>, <date>1974</date>.</bibl>
 
-<bibl xml:id="b_colr1974d"><author display="book(ldash)">Colie, Rosalie L.</author>, &amp; <editor>F. T. Flahiff</editor>, eds. <title level="m">Some Facets of  <title level="m">King Lear</title>: Essays in Prismatic Criticism</title>. <pubPlace>Toronto</pubPlace>, <date>1974</date>.</bibl>
+<bibl xml:id="b_colr1974d"><author display="book(ldash)">Colie, Rosalie L</author>, &amp; <editor>F. T. Flahiff</editor>, eds. <title level="m">Some Facets of  <title level="m">King Lear</title>: Essays in Prismatic Criticism</title>. <pubPlace>Toronto</pubPlace>, <date>1974</date>.</bibl>
 
 <bibl xml:id="b_colj1831"><author>Collier, John Payne</author>. <title level="m">The History of English Dramatic Poetry to the Time of Shakespeare and Annals of the Stage to the Restoration</title>. <extent>3 vols.</extent> <date>1831</date>.</bibl>
 
@@ -1193,7 +1193,7 @@
 
 <bibl xml:id="b_cold1933"><author>Collins, D. C.</author> <title level="a">These late eclipses.</title> <title level="j">TLS</title>, <date>14 Dec. 1933</date>, <biblScope type="pages">p. 896</biblScope>.</bibl>
 
-<bibl xml:id="b_cold1931"><author display="book(ldash)">Collins, D. C.</author>, ed. <title level="m">J. Norden, Vicissitudo Rerum, 1601</title>. <title level="s">Sh. Assn. Facs.</title> <biblScope type="vol">4</biblScope>. <pubPlace>Oxford</pubPlace>, <date>1931</date>.</bibl>
+<bibl xml:id="b_cold1931"><author display="book(ldash)">Collins, D. C</author>, ed. <title level="m">J. Norden, Vicissitudo Rerum, 1601</title>. <title level="s">Sh. Assn. Facs.</title> <biblScope type="vol">4</biblScope>. <pubPlace>Oxford</pubPlace>, <date>1931</date>.</bibl>
 
 <bibl xml:id="b_colj1903"><author>Collins, J. Churton</author>. <title level="a">Had Shakespeare read the Greek Tragedies?</title> <title level="j">Fortnightly Rev.</title> <biblScope type="vol">OS 79</biblScope> (<date>1903</date>), <biblScope type="pages">618–37, 848–58</biblScope>; <biblScope type="vol">80</biblScope> (<date>1903</date>), <biblScope type="pages">115–31</biblScope>. (<note place="inline"><bibl><edition>Rpt. in</edition> <ref targType="bibl" target="#b_colj1904"><title level="m">Studies in Shakespeare</title></ref>, <date>1904</date>.</bibl></note>)</bibl>
 
@@ -1379,7 +1379,7 @@
 
 <bibl xml:id="b_danp1878"><author display="book(ldash)">Daniel, P[eter] A</author>. <title level="a">Time Analysis of the Plots of Shakspere’s Plays: Part II. The Tragedies.</title> <title level="m">New Shakspere Society’s Transactions 1877–9</title>. <date>N. d.</date> <biblScope type="pages">Pp. 180–256</biblScope>. (<note place="inline">Paper read <date>13 Dec. 1878</date>.</note>)</bibl>
 
-<bibl xml:id="b_danp1864"><author display="book(ldash)">Daniel, P[eter] A.</author>, ed. <rs>MS notes by Howard Staunton, transcribed from his notebooks and marginalia into his ed. 1864, Folger Library copy, by P. A. Daniel</rs>.</bibl>
+<bibl xml:id="b_danp1864"><author display="book(ldash)">Daniel, P[eter] A</author>, ed. <rs>MS notes by Howard Staunton, transcribed from his notebooks and marginalia into his ed. 1864, Folger Library copy, by P. A. Daniel</rs>.</bibl>
 
 <bibl xml:id="b_danl1981a"><author>Danson, Lawrence N.</author> <title level="a"><title level="m">King Lear</title> and the Two Abysses.</title> <title level="m">On <title level="m">King Lear</title>.</title> <pubPlace>Princeton</pubPlace>, <date>1981</date>. <biblScope type="pages">Pp. 119–35</biblScope>.</bibl>
 
@@ -1387,7 +1387,7 @@
 
 <bibl xml:id="b_danl1974"><author display="book(ldash)">Danson, Lawrence N</author>. <title level="m">Tragic Alphabet: Shakespeare’s Drama of Language</title>. <pubPlace>New Haven &amp; London</pubPlace>, <date>1974</date>.</bibl>
 
-<bibl xml:id="b_danl1981b"><author display="book(ldash)">Danson, Lawrence N.</author>, ed. <title level="m">On <title level="m">King Lear</title>.</title> <pubPlace>Princeton</pubPlace>, <date>1981</date>.</bibl>
+<bibl xml:id="b_danl1981b"><author display="book(ldash)">Danson, Lawrence N</author>, ed. <title level="m">On <title level="m">King Lear</title>.</title> <pubPlace>Princeton</pubPlace>, <date>1981</date>.</bibl>
 
 <bibl xml:id="b_darr1938"><author>Darby, Robert H.</author> <title level="a">Astrology in Shakespeare’s <title level="m">Lear</title>.</title> <title level="j">ES</title> <biblScope type="vol">20</biblScope> (<date>1938</date>), <biblScope type="pages">250–7</biblScope>.</bibl>
 
@@ -1833,7 +1833,7 @@
 
 <bibl xml:id="b_evee1954"><author>Everitt, E. B.</author> <title level="m">The Young Shakespeare: Studies in Documentary Evidence</title>. <title level="s">Anglistica</title> <biblScope type="vol">2</biblScope>. <pubPlace>Copenhagen</pubPlace>, <date>1954</date>.</bibl>
 
-<bibl xml:id="b_evee1965"><author display="book(ldash)">Everitt, E. B.</author>, &amp; <editor>R. L. Armstrong</editor>, eds. <title level="m">Six Early Plays Related to the Shakespeare Canon</title>. <title level="s">Anglistica</title> <biblScope type="vol">14</biblScope>. <pubPlace>Copenhagen</pubPlace>, <date>1965</date>.</bibl>
+<bibl xml:id="b_evee1965"><author display="book(ldash)">Everitt, E. B</author>, &amp; <editor>R. L. Armstrong</editor>, eds. <title level="m">Six Early Plays Related to the Shakespeare Canon</title>. <title level="s">Anglistica</title> <biblScope type="vol">14</biblScope>. <pubPlace>Copenhagen</pubPlace>, <date>1965</date>.</bibl>
 
 <bibl xml:id="b_ewbi1971"><author>Ewbank, Inga-Stina</author>. <title level="a"><quote>More Poignantly Than Words</quote>: Some Uses and Limitations of Visual Symbolism.</title> <title level="j">ShS</title> <biblScope type="vol">24</biblScope> (<date>1971</date>), <biblScope type="pages">13–18</biblScope>.</bibl>
 
@@ -2051,7 +2051,7 @@
 
 <bibl xml:id="b_furh1875"><author>Furness, Horace H.</author> <note place="inline">Newspaper cuttings, 1875–1909, in Furness Library</note>.</bibl>
 
-<bibl xml:id="b_furf1875"><author>Furnivall, F[rederick] J.</author> <title level="a">Being in the Sun—<title level="m">Hamlet</title>, [<ref targType="lb" target="#tln_0247">247</ref>], <title level="m">Lear</title>, [<ref targType="lb" target="#tln_1238" targetEnd="#tln_1239">1238–9</ref>], &amp;c.</title> <biblScope type="series">5</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">4</biblScope> (<date>1875</date>), <biblScope type="pages">223</biblScope>.</bibl>
+<bibl xml:id="b_furf1875"><author>Furnivall, F[rederick] J.</author> <title level="a">Being in the Sun—<title level="m">Hamlet</title>, [1.2] <title level="m">Lear</title>, [<ref targType="lb" target="#tln_1238" targetEnd="#tln_1239">1238–9</ref>], &amp;c.</title> <biblScope type="series">5</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">4</biblScope> (<date>1875</date>), <biblScope type="pages">223</biblScope>.</bibl>
 
 <bibl xml:id="b_furf1873a"><author display="book(ldash)">Furnivall, F[rederick] J</author>. <title level="a"><quote>Embossed.</quote></title> <biblScope type="series">4</biblScope> <title level="j">N&amp;Q</title> <biblScope type="vol">11</biblScope> (<date>1873</date>), <biblScope type="pages">507</biblScope>.</bibl>
 
@@ -2127,7 +2127,7 @@
 
 <bibl xml:id="b_gibj0001"><author>Gibson, James M</author>. <note place="inline">Private contributor.</note></bibl>
 
-<bibl xml:id="b_gibj2002"><editor display="book(ldash)">Gibson, James M</editor>, ed. <title level="m">Records of Early English Drama. Kent: Diocese of Canterbury</title>. <extent>3 vols.</extent> <pubPlace>London &amp; Toronto</pubPlace>, <date>2002</date>.</bibl>
+<bibl xml:id="b_gibj2002"><author display="book(ldash)">Gibson, James M</author>, ed. <title level="m">Records of Early English Drama. Kent: Diocese of Canterbury</title>. <extent>3 vols.</extent> <pubPlace>London &amp; Toronto</pubPlace>, <date>2002</date>.</bibl>
 
 <bibl xml:id="b_giej1963"><author>Gielgud, John</author>. <title level="m">Stage Directions</title>. <date>1963</date>.</bibl>
 
@@ -2289,9 +2289,9 @@
 
 <bibl xml:id="b_grew1940e"><author display="book(ldash)">Greg, W[alter] W</author>. <title level="m">The Variants in the First Quarto of <title level="m" rend="quotes">King Lear.</title></title> <date>1940</date>.</bibl>
 
-<bibl xml:id="b_grew1907"><author display="book(ldash)">Greg, W[alter] W.</author>, ed. <title level="m">Henslowe Papers</title>. <date>1907</date>.</bibl>
+<bibl xml:id="b_grew1907"><author display="book(ldash)">Greg, W[alter] W</author>, ed. <title level="m">Henslowe Papers</title>. <date>1907</date>.</bibl>
 
-<bibl xml:id="b_grew1904"><author display="book(ldash)">Greg, W[alter] W.</author>, ed. <title level="m">Henslowe’s Diary</title>. <extent>2 vols.</extent> <date>1904–7</date>.</bibl>
+<bibl xml:id="b_grew1904"><author display="book(ldash)">Greg, W[alter] W</author>, ed. <title level="m">Henslowe’s Diary</title>. <extent>2 vols.</extent> <date>1904–7</date>.</bibl>
 
 <bibl xml:id="b_gren1992"><author>Grene, Nicholas</author>. <title level="m">Shakespeare’s Tragic Imagination</title>. <pubPlace>New York</pubPlace>, <date>1992</date>.</bibl>
 
@@ -2483,7 +2483,7 @@
 
 <bibl xml:id="b_harg1933"><author display="book(ldash)">Harrison, George B</author>. <title level="a">These late eclipses.</title> <title level="j">TLS</title>, <date>30 Nov. 1933</date>, <biblScope type="pages">p. 856</biblScope>; <date>14 Dec. 1933</date>, <biblScope type="pages">p. 896</biblScope>.</bibl>
 
-<bibl xml:id="b_harg1962"><author display="book(ldash)">Harrison, George B.</author>, &amp; <editor>Robert F. McDonnell</editor>, eds. <title level="m"><title level="m">King Lear</title>: Text, Sources, Criticism.</title> <pubPlace>New York</pubPlace>, <date>1962</date>.</bibl>
+<bibl xml:id="b_harg1962"><author display="book(ldash)">Harrison, George B</author>, &amp; <editor>Robert F. McDonnell</editor>, eds. <title level="m"><title level="m">King Lear</title>: Text, Sources, Criticism.</title> <pubPlace>New York</pubPlace>, <date>1962</date>.</bibl>
 
 <bibl xml:id="b_hart1964"><author>Harrison, Thomas P.</author> <title level="a"><title level="m">Titus Andronicus</title> and <title level="m">King Lear</title>: A Study in Continuity.</title> <title level="m">Shakespearean Essays</title>. Ed. <editor>Alwin Thaler</editor> &amp; <editor>Norman Sanders</editor>. <pubPlace>Knoxville</pubPlace>, <date>1964</date>. <biblScope type="pages">Pp. 121–30</biblScope>.</bibl>
 
@@ -4097,7 +4097,7 @@
 
 <bibl xml:id="b_naye1896"><author>Naylor, Edward W.</author> <title level="m">Shakespeare and Music</title>. <date>1896</date>. (<note place="inline"><bibl><edition>New ed.</edition> <date>1931</date>.</bibl></note>)</bibl>
 
-<bibl xml:id="b_naye1913"><author display="book(ldash)">Naylor, Edward W.</author>, ed. <title level="m">Shakespeare Music</title>. <date>1913</date>.</bibl>
+<bibl xml:id="b_naye1913"><author display="book(ldash)">Naylor, Edward W</author>, ed. <title level="m">Shakespeare Music</title>. <date>1913</date>.</bibl>
 
 <bibl xml:id="b_neiw1910"><author>Neidig, William</author>. <title level="a">The Shakespeare Quartos of 1619.</title> <title level="j">MP</title> <biblScope type="vol">8</biblScope> (<date>1910</date>), <biblScope type="pages">145–63</biblScope>.</bibl>
 
@@ -4977,7 +4977,7 @@
 
 <bibl xml:id="b_shac1965"><author display="book(ldash)">Shattuck, Charles H</author>. <title level="m">The Shakespeare Promptbooks: A Descriptive Catalogue</title>. <pubPlace>Urbana</pubPlace>, <date>1965</date>.</bibl>
 
-<bibl xml:id="b_shac1974"><author display="book(ldash)">Shattuck, Charles H.</author>, ed. <title level="m">John Philip Kemble Promptbooks</title>. <extent>11 vols.</extent> <pubPlace>Charlottesville</pubPlace>, <date>1974</date>.</bibl>
+<bibl xml:id="b_shac1974"><author display="book(ldash)">Shattuck, Charles H</author>, ed. <title level="m">John Philip Kemble Promptbooks</title>. <extent>11 vols.</extent> <pubPlace>Charlottesville</pubPlace>, <date>1974</date>.</bibl>
 
 <bibl xml:id="b_shaj1966"><author>Shaw, John</author>. <title level="a"><title level="m">King Lear</title>: The Final Lines.</title> <title level="j">EIC</title> <biblScope type="vol">16</biblScope> (<date>1966</date>), <biblScope type="pages">261–7</biblScope>.</bibl>
 
@@ -5447,7 +5447,7 @@
 
 <bibl xml:id="b_tayg1993"><author display="book(ldash)">Taylor, Gary</author>, &amp; <author>John Jowett</author>. <title level="m">Shakespeare Reshaped 1606–1623</title>. <pubPlace>Oxford</pubPlace>, <date>1993</date>.</bibl>
 
-<bibl xml:id="b_tayg1983d"><editor display="book(ldash)">Taylor, Gary</editor>, &amp; <editor>Michael Warren</editor>, eds.  <title level="m">The Division of the Kingdoms: Shakespeare’s Two Versions of <title level="m">King Lear</title></title>. <title level="s">Oxford Shakespeare Studies</title>. <pubPlace>Oxford</pubPlace>, <date>1983</date>.</bibl>
+<bibl xml:id="b_tayg1983d"><author display="book(ldash)">Taylor, Gary</author>, &amp; <editor>Michael Warren</editor>, eds.  <title level="m">The Division of the Kingdoms: Shakespeare’s Two Versions of <title level="m">King Lear</title></title>. <title level="s">Oxford Shakespeare Studies</title>. <pubPlace>Oxford</pubPlace>, <date>1983</date>.</bibl>
 
 <bibl xml:id="b_tayg1943"><author>Taylor, George C.</author> <title level="a">Montaigne-Shakespeare and the Deadly Parallel.</title> <title level="j">PQ</title> <biblScope type="vol">22</biblScope> (<date>1943</date>), <biblScope type="pages">330–7</biblScope>.</bibl>
 
