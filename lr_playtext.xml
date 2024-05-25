@@ -113,8 +113,7 @@
 <lb xml:id="tln_0020" n="20" rend="print_tln"/><sp who="#Kent"><speaker>Kent.</speaker><p>I cannot wish the fault vndone, the issue of it
 <lb xml:id="tln_0021" n="21"/>being so proper.</p></sp>
 
-    <lb xml:id="tln_0022" n="22"/><sp who="#Gloster"><speaker>Glost.</speaker><p rend="italic">But I haue sir a sonne by order of Law, some
-
+<lb xml:id="tln_0022" n="22"/><sp who="#Gloster"><speaker>Glost.</speaker><p>But I haue sir a sonne by order of Law, some
 <lb xml:id="tln_0023" n="23"/>yeare elder then this, who yet is no deerer in my ac&shy;
 <lb xml:id="tln_0024" n="24"/>count, though this knaue came something sawcely into the
 <lb xml:id="tln_0025" n="25" rend="print_tln"/>world before hee was sent for, yet was his mother faire,
@@ -124,7 +123,7 @@
 
 <milestone unit="sig_Q" n="B1v">[B1<hi rend="superscript">v</hi>]</milestone>
 <lb xml:id="tln_0029" n="29"/><sp who="#Edmund"><speaker>Bast.</speaker><p>No my Lord.</p></sp>
-
+    
 <lb xml:id="tln_0030" n="30" rend="print_tln"/><sp who="#Gloster"><speaker>Glost.</speaker><p>My Lord of Kent,
 <lb xml:id="tln_0031" n="31"/>remember him hereafter as my honorable friend.</p></sp>
 
@@ -515,8 +514,7 @@
     
 <lb xml:id="tln_0333" n="333"/><head>Scena Secunda.</head>
 
-
-    <lb xml:id="tln_0334" n="334"/><p rend="italic">Enter Bastard Solus.</p>
+<lb xml:id="tln_0334" n="334"/><stage type="enter" rend="align(center)">Enter Bastard Solus.</stage>
 
 <lb xml:id="tln_0335" n="335" rend="print_tln"/><sp who="#Edmund"><speaker>Bast.</speaker><p>Thou Nature art my Goddesse, to thy law
 <lb xml:id="tln_0336" n="336"/>my seruices are bound, wherefore should I
