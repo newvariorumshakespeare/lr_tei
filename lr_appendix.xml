@@ -757,10 +757,8 @@
 <p>The following is a list of conjectural readings that are not recorded in either the textual or the commentary notes. Most of these readings are taken from printed editions or commentaries; a few are from manuscript sources. I have attempted to note the earliest occurrence of each reading and all later occurrences that seem to have been arrived at independently; mere secondings of someone else’s conjecture have been ignored.</p>
 
 <anchor type="xref" xml:id="anchor_0007-a"/>
-    
-<note xml:id="uc_0004" target="#tln_0004" targetEnd="#tln_0010"><label>4–10</label>
-<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, <note place="inline">[= <quote>weighed</quote>]</note>&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
-    
+<note type="unadopted" xml:id="uc_0004" target="#tln_0004" targetEnd="#tln_0010"><label>4–10</label>
+<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, <note place="inline">[= <quote>weighed</quote>]</note>&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">WALKER</name></ref> (1860, 1:13)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0009" target="#tln_0009"><label>9</label>
 <app><lem>equalities</lem>] <appPart><rdg type="replace">the qualities</rdg> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 50)</wit></appPart></app></note>
@@ -4588,18 +4586,17 @@ Other spellings sometimes used as discriminants proved inconclusive or inconsist
 
 <p><ref targType="bibl" target="#s_duth"><name type="app">Duthie</name></ref> (ed. 1949, p. 106) gives the following tabulation of marks within (but not at the ends of) speeches in the first two acts; the line numbers refer to lines of print in Q:
 
-    <table xml:id="table_app_010" rows="11" cols="8">
-        <row role="label">
-            <cell>Act &amp; Scene</cell>
-            <cell>No. of Lines</cell>
-            <cell>Commas</cell>
-            <cell>Semi-colons</cell>
-            <cell>Colons</cell>
-            <cell>Questn. Marks</cell>
-            <cell>Excln. Marks</cell>
-            <cell>Full Stops</cell>
-        </row>
-        
+<table xml:id="table_app_010" rows="12" cols="8">
+<row role="label">
+<cell>Act &amp; Scene</cell>
+<cell>No. of Lines</cell>
+<cell>Commas</cell>
+<cell>Semicolons</cell>
+<cell>Colons</cell>
+<cell>Questn. Marks</cell>
+<cell>Excln. Marks</cell>
+<cell>Full Stops</cell>
+</row>
 
 <row>
 <cell>I.i</cell>
@@ -4700,27 +4697,31 @@ Other spellings sometimes used as discriminants proved inconclusive or inconsist
 <cell>4</cell>
 </row>
 
-        <row role="summary">
-            <cell>Total</cell>
-            <cell>1356</cell>
-            <cell>1534</cell>
-            <cell>20</cell>
-            <cell>13</cell>
-            <cell>33</cell>
-            <cell>10</cell>
-            <cell>11</cell>
-        </row>
-    </table>
-    
-    <table xml:id="table_app_010" rows="1" cols="8">
-        <row>
-            <cell></cell>
-            <cell></cell>
-            <cell></cell>
-            <cell cols="5"><figure xml:id="fig_011"><graphic url="lr_figures/fig011.svg"/><figDesc rend="print">87</figDesc></figure></cell>
-        </row>
-    </table>
-    
+<row role="summary">
+<cell>Total</cell>
+<cell>1356</cell>
+<cell>1534</cell>
+<cell>20</cell>
+<cell>13</cell>
+<cell>33</cell>
+<cell>10</cell>
+<cell>11</cell>
+</row>
+
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell cols="5"><figure xml:id="fig_011"><graphic url="lr_figures/fig011.svg"/><figDesc>A full-width horizontal brace, pointing down</figDesc></figure></cell>
+</row>
+
+<row>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell cols="5" rend="align(center)">87</cell>
+</row>
+</table>
 
 There are only two pairs of round brackets ( ) in these two acts. Speeches usually close with the proper punctuation marks; on three occasions an interrupted speech ends with a dash, made of three hyphens. Question marks follow exclamations some fifteen times. <ref targType="bibl" target="#s_cam4q"><name type="app">Halio</name></ref> (ed. 1994, p. 7): <quote>Commas were sometimes used to indicate hyphens,</quote> citing <ref targType="lb" target="#tln_2189">2189</ref> poorlie,leed (u)/parti,eyd (c).</p>
 
