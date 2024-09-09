@@ -758,7 +758,7 @@
 
 <anchor type="xref" xml:id="anchor_0007-a"/>
 <note type="unadopted" xml:id="uc_0004" target="#tln_0004" targetEnd="#tln_0010"><label>4–10</label>
-<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, <note place="inline">[= <quote>weighed</quote>]</note>&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">WALKER</name></ref> (1860, 1:13)</wit></appPart></app></note>
+<app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi> duke&hellip;always&hellip;division&hellip;dukes&hellip;pois’d, <note place="inline">[= <quote>weighed</quote>]</note>&hellip;choice&hellip;moiety.</rdgDesc> <wit><ref targType="bibl" target="#b_walw1860"><name type="app">walker</name></ref> (1860, 1:13)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0009" target="#tln_0009"><label>9</label>
 <app><lem>equalities</lem>] <appPart><rdg type="replace">the qualities</rdg> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 50)</wit></appPart></app></note>
@@ -14453,8 +14453,8 @@ On the controversy over John Payne Collier’s deletion of these and other lines
 <l>Do not expect, who euer reades this story;</l>
 <l>Vertu’s my ground, it needs no ornament,</l>
 <l>And to deceyue you so, I should be sory.</l>
-<l rend="indent(1.5em)">If any such there be, post to King<anchor type="mgn" xml:id="mgna_012" corresp="#mgnn_012" marker="*"/><note type="source" place="margin_left" xml:id="mgnn_012" target="#mgna_012" marker="*">a Book<lb/>so called</note> Liere,</l>
-<l rend="indent(1.5em)">He hath applause, seeke not contentment heere.</l>
+<l rend="indent(0.5em)">If any such there be, post to King<anchor type="mgn" xml:id="mgna_012" corresp="#mgnn_012" marker="*"/><note type="source" place="margin_left" xml:id="mgnn_012" target="#mgna_012" marker="*">a Book<lb/>so called</note> Liere,</l>
+<l rend="indent(0.5em)">He hath applause, seeke not contentment heere.</l>
 </lg>
 
 <lg type="stanza">
@@ -14462,8 +14462,8 @@ On the controversy over John Payne Collier’s deletion of these and other lines
 <l>Theyr feygned passions, and Chymera’s strange;</l>
 <l>Teaching theyr pennes to weepe as one forlorne,</l>
 <l>And vp and downe in barren deserts range.</l>
-<l rend="indent(1.5em)">But if true griefe do once possesse theyr mind,</l>
-<l rend="indent(1.5em)">They feele theyr combats in another kind.</l>
+<l rend="indent(0.5em)">But if true griefe do once possesse theyr mind,</l>
+<l rend="indent(0.5em)">They feele theyr combats in another kind.</l>
 </lg>
 
 <lg type="stanza">
