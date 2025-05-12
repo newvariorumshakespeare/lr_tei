@@ -25,7 +25,7 @@
 
 <lb xml:id="dpln_01" n="1" rend="print_tln"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
 
-<lb xml:id="dpln_2" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
+<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
 <lb xml:id="dpln_03" n="3"/><castItem><role xml:id="France"><name>King of</name> France</role>.</castItem>
 <lb xml:id="dpln_04" n="4"/><castItem><role xml:id="Burgandy"><name>Duke of</name> Burgundy</role>.</castItem>
 <lb xml:id="dpln_05" n="5" rend="print_tln"/><castItem rend="italic"><role xml:id="Cornwall"><name>Duke of</name> Cornwall</role>.</castItem>
