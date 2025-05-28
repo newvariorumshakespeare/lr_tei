@@ -23,34 +23,34 @@
 <div type="castlist" xml:id="div_castlist">
 <castList xml:id="castlist">
 
-<lb xml:id="dpln_01" n="1" rend="print_tln"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
+<lb xml:id="dpln_01" n="DP 1" rend="print_tln"/><head><anchor type="marker" marker="["/>Dramatis Personæ.</head>
 
-<lb xml:id="dpln_02" n="2"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
-<lb xml:id="dpln_03" n="3"/><castItem><role xml:id="France"><name>King of</name> France</role>.</castItem>
-<lb xml:id="dpln_04" n="4"/><castItem><role xml:id="Burgandy"><name>Duke of</name> Burgundy</role>.</castItem>
-<lb xml:id="dpln_05" n="5" rend="print_tln"/><castItem rend="italic"><role xml:id="Cornwall"><name>Duke of</name> Cornwall</role>.</castItem>
-<lb xml:id="dpln_06" n="6"/><castItem><role xml:id="Albany"><name>Duke of</name> Albany</role>.</castItem>
+<lb xml:id="dpln_02" n="DP 2"/><castItem><role xml:id="Lear">LEAR</role>,<name> King of </name>Britain.</castItem>
+<lb xml:id="dpln_03" n="DP 3"/><castItem><role xml:id="France"><name>King of</name> France</role>.</castItem>
+<lb xml:id="dpln_04" n="DP 4"/><castItem><role xml:id="Burgandy"><name>Duke of</name> Burgundy</role>.</castItem>
+<lb xml:id="dpln_05" n="DP 5" rend="print_tln"/><castItem rend="italic"><role xml:id="Cornwall"><name>Duke of</name> Cornwall</role>.</castItem>
+<lb xml:id="dpln_06" n="DP 6"/><castItem><role xml:id="Albany"><name>Duke of</name> Albany</role>.</castItem>
 <lb xml:id="dpln_07" n="7"/><castItem><role xml:id="Gloster"><name>Earl of</name> Gloster</role>.</castItem>
-<lb xml:id="dpln_08" n="8"/><castItem><role xml:id="Kent"><name>Earl of</name> Kent</role>.</castItem>
-<lb xml:id="dpln_09" n="9"/><castItem><role xml:id="Edgar">Edgar</role>, <name>Son to</name> Gloster .</castItem>
-<lb xml:id="dpln_10" n="10" rend="print_tln"/><castItem><role xml:id="Edmund">Edmund</role>, <name>Bastard Son to</name> Gloster.</castItem>
-<lb xml:id="dpln_11" n="11"/><castItem><role xml:id="Curan">Curan</role>, <hi rend="italic"><name>a Courtier</name></hi>.</castItem>
-<lb xml:id="dpln_12" n="12"/><castItem rend="italic"><role xml:id="Doctor"><name>Doctor</name></role>.</castItem>
-<lb xml:id="dpln_13" n="13"/><castItem rend="italic"><role xml:id="Fool"><name>Fool</name></role>.</castItem>
-<lb xml:id="dpln_14" n="14"/><castItem><role xml:id="Steward"><name>Steward to</name></role> Gonerill.</castItem>
+<lb xml:id="dpln_08" n="DP 8"/><castItem><role xml:id="Kent"><name>Earl of</name> Kent</role>.</castItem>
+<lb xml:id="dpln_09" n="DP 9"/><castItem><role xml:id="Edgar">Edgar</role>, <name>Son to</name> Gloster .</castItem>
+<lb xml:id="dpln_10" n="DP 10" rend="print_tln"/><castItem><role xml:id="Edmund">Edmund</role>, <name>Bastard Son to</name> Gloster.</castItem>
+<lb xml:id="dpln_11" n="DP 11"/><castItem><role xml:id="Curan">Curan</role>, <hi rend="italic"><name>a Courtier</name></hi>.</castItem>
+<lb xml:id="dpln_12" n="DP 12"/><castItem rend="italic"><role xml:id="Doctor"><name>Doctor</name></role>.</castItem>
+<lb xml:id="dpln_13" n="DP 13"/><castItem rend="italic"><role xml:id="Fool"><name>Fool</name></role>.</castItem>
+<lb xml:id="dpln_14" n="DP 14"/><castItem><role xml:id="Steward"><name>Steward to</name></role> Gonerill.</castItem>
     
 <castGroup rend="braced_right(#rd_daughters)">
-<lb xml:id="dpln_15" n="15" rend="print_tln"/><castItem><role xml:id="Gonerill">Gonerill</role>,</castItem>
-<lb xml:id="dpln_16" n="16"/><castItem><role xml:id="Regan">Regan</role>,</castItem>
-<lb xml:id="dpln_17" n="17"/><castItem><role xml:id="Cordelia">Cordelia</role>,</castItem>
+<lb xml:id="dpln_15" n="DP 15" rend="print_tln"/><castItem><role xml:id="Gonerill">Gonerill</role>,</castItem>
+<lb xml:id="dpln_16" n="DP 16"/><castItem><role xml:id="Regan">Regan</role>,</castItem>
+<lb xml:id="dpln_17" n="DP 17"/><castItem><role xml:id="Cordelia">Cordelia</role>, </castItem>
     <name>Daughters to</name> Lear.
 </castGroup>
     
     
 
 <castItem rend="italic align(center)">
-<lb xml:id="dpln_18" n="18"/><role xml:id="Knights">Knights attending on the King</role>, <role xml:id="Officers">Officers</role>, <role xml:id="Messengers">Messen&shy;
-<lb xml:id="dpln_19" n="19"/>gers</role>, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>].
+<lb xml:id="dpln_18" n="DP 18"/><role xml:id="Knights">Knights attending on the King</role>, <role xml:id="Officers">Officers</role>, <role xml:id="Messengers">Messen&shy;
+<lb xml:id="dpln_19" n="DP 19"/>gers</role>, <role xml:id="Soldiers">Soldiers</role>, and <role xml:id="Attendants">Attendants</role>].
 </castItem>
     
     
