@@ -30,7 +30,7 @@
 <lb xml:id="dpln_04" n="DP 4"/><castItem><role xml:id="Burgandy"><name>Duke of</name> Burgundy</role>.</castItem>
 <lb xml:id="dpln_05" n="DP 5" rend="print_tln"/><castItem rend="italic"><role xml:id="Cornwall"><name>Duke of</name> Cornwall</role>.</castItem>
 <lb xml:id="dpln_06" n="DP 6"/><castItem><role xml:id="Albany"><name>Duke of</name> Albany</role>.</castItem>
-<lb xml:id="dpln_07" n="7"/><castItem><role xml:id="Gloster"><name>Earl of</name> Gloster</role>.</castItem>
+<lb xml:id="dpln_07" n="DP 7"/><castItem><role xml:id="Gloster"><name>Earl of</name> Gloster</role>.</castItem>
 <lb xml:id="dpln_08" n="DP 8"/><castItem><role xml:id="Kent"><name>Earl of</name> Kent</role>.</castItem>
 <lb xml:id="dpln_09" n="DP 9"/><castItem><role xml:id="Edgar">Edgar</role>, <name>Son to</name> Gloster .</castItem>
 <lb xml:id="dpln_10" n="DP 10" rend="print_tln"/><castItem><role xml:id="Edmund">Edmund</role>, <name>Bastard Son to</name> Gloster.</castItem>
