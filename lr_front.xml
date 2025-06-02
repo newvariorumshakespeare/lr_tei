@@ -39,12 +39,18 @@
 </docTitle>
 
 <byline>
-	<hi rend="italic">Edited by</hi><lb/>
-	<editor role="primary">Richard Knowles</editor><lb/>
-	<hi rend="italic">Associate Editor</hi><lb/>
-	<editor role="secondary">Kevin J. Donovan</editor><lb/>
-	<hi rend="italic">With a Stage History by</hi><lb/>
-	<editor role="secondary">Paula R. Glatzer</editor>
+	<p>
+		<hi rend="italic">Edited by</hi><lb/>
+		<editor role="primary">Richard Knowles</editor><lb/>
+	</p>
+	<p>
+		<hi rend="italic">Associate Editor</hi><lb/>
+		<editor role="secondary">Kevin J. Donovan</editor><lb/>
+	</p>
+	<p>
+		<hi rend="italic">With a Stage History by</hi><lb/>
+		<editor role="secondary">Paula R. Glatzer</editor>
+	</p>
 </byline>
 
 <docImprint>
