@@ -5148,35 +5148,6 @@ From the movements of the two skeletons and the sequence of formes, it appears t
 <cell>Ex</cell>
 </row>
 <row>
-<cell>By</cell>
-<cell>By</cell>
-<cell>Ex</cell>
-<cell>By</cell>
-<cell>By</cell>
-<cell>By</cell>
-<cell>Ex</cell>
-<cell>By</cell>
-<cell>Ex</cell>
-<cell>By</cell>
-<cell>By</cell>
-<cell>Ex</cell>
-</row>
-<row>
-<cell>By</cell>
-<cell>||</cell>
-<cell>E</cell>
-<cell>E</cell>
-<cell>Ey</cell>
-<cell>Ex</cell>
-<cell>Ex</cell>
-<cell>Ey</cell>
-<cell>Ey</cell>
-<cell>Ey/Ex</cell>
-<cell>Ey</cell>
-<cell>By</cell>
-</row>
-
-<row>
 <cell>qq3<hi rend="superscript">v</hi>:</cell>
 <cell>qq4</cell>
 <cell>qq4<hi rend="superscript">v</hi>:</cell>
@@ -5189,6 +5160,21 @@ From the movements of the two skeletons and the sequence of formes, it appears t
 <cell>qq6</cell>
 <cell>(qq1):</cell>
 <cell>qq6<hi rend="superscript">v</hi></cell>
+</row>
+
+<row>
+<cell>By</cell>
+<cell>By</cell>
+<cell>Ex</cell>
+<cell>By</cell>
+<cell>By</cell>
+<cell>By</cell>
+<cell>Ex</cell>
+<cell>By</cell>
+<cell>Ex</cell>
+<cell>By</cell>
+<cell>By</cell>
+<cell>Ex</cell>
 </row>
 <row>
 <cell>rr3<hi rend="superscript">v</hi>:</cell>
@@ -5203,6 +5189,21 @@ From the movements of the two skeletons and the sequence of formes, it appears t
 <cell>rr1<hi rend="superscript">v</hi>:</cell>
 <cell>rr6</cell>
 <cell>rr1:</cell>
+</row>
+
+<row>
+<cell>By</cell>
+<cell>||</cell>
+<cell>E</cell>
+<cell>E</cell>
+<cell>Ey</cell>
+<cell>Ex</cell>
+<cell>Ex</cell>
+<cell>Ey</cell>
+<cell>Ey</cell>
+<cell>Ey/Ex</cell>
+<cell>Ey</cell>
+<cell>By</cell>
 </row>
 <row>
 <cell>rr6<hi rend="superscript">v</hi></cell>
