@@ -89,7 +89,7 @@
 <app type="sourced"><lem>terrible</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>terribe</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_0371" target="#tln_0371"><label>371</label>
-<app type="sourced"><lem><hi rend="italic">Ba.</hi></lem>] <appPart><rdgDesc><hi rend="italic">Not indented</hi></rdgDesc> <wit><siglum>Q1(u)</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic">only slightly indented</hi></rdgDesc> <wit><siglum>Q1(c)</siglum></wit></appPart></app></note>
+    <app type="sourced"><lem><hi rend="italic">Ba.</hi></lem>] <appPart><rdgDesc><hi rend="italic">Not indented</hi></rdgDesc> <wit><siglum>Q1</siglum></wit>(u)</appPart>; <appPart><rdgDesc><hi rend="italic">only slightly indented</hi></rdgDesc> <wit><siglum>Q1</siglum></wit>(u)</appPart></app></note>
 
 <note type="irregular" xml:id="irr_0376" target="#tln_0376"><label>376</label>
 <app type="sourced"><lem><hi rend="italic">Bast.</hi></lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>&swdash;,</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
