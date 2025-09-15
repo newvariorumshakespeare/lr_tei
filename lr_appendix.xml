@@ -248,7 +248,7 @@
 <app type="silent"><lem>why</lem>] <appPart><rdgDesc><rdg>Why</rdg> <note place="inline">E4<hi rend="superscript">v</hi> catchword</note></rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1378" target="#tln_1378"><label>1378</label>
-<app type="sourced"><lem>speake, come and</lem>] <wit><siglum>Q1</siglum></wit>(u); <appPart><rdg>sp eake,commands</rdg> <wit><siglum>Q1</siglum> <note place="inline">(<hi rend="italic">possibly misplaced space, or dropped space and type shift</hi>)</note></wit>(c)</appPart></app></note>
+    <app type="sourced"><lem>speake, come and</lem>] <wit><siglum>Q1</siglum></wit>(u); <appPart><rdg>sp eake,commands</rdg> <wit><siglum>Q1</siglum></wit>(c) <note place="inline">(<hi rend="italic">possibly misplaced space, or dropped space and type shift</hi>)</note></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1381" target="#tln_1381"><label>1381</label>
 <app type="sourced"><lem>yet,</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg><hi rend="italic">comma doubtful</hi></rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
