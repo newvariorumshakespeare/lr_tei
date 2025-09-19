@@ -2365,9 +2365,9 @@
 						type="textual"><label>620–1</label>
 						<app><lem>lubbers,&hellip;againe&caret;</lem>] <appPart><rdg type="lem"
 									>&swdash;</rdg>
-								<wit><siglum>Q1(u)</siglum></wit></appPart>; <appPart><rdg
+								<wit><siglum>Q1</siglum></wit>(u)</appPart>; <appPart><rdg
 									type="replace">&swdash;&caret;&hellip;&swdash;,</rdg>
-								<wit><siglum>Q1(c)</siglum>&plus;</wit></appPart></app></note></quote>
+								<wit><siglum>Q1</siglum>(c)&plus;</wit></appPart></app></note></quote>
 				Here only punctuation is at issue: the comma in the uncorrected state of
 					<siglum>Q1</siglum> is relocated in the corrected state; the caret indicates its
 				place of absence in each variant, and the swung dashes (or lemma signs) stand for
