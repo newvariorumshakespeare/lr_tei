@@ -224,7 +224,7 @@
 <app type="silent"><lem>trauaild hard,</lem>] <appPart><rdgDesc><rdg>trauaild | (hard,</rdg> <note place="inline">(<hi rend="italic">turnunder</hi>)</note></rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1273" target="#tln_1273"><label>1273</label>
-<app type="sourced"><lem><hi rend="italic">Gentleman.</hi></lem>] <wit><siglum>F1(c)</siglum></wit>; <appPart><rdg><hi rend="italic">Gentlemaa.</hi></rdg> <wit><siglum>F1(u)</siglum></wit></appPart></app></note>
+<app type="sourced"><lem><hi rend="italic">Gentleman.</hi></lem>] <wit><siglum>F1</siglum></wit>(c); <appPart><rdg><hi rend="italic">Gentlemaa.</hi></rdg> <wit><siglum>F1</siglum></wit>(u)</appPart></app></note>
 
 <note type="irregular" xml:id="irr_1274" target="#tln_1274"><label>1274</label>
 <app type="silent"><lem>from hence,</lem>] <appPart><rdgDesc><rdg>from | (hence,</rdg> <note place="inline">(<hi rend="italic">turnunder</hi>)</note></rdgDesc></appPart></app></note>
@@ -248,7 +248,7 @@
 <app type="silent"><lem>why</lem>] <appPart><rdgDesc><rdg>Why</rdg> <note place="inline">E4<hi rend="superscript">v</hi> catchword</note></rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1378" target="#tln_1378"><label>1378</label>
-    <app type="sourced"><lem>speake, come and</lem>] <wit><siglum>Q1</siglum></wit>(u); <appPart><rdg>sp eake,commands</rdg> <wit><siglum>Q1</siglum></wit>(c) <note place="inline">(<hi rend="italic">possibly misplaced space, or dropped space and type shift</hi>)</note></appPart></app></note>
+<app type="sourced"><lem>speake, come and</lem>] <wit><siglum>Q1</siglum></wit>(u); <appPart><rdg>sp eake,commands</rdg> <wit><siglum>Q1</siglum>(c)<note place="inline">(<hi rend="italic">possibly misplaced space, or dropped space and type shift</hi>)</note></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1381" target="#tln_1381"><label>1381</label>
 <app type="sourced"><lem>yet,</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg><hi rend="italic">comma doubtful</hi></rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
@@ -353,7 +353,7 @@
 <app type="silent"><lem>madnes lies,</lem>] <appPart><rdgDesc><rdg>madnes | (lies,</rdg> <note place="inline">(<hi rend="italic">turnover</hi>)</note></rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1819" target="#tln_1819"><label>1819</label>
-<app type="sourced"><lem>Fathom and</lem>] <wit><siglum>F1(c)</siglum></wit>; <appPart><rdg>Fathomand</rdg> <wit><siglum>F1(u)</siglum></wit></appPart></app></note>
+<app type="sourced"><lem>Fathom and</lem>] <wit><siglum>F1</siglum></wit>(c); <appPart><rdg>Fathomand</rdg> <wit><siglum>F1</siglum></wit>(u)</appPart></app></note>
 
 <note type="irregular" xml:id="irr_1873" target="#tln_1873"><label>1873</label>
 <app type="sourced"><lem>greedines,&caret;</lem>] <wit><siglum>Q2</siglum> <note place="inline">(greedinesse)</note></wit>; <appPart><rdg>&swdash;,,</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
@@ -368,7 +368,7 @@
 <app type="sourced"><lem>sophisticated</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>so phisticated</rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_1897" target="#tln_1897"><label>1897</label>
-<app type="sourced"><lem>pin-</lem>] <appPart><rdgDesc><hi rend="italic">Hyphen uncertain, resembles point</hi></rdgDesc> <wit><siglum>Q1</siglum> <note place="inline">(<ref targType="bibl" target="#b_grew1940e"><name type="app">Greg</name></ref>, 1940, p. 97)</note></wit>(u)</appPart>; <appPart><rdg>pin,</rdg> <wit><siglum>Q1</siglum></wit>(c)</appPart></app></note>
+<app type="sourced"><lem>pin-</lem>] <appPart><rdgDesc><hi rend="italic">Hyphen uncertain, resembles point</hi></rdgDesc> <wit><siglum>Q1</siglum>(u)<note place="inline">(<ref targType="bibl" target="#b_grew1940e"><name type="app">Greg</name></ref>, 1940, p. 97)</note></wit></appPart>; <appPart><rdg>pin,</rdg> <wit><siglum>Q1</siglum></wit>(c)</appPart></app></note>
 
 <note type="irregular" xml:id="irr_1918" target="#tln_1918"><label>1918</label>
 <app type="sourced"><lem>yeare.</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg>&swdash; -</rdg> <wit><siglum>Q1</siglum> <note place="inline">(<hi rend="italic">see</hi> <ref targType="bibl" target="#b_grew1940e"><name type="app">Greg</name></ref>, 1940, p. 73)</note></wit></appPart></app></note>
@@ -644,7 +644,7 @@
 <app type="silent"><lem>familiar with her.</lem>] <appPart><rdgDesc><rdg>familiar | (with her.</rdg> <note place="inline">(<hi rend="italic">turnover</hi>)</note></rdgDesc></appPart></app></note>
 
 <note type="irregular" xml:id="irr_2864p02" target="#tln_2864p02"><label>2864+2</label>
-<app type="sourced"><lem>him and</lem>] <wit><siglum>Q1</siglum></wit>(c); <appPart><rdg>him nd</rdg> <wit><siglum>Q1</siglum> <note place="inline">(<hi rend="italic">type dropped out</hi>; see <ref targType="bibl" target="#b_blap1982"><name type="app">Blayney</name></ref>, 1982, p. 135)</note></wit>(u)</appPart></app></note>
+<app type="sourced"><lem>him and</lem>] <wit><siglum>Q1</siglum></wit>(c); <appPart><rdg>him nd</rdg> <wit><siglum>Q1</siglum>(u)<note place="inline">(<hi rend="italic">type dropped out</hi>; see <ref targType="bibl" target="#b_blap1982"><name type="app">Blayney</name></ref>, 1982, p. 135)</note></wit></appPart></app></note>
 
 <note type="irregular" xml:id="irr_2893" target="#tln_2893"><label>2893</label>
 <app type="sourced"><lem>cry,</lem>] <wit><siglum>Q2</siglum></wit>; <appPart><rdg><hi rend="italic">comma doubtful</hi></rdg> <wit><siglum>Q1</siglum></wit></appPart></app></note>
