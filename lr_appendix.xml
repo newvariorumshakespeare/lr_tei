@@ -869,7 +869,7 @@
 <app><lem>can you say</lem>] <appPart><rdg type="replace">say you</rdg> <wit><ref targType="bibl" target="#b_seye1805"><name type="app">seymour</name></ref> (1805, 2:87)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0091-02" target="#tln_0091 #tln_0096" targetEnd="#tln_0093"><label>91–3, 96</label>
-<app><appPart><rdgDesc><hi rend="italic">Two verse lines in <siglum>Q</siglum>, omitting</hi> my Lord <hi rend="italic">and</hi> How</rdgDesc> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 18)</wit></appPart></app></note>
+<app><appPart><rdgDesc><hi rend="italic">Two verse lines in Q, omitting</hi> my Lord <hi rend="italic">and</hi> How</rdgDesc> <wit><ref targType="bibl" target="#b_damb1935"><name type="app">van dam</name></ref> (1935, p. 18)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0091-03" target="#tln_0091" targetEnd="#tln_0092"><label>91–2</label>
 <app><lem>to&hellip;speake</lem>] <appPart><rdgDesc><hi rend="italic">Verse line, omitting</hi> speake.</rdgDesc> <wit><ref targType="bibl" target="#b_fite1809"><name type="app">fitzgerald</name></ref> <note place="inline"><hi rend="italic">apud</hi> <siglum rend="smcaps">cam2</siglum></note></wit></appPart></app></note>
