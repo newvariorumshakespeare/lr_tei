@@ -839,17 +839,17 @@
 				Variorum edition. The Variorum text is not primarily for reading; rather, it
 				provides a point of reference for several hundred years of editing, elucidation,
 				criticism, and performance. It must necessarily include both <siglum>Q</siglum>-only
-				and <siglum>F</siglum>-only lines because all of those lines have been subject to
-				commentary and theatrical use. Passages added from <siglum>F</siglum> are marked
+				and F-only lines because all of those lines have been subject to
+				commentary and theatrical use. Passages added from F are marked
 				with asterisks at their beginning and end as well as at the start of each added
-				typographic line; <siglum>Q</siglum> passages omitted from <siglum>F</siglum> are
+				typographic line; <siglum>Q</siglum> passages omitted from F are
 				enclosed in half-brackets. The choice of the Quarto as the primary text reflects the
 				general belief today that it not only is the earliest edition but also offers the
 				earliest version of the play, one close to Shakespeare’s original drafts, and that
 				the Folio represents a later version incorporating changes made for various
 				theatrical and artistic purposes. For a historical survey of editing and commentary,
 				the first version is the most convenient starting point. For the same reason, both
-					<siglum>Q</siglum> and <siglum>F</siglum> lines presented here are in their
+					<siglum>Q</siglum> and F lines presented here are in their
 				original, uncorrected states, so that the commentary may proceed from the beginning
 				towards later changes. The result is a Variorum text that preserves all of the
 				hundreds of original textual difficulties that have occasioned centuries of
@@ -868,8 +868,8 @@
 				Hinman’s <title level="m">Printing and Proof-Reading</title> (1963), and Peter
 				Blayney’s <title level="m">The Texts of <title level="m">King Lear</title> and Their
 					Origins</title> in order to ensure that only uncorrected readings of
-					<siglum>Q</siglum> and <siglum>F</siglum> are reproduced in the Variorum text;
-				the corrected <siglum>Q</siglum> and <siglum>F</siglum> readings are recorded in the
+					<siglum>Q</siglum> and F are reproduced in the Variorum text;
+				the corrected <siglum>Q</siglum> and F readings are recorded in the
 				textual notes and the appendix (see <ptr mode="listFirst" targType="ab"
 					target="#ab_001"/>, <ptr mode="list" targType="anchor" target="#anchor_0177-a"
 					targetEnd="#anchor_0177-b"/>). This reprint does not reproduce typographical
@@ -887,35 +887,35 @@
 				been made in the text. A few turned-over or turned-under lines of verse have been
 				printed continuously, and such alteration has been recorded in the appendix.
 					<siglum>Q1</siglum>’s verse lineation, even when erroneous, has been preserved,
-				as has that of the added <siglum>F</siglum>-only lines.</p>
+				as has that of the added F-only lines.</p>
 
 			<p>Through Line Numbers (TLNs) based on the Folio typographic line are printed by fives
 				in the right margin. All <siglum>Q</siglum> prose has been relined as in
-					<siglum>F</siglum> to enable the use of this universal <siglum>F</siglum>-based
+					F to enable the use of this universal F-based
 				numbering system. Where the <siglum>Q</siglum> verse line, as a result of
-					<siglum>F</siglum>’s different verse lineation, includes parts of two
-					<siglum>F</siglum> lines, a vertical stroke within the Variorum line indicates
-				the <siglum>F</siglum> division, and the marginal TLN is a hyphenated number
-				indicating inclusively the <siglum>F</siglum> TLN numbers for both halves of the
+					F’s different verse lineation, includes parts of two
+					F lines, a vertical stroke within the Variorum line indicates
+				the F division, and the marginal TLN is a hyphenated number
+				indicating inclusively the F TLN numbers for both halves of the
 				Variorum (<siglum>Q</siglum>) line (see, e.g., lines <ref targType="lb"
 					target="#tln_0076" targetEnd="#tln_0084">76–84</ref>). If a
 				<siglum>Q</siglum>-only phrase obviously completes or amplifies an existing
-					<siglum>F</siglum> line, or supplants some part of it, it takes the number of
-				that <siglum>F</siglum> line or part-line (as at lines <ref targType="lb"
+					F line, or supplants some part of it, it takes the number of
+				that F line or part-line (as at lines <ref targType="lb"
 					target="#tln_0769">769</ref> and <ref targType="lb" target="#tln_0829"
 					targetEnd="#tln_0830">829–30</ref>). However, discrete <siglum>Q</siglum>-only
 				verse or prose lines for which there can be no counterpart TLN numbers in
-					<siglum>F</siglum> are assigned their own <quote>plus</quote> numbers beginning
-				from the last previous <siglum>F</siglum> line. Thus <siglum>Q</siglum>’s four verse
-				lines, lacking from <siglum>F</siglum> between its lines <ref targType="lb"
+					F are assigned their own <quote>plus</quote> numbers beginning
+				from the last previous F line. Thus <siglum>Q</siglum>’s four verse
+				lines, lacking from F between its lines <ref targType="lb"
 					target="#tln_1220">1220</ref> and <ref targType="lb" target="#tln_1221"
 					>1221</ref>, are numbered <ref targType="lb" target="#tln_1220p01">1220+1</ref>,
 					<ref targType="lb" target="#tln_1220p01">1220+2</ref>, etc., as are similarly
 				its prose lines <ref targType="lb" target="#tln_0427p01" targetEnd="#tln_0427p03"
-					>427+1–+3</ref>. When as in the last example parts of an <siglum>F</siglum> line
+					>427+1–+3</ref>. When as in the last example parts of an F line
 				remain at the beginning and end of the intervening <siglum>Q</siglum>-only passage,
 				their incompleteness is indicated by hyphens after and before the marginal TLN
-				numbers—here, 427- and -427. When parts of an <siglum>F</siglum> line appear on two
+				numbers—here, 427- and -427. When parts of an F line appear on two
 				lines in <siglum>Q</siglum>, the same TLN number appears opposite both
 					<siglum>Q</siglum> lines (see, e.g., <ref targType="lb" target="#tln_0177"
 					>177</ref>, <ref targType="lb" target="#tln_0510">510</ref>). TLN numbers of
@@ -931,10 +931,10 @@
 
 			<p>The textual notes are based on a collation of the following editions. Each of these
 				editions has been fully collated against all of the <siglum>Q</siglum> and
-					<siglum>F</siglum> lines in the text of this edition, except for <siglum
+					F lines in the text of this edition, except for <siglum
 					rend="smcaps">oxf2</siglum>, <siglum rend="smcaps">cam4</siglum>, and <siglum
 					rend="smcaps">oxf4</siglum>, each of which has been collated only against its
-				relevant <siglum>Q</siglum> or <siglum>F</siglum> control text. Each entry below is
+				relevant <siglum>Q</siglum> or F control text. Each entry below is
 				preceded by the siglum representing that edition in the textual notes and in the
 				appendix of unadopted conjectures. When not mentioned, the place of publication is
 				London. When commentary from these editions is quoted in the commentary notes and
@@ -2948,7 +2948,7 @@
 				</item>
 
 				<item>
-					<abbr><siglum>F</siglum>, <siglum>F1</siglum></abbr>
+					<abbr>F, <siglum>F1</siglum></abbr>
 					<expan>First Folio (1623)</expan>
 				</item>
 
