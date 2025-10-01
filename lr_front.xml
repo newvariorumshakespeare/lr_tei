@@ -910,7 +910,7 @@
 				lines, lacking from F between its lines <ref targType="lb"
 					target="#tln_1220">1220</ref> and <ref targType="lb" target="#tln_1221"
 					>1221</ref>, are numbered <ref targType="lb" target="#tln_1220p01">1220+1</ref>,
-					<ref targType="lb" target="#tln_1220p01">1220+2</ref>, etc., as are similarly
+				<ref targType="lb" target="#tln_1220p02">1220+2</ref>, etc., as are similarly
 				its prose lines <ref targType="lb" target="#tln_0427p01" targetEnd="#tln_0427p03"
 					>427+1–+3</ref>. When as in the last example parts of an F line
 				remain at the beginning and end of the intervening Q-only passage,
@@ -2442,8 +2442,7 @@
 				Biblical quotations are generally from the Geneva Bible (1560). Commentators are
 				identified by last name only; the following parenthesis refers the reader either to
 				the list of editions above—e.g., <ref targType="bibl" target="#s_ard3"><name
-						type="app">Foakes</name></ref> (ed. 1997)—or to the bibliography at <ptr
-					targType="div" target="#div_bibliography"/>—e.g., <ref targType="bibl"
+						type="app">Foakes</name></ref> (ed. 1997)—or to the bibliography—e.g., <ref targType="bibl"
 					target="#b_foar1993"><name type="app">Foakes</name></ref> (1993, p. 27).
 				Whenever possible, roman numerals for act, scene, volume, etc. are given in arabic;
 				a colon separates volume from page, and a period separates other entities—book,
