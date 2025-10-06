@@ -1328,10 +1328,10 @@
 <note type="unadopted" xml:id="uc_0460" target="#tln_0460"><label>460</label>
 <app><lem>maidenlest</lem>] <appPart><rdg type="replace">maidenlike</rdg> <wit><note place="inline"><hi rend="italic">So quoted by</hi></note> <ref targType="bibl" target="#s_mtheo1"><name type="app">theobald</name></ref> (1729) <note place="inline"><hi rend="italic">in</hi> <ref targType="bibl" target="#b_thel1817"><name type="app">nichols</name></ref> (1817, 2:207)</note></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0473p04-01" target="#tln_0473p01"><label>473+4</label>
+    <note type="unadopted" xml:id="uc_0473p04-01" target="tln_0473p04"><label>473+4</label>
 <app><lem>dissipation of Cohorts</lem>] <appPart><rdg type="replace">disproportion of thoughts</rdg> <wit><ref targType="bibl" target="#pw_mobc1876"><name type="app">moberly</name></ref> (ed. 1876)</wit></appPart>; <appPart><rdg type="replace">denegation of contracts</rdg> <wit><ref targType="bibl" target="#b_kinb1883"><name type="app">kinnear</name></ref> (1883, p. 417)</wit></appPart>; <appPart><rdg type="replace">disputation of consorts <note place="inline">[= <quote>wrangling among fellowships</quote>]</note></rdg> <wit><siglum rend="smcaps">oxf1</siglum></wit></appPart></app></note>
 
-<note type="unadopted" xml:id="uc_0473p04-02" target="#tln_0473p01"><label display="all(invisible)">473+4</label>
+<note type="unadopted" xml:id="uc_0473p04-02" target="#tln_0473p04"><label display="all(invisible)">473+4</label>
 <app><lem>Cohorts</lem>] <appPart><rdg type="replace">consorts</rdg> <wit><siglum>m<hi rend="smcaps">tby</hi>2</siglum>, <ref targType="bibl" target="#pw_deik1891 #b_deik1898"><name type="app">deighton</name></ref> (ed. 1891; 1898, p. 37), <ref targType="bibl" target="#b_mach1923"><name type="app">macnaghten</name></ref> (1923, p. 852)</wit></appPart>; <appPart><rdg type="replace">concerts</rdg> <wit><ref targType="bibl" target="#pw_gogs1910"><name type="app">goggin</name></ref> (ed. 1910)</wit></appPart>; <appPart><rdg type="replace">contracts</rdg> <wit><ref targType="bibl" target="#b_davh1919"><name type="app">davey</name></ref> (1919, p. 202)</wit></appPart></app></note>
 
 <note type="unadopted" xml:id="uc_0484" target="#tln_0484"><label>484</label>
