@@ -64,7 +64,7 @@
             <label>1</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Actus Primus.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum></wit>
@@ -77,7 +77,7 @@
             <label display="all(invisible)">1</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Scœna Prima.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&plus; (&minus;<siglum rend="smcaps"
@@ -11179,7 +11179,7 @@
             <label>926</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Actus Secundus.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum></wit>
@@ -11190,7 +11190,7 @@
 
         <note type="textual" xml:id="tn_0926-02" target="#tln_0926">
             <label display="all(invisible)">926</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Prima.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Prima.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">pope2</siglum>, <siglum
                             rend="smcaps">han1</siglum>, <siglum rend="smcaps">warb</siglum>,
                             <siglum rend="smcaps">john2</siglum>&sigrange;<siglum rend="smcaps"
@@ -18996,7 +18996,7 @@
             <label>1614</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Actus Tertius.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum></wit>
@@ -19007,7 +19007,7 @@
 
         <note type="textual" xml:id="tn_1614-02" target="#tln_1614">
             <label display="all(invisible)">1614</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Prima.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Prima.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>, <siglum
                             rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>)</wit></appPart>;
@@ -27139,7 +27139,7 @@
             <label>2177</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Actus Quartus.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum></wit>
@@ -27150,7 +27150,7 @@
 
         <note type="textual" xml:id="tn_2177-02" target="#tln_2177">
             <label display="all(invisible)">2177</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Prima.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Prima.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>), <siglum rend="smcaps"
                             >ban</siglum>&sigrange;<siglum rend="smcaps"
@@ -36756,7 +36756,7 @@
             <label>2844</label>
             <app>
                 <appPart>
-                    <rdg type="insert">
+                    <rdg type="replace">
                         <hi rend="italic">Actus Quintus.</hi>
                     </rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum></wit>
@@ -36767,7 +36767,7 @@
 
         <note type="textual" xml:id="tn_2844-02" target="#tln_2844">
             <label display="all(invisible)">2844</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Prima.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Prima.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>), <siglum rend="smcaps"
                             >ban</siglum>&sigrange;<siglum rend="smcaps"
