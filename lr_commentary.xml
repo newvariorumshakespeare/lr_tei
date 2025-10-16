@@ -7360,7 +7360,7 @@
                     misreading produces more natural syntax and a more explicit contrast with
                         <quote>the sun.</quote></quote>
                 <ref targType="bibl" target="#b_damb1935"><name type="app">Van Dam</name></ref>
-                (1935, p. 50) does so defend Q (see <ref targType="note_cn" target="#cn_0117-01"
+                (1935, p. 50) does so defend Q (see <ref targType="note_cn" target="#cn_0117-02"
                     >prev. n.</ref>), emending to <quote>her might</quote>: <quote>At <rs type="sh"
                         key="Ham."><title level="m">Hamlet</title>
                         <hi rend="smcaps">iv</hi>,7,174 [3166]</rs> the F has the same misprint <hi
@@ -11414,7 +11414,7 @@
                         >Deighton</name></ref> (ed. 1891): <quote>Dearest.</quote>
                 <ref targType="bibl" target="#s_ard2"><name type="app">Muir</name></ref> (ed. 1952):
                     <quote>Main object of love.</quote> F’s omission makes awkward verse or requires
-                doubtful pronunciation; see the <ref targType="note_cn" target="#cn_0235-02">next
+                doubtful pronunciation; see the <ref targType="note_cn" target="#cn_0235-04">next
                     n.</ref> Only <ref targType="bibl" target="#b_scha1879"><name type="app"
                         >Schmidt</name></ref> (1879, p. 14) finds the adjective implied in the noun
                 and hence redundant. <ref targType="bibl" target="#s_duth"><name type="app"
@@ -34351,7 +34351,7 @@
 
 
         <note type="commentary" xml:id="cn_1027-01" target="#tln_1027"><label>1027</label>
-            <lem>if&hellip;vengeance</lem>] <p><ref targType="bibl" target="#s_ard2"><name
+            <lem>If&hellip;vengeance</lem>] <p><ref targType="bibl" target="#s_ard2"><name
                         type="app">Muir</name></ref> (ed. 1952) finds a weak parallel in <title
                     level="m">Leir</title>
                 <ref targType="anchor" target="#leir_lb_1582">1582</ref>: <quote>If it be so, that
@@ -44472,7 +44472,7 @@
 
 
         <note type="commentary" xml:id="cn_1358" target="#tln_1358"><label>1358</label>
-            <lem><hi rend="italic">Enter</hi>&hellip;</lem>] <p><ref targType="bibl"
+            <lem><hi rend="italic">Enter</hi>&hellip;<hi rend="italic">Gloster</hi></lem>] <p><ref targType="bibl"
                     target="#b_dorm1931"><name type="app">Doran</name></ref> (1931, p. 83): A number
                 of entrances in F are moved up a few lines because <quote>the prompter desired to
                     get the characters on the stage in time so that they would not miss their
@@ -56716,7 +56716,7 @@
             <lem>vse&hellip;house</lem>] <p><ref targType="bibl" target="#s_del2"><name type="app"
                         >Delius</name></ref> (ed. 1854): <quote>In that Lear’s daughters and their
                     husbands forbade Gloster to give shelter to Lear</quote> (Ger.). <ref
-                    targType="bibl" target="#pw_clac1868"><name type="app">Clarke</name></ref>s (ed.
+                    targType="bibl" target="#pw_clac1868"><name type="app">Clarke</name></ref> (ed.
                 1868): Or to give entrance to Kent: see <ref targType="lb" target="#tln_1717"
                     targetEnd="#tln_1720">1717–20</ref>.</p>
         </note>
@@ -69177,7 +69177,7 @@
 
 
         <note type="commentary" xml:id="cn_2088-01" target="#tln_2088"><label>2088</label>
-            <lem><hi rend="italic">Enter</hi>&hellip;</lem>] <p>On F’s anticipatory stage direction
+            <lem><hi rend="italic">Enter&hellip;three</hi></lem>] <p>On F’s anticipatory stage direction
                 see n. <ref targType="note_cn" target="#cn_1358">1358</ref>.</p>
         </note>
 
@@ -72198,7 +72198,7 @@
 
 
         <note type="commentary" xml:id="cn_2188" target="#tln_2188"><label>2188</label>
-            <lem><hi rend="italic">Enter</hi>&hellip;</lem>] <p><ref targType="bibl"
+            <lem><hi rend="italic">Enter&hellip;man</hi></lem>] <p><ref targType="bibl"
                     target="#b_adaj1948"><name type="app">Adams</name></ref> (1948, p. 327):
                     <quote>Does Edgar slip behind a <quote>Tree,</quote> i.e., a stage post?</quote>
                 <ref targType="bibl" target="#b_perw1904"><name type="app">Perrett</name></ref>

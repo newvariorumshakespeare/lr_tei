@@ -2318,7 +2318,7 @@
 
 
 			<p>The following, partially fictional note illustrates several conventions: <quote
-					rend="block"><note type="textual"><label>459</label>
+					rend="block"><note type="textual" target="#tln_0459"><label>459</label>
 						<app><lem>Fut</lem>] <appPart><rdg type="lem">&swdash;</rdg>
 								<wit><siglum rend="smcaps">Qq</siglum>, <siglum rend="smcaps"
 										>ard1</siglum>, <siglum rend="smcaps">nlsn</siglum>, <siglum
@@ -2362,7 +2362,7 @@
 				special interest.</p>
 
 			<p>The following notes illustrate special kinds of variants: <quote rend="block"><note
-						type="textual"><label>620–1</label>
+						type="textual" target="#tln_0620" targetEnd="#tln_0621"><label>620-1</label>
 						<app><lem>lubbers,&hellip;againe&caret;</lem>] <appPart><rdg type="lem"
 									>&swdash;</rdg>
 								<wit><siglum>Q1</siglum></wit>(u)</appPart>; <appPart><rdg
@@ -2382,7 +2382,7 @@
 				usage) it divides one independent clause from the next; later substitutions of a
 				rhetorically heavier stop—e.g., a semicolon, colon, dash, period, or exclamation
 				mark—would be ignored unless they had some further significance than the division of
-				the two clauses. <quote rend="block"><note type="textual"><label>874</label>
+				the two clauses. <quote rend="block"><note type="textual" target="#tln_0874"><label>874</label>
 						<app><lem><hi rend="italic">Kent</hi></lem>] <appPart><rdg
 									type="description">Ad. <hi rend="italic">disguised as
 									Caius</hi></rdg>
@@ -2392,7 +2392,7 @@
 								>subst.</hi>)</wit></appPart></app></note></quote> Here several
 				editions add to the entrance direction the detail of Kent’s disguise, in various
 				wordings that give substantially the same information. <quote rend="block"><note
-						type="textual"><label>1202</label>
+						type="textual" target="#tln_1202"><label>1202</label>
 						<app><lem>foole</lem>] <appPart><rdg type="replace">foil</rdg>
 								<wit><ref targType="bibl" target="#b_warw0001"><name type="app"
 											>warburton</name></ref>
