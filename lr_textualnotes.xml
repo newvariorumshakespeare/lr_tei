@@ -360,29 +360,27 @@
             </app>
         </note>
 
-
         <note type="textual" xml:id="tn_0037-02" target="#tln_0037">
             <label display="all(invisible)">37</label>
-            <app><lem><hi rend="italic">Sound a Sennet.</hi></lem>] <appPart>
-                    <rdgDesc><hi rend="italic">Om.</hi></rdgDesc>
+            <app><lem><hi rend="italic">Sound a Sennet.</hi></lem>] <appPart><rdgDesc><hi
+                            rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>;
-                <hi rend="italic">in</hi>
-                <ref targType="lb" target="#tln_0036">36</ref>
-                <rdgDesc><hi rend="italic">after</hi> againe,</rdgDesc>
-                <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>,
-                    <siglum rend="smcaps">john</siglum>, <siglum>v1773</siglum>, <siglum
+                <appPart><rdgDesc><hi rend="italic">in</hi>
+                        <ref targType="lb" target="#tln_0036">36</ref>
+                        <hi rend="italic">after</hi> againe,</rdgDesc>
+                    <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>,
+                        <siglum rend="smcaps">john</siglum>, <siglum>v1773</siglum>, <siglum
                             rend="smcaps">dyce2</siglum>, <siglum rend="smcaps">dyce3</siglum>,
-                            <siglum>v1880</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum
+                        <siglum>v1880</siglum>, <siglum rend="smcaps">hud2</siglum>, <siglum
                             rend="smcaps">irv</siglum>, <siglum rend="smcaps">kit1</siglum>, <siglum
-                            rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>,
-                            <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
-                        >bobm</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps"
-                            >oxf2</siglum>, <siglum rend="smcaps">folg2</siglum>, <siglum
-                                rend="smcaps">oxf4</siglum></wit></app>
+                                rend="smcaps">alex</siglum>, <siglum rend="smcaps">pel1</siglum>,
+                        <siglum rend="smcaps">cam3</siglum>, <siglum rend="smcaps"
+                            >bobm</siglum>, <siglum rend="smcaps">evns</siglum>, <siglum rend="smcaps"
+                                >oxf2</siglum>, <siglum rend="smcaps">folg2</siglum>, <siglum
+                                    rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
-
-
+       
         <note type="textual" xml:id="tn_0037-03" target="#tln_0037">
             <label display="all(invisible)">37</label>
             <app><lem><hi rend="italic">one&hellip;Coronet</hi>,</lem>] <appPart><rdg type="lem"
