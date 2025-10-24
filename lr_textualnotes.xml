@@ -4239,15 +4239,15 @@
 
         <note type="textual" xml:id="tn_0333-02" target="#tln_0333">
             <label>333</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Secunda.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Secunda.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&plus;</wit></appPart>; <appPart><rdg
-                        type="insert">SCENE VI.</rdg>
+                        type="replace">SCENE VI.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">ACT II. SCENE I.</rdg>
+                        <appPart><rdg type="replace">ACT II. SCENE I.</rdg>
                     <wit><siglum rend="smcaps">ecc</siglum></wit></appPart></app>
         </note>
 
@@ -5896,13 +5896,13 @@
 
         <note type="textual" xml:id="tn_0505-01" target="#tln_0505">
             <label>505</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Tertia.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Tertia.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&plus;</wit></appPart>; <appPart><rdg
-                        type="insert">SCENE II.</rdg>
+                        type="replace">SCENE II.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps"
-                        >ecc</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE XI.</rdg>
+                        >ecc</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE XI.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum>.</wit></appPart></app>
@@ -6334,15 +6334,15 @@
 
         <note type="textual" xml:id="tn_0529-01" target="#tln_0529">
             <label>529</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Quarta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Quarta.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&plus;</wit></appPart>; <appPart><rdg
-                        type="insert">SCENE XII.</rdg>
+                        type="replace">SCENE XII.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">SCENE III.</rdg>
+                        <appPart><rdg type="replace">SCENE III.</rdg>
                     <wit><siglum rend="smcaps">ecc</siglum></wit></appPart></app>
         </note>
 
@@ -10634,15 +10634,15 @@
 
         <note type="textual" xml:id="tn_0873-01" target="#tln_0873">
             <label>873</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Quinta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Quinta.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&plus;</wit></appPart>; <appPart><rdg
-                        type="insert">SCENE XVII</rdg>
+                        type="replace">SCENE XVII</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">SCENE IV</rdg>
+                        <appPart><rdg type="replace">SCENE IV</rdg>
                     <wit><siglum rend="smcaps">ecc</siglum></wit></appPart></app>
         </note>
 
@@ -12873,15 +12873,15 @@
 
         <note type="textual" xml:id="tn_1074-01" target="#tln_1074">
             <label>1074</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Secunda.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Secunda.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps"
-                        >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE V.</rdg>
+                        >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE V.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">SCENE III.</rdg>
+                        <appPart><rdg type="replace">SCENE III.</rdg>
                     <wit><siglum rend="smcaps">ecc</siglum></wit></appPart>; <appPart><rdg
                         type="insert">Sc. 7</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
@@ -19011,7 +19011,7 @@
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>, <siglum
                             rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>)</wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 8</rdg>
+                        <appPart><rdg type="replace">Sc. 8</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -19641,12 +19641,12 @@
 
         <note type="textual" xml:id="tn_1654-01" target="#tln_1654">
             <label>1654</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Secunda.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Secunda.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>
                             (&minus;<siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps"
                             >theo</siglum>, <siglum rend="smcaps">rid</siglum>), <siglum
                             rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps"
-                        >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">Sc. 9</rdg>
+                        >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">Sc. 9</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -20811,18 +20811,18 @@
 
         <note type="textual" xml:id="tn_1751-01" target="#tln_1751">
             <label>1751</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scæna Tertia.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scæna Tertia.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE
+                            >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE
                         II.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE IV.</rdg>
+                        type="replace">SCENE IV.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 10</rdg>
+                        <appPart><rdg type="replace">Sc. 10</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -21097,18 +21097,18 @@
 
         <note type="textual" xml:id="tn_1776-01" target="#tln_1776">
             <label>1776</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Quarta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Quarta.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE
+                            >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE
                         III.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE V.</rdg>
+                        type="replace">SCENE V.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 11</rdg>
+                        <appPart><rdg type="replace">Sc. 11</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -23735,18 +23735,18 @@
 
         <note type="textual" xml:id="tn_1969-01" target="#tln_1969">
             <label>1969</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Quinta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Quinta.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE
+                            >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE
                         IV.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE VIII.</rdg>
+                        type="replace">SCENE VIII.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 12</rdg>
+                        <appPart><rdg type="replace">Sc. 12</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -23919,18 +23919,18 @@
 
         <note type="textual" xml:id="tn_1996-01" target="#tln_1996">
             <label>1996</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Sexta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Sexta.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE
+                            >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE
                         V.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE IX.</rdg>
+                        type="replace">SCENE IX.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 13</rdg>
+                        <appPart><rdg type="replace">Sc. 13</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -25450,18 +25450,18 @@
 
         <note type="textual" xml:id="tn_2057-01" target="#tln_2057">
             <label>2057</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Septima.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Septima.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps"
-                            >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE
+                            >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE
                         VI.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE X.</rdg>
+                        type="replace">SCENE X.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 14</rdg>
+                        <appPart><rdg type="replace">Sc. 14</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -27154,7 +27154,7 @@
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>), <siglum rend="smcaps"
                             >ban</siglum>&sigrange;<siglum rend="smcaps"
-                    >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">Sc. 15</rdg>
+                    >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">Sc. 15</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -28244,11 +28244,11 @@
 
         <note type="textual" xml:id="tn_2266-01" target="#tln_2266">
             <label>2266</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Secunda.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Secunda.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>, <siglum
                             rend="smcaps">ban</siglum>&sigrange;<siglum rend="smcaps">ard3</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>)</wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 16</rdg>
+                        <appPart><rdg type="replace">Sc. 16</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -30468,19 +30468,19 @@
 
         <note type="textual" xml:id="tn_2348-01" target="#tln_2348">
             <label>2348</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Tertia.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Tertia.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
                             rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
-                    >cam4</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE IV.</rdg>
+                    >cam4</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE IV.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>, <siglum rend="smcaps"
                         >folg2</siglum>, <siglum rend="smcaps">ard3</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">SCENE V.</rdg>
+                        <appPart><rdg type="replace">SCENE V.</rdg>
                     <wit><siglum rend="smcaps">ecc</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">Sc. 18</rdg>
+                        type="replace">Sc. 18</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -30968,19 +30968,19 @@
 
         <note type="textual" xml:id="tn_2382-01" target="#tln_2382">
             <label>2382</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Quarta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Quarta.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
                             rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
-                    >cam4</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE V.</rdg>
+                    >cam4</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE V.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>&sigrange;<siglum rend="smcaps">mal</siglum>,
                             <siglum>v1793</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>, <siglum rend="smcaps"
                         >folg2</siglum>, <siglum rend="smcaps">ard3</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">SCENE III.</rdg>
+                        <appPart><rdg type="replace">SCENE III.</rdg>
                     <wit><siglum rend="smcaps">ecc</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">Sc. 19</rdg>
+                        type="replace">Sc. 19</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -31395,16 +31395,16 @@
 
         <note type="textual" xml:id="tn_2429-01" target="#tln_2429">
             <label>2429</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Quinta.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Quinta.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
                             rend="smcaps">oxf2</siglum>, <siglum rend="smcaps"
-                    >cam4</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE VI.</rdg>
+                    >cam4</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE VI.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                             >john1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>, <siglum
                             rend="smcaps">ban</siglum>, <siglum rend="smcaps">folg2</siglum>,
                             <siglum rend="smcaps">ard3</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">Sc. 20</rdg>
+                        type="replace">Sc. 20</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -35341,19 +35341,19 @@
 
         <note type="textual" xml:id="tn_2743-01" target="#tln_2743">
             <label>2743</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scæna Septima.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scæna Septima.</hi></rdg>
                     <wit><siglum>Ff</siglum>, <siglum rend="smcaps">cap</siglum>,
                             <siglum>v1773</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>,
                             <siglum rend="smcaps">ban</siglum>, <siglum rend="smcaps"
                         >folg2</siglum>, <siglum rend="smcaps">ard3</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">SCENE VI.</rdg>
+                        <appPart><rdg type="replace">SCENE VI.</rdg>
                     <wit><siglum rend="smcaps">rowe</siglum>, <siglum rend="smcaps">oxf2</siglum>,
                             <siglum rend="smcaps">cam4</siglum></wit></appPart>; <appPart><rdg
-                        type="insert">SCENE X.</rdg>
+                        type="replace">SCENE X.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 21</rdg>
+                        <appPart><rdg type="replace">Sc. 21</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -36771,7 +36771,7 @@
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">evns</siglum>
                             (&minus;<siglum rend="smcaps">theo</siglum>), <siglum rend="smcaps"
                             >ban</siglum>&sigrange;<siglum rend="smcaps"
-                    >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">Sc. 22</rdg>
+                    >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">Sc. 22</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -37737,16 +37737,16 @@
 
         <note type="textual" xml:id="tn_2917-01" target="#tln_2917">
             <label>2917</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Secunda.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Secunda.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
                             rend="smcaps">cap</siglum>, <siglum>v1773</siglum>&sigrange;<siglum
                             rend="smcaps">evns</siglum>, <siglum rend="smcaps"
                             >ban</siglum>&sigrange;<siglum rend="smcaps"
-                    >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE IV.</rdg>
+                    >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE IV.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 23</rdg>
+                        <appPart><rdg type="replace">Sc. 23</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
@@ -37949,16 +37949,16 @@
 
         <note type="textual" xml:id="tn_2937-01" target="#tln_2937">
             <label>2937</label>
-            <app><appPart><rdg type="insert"><hi rend="italic">Scena Tertia.</hi></rdg>
+            <app><appPart><rdg type="replace"><hi rend="italic">Scena Tertia.</hi></rdg>
                     <wit><siglum>F1</siglum>&sigrange;<siglum rend="smcaps">rowe3</siglum>, <siglum
                             rend="smcaps">cap</siglum>, <siglum>v1773</siglum>&sigrange;<siglum
                             rend="smcaps">evns</siglum>, <siglum rend="smcaps"
                             >ban</siglum>&sigrange;<siglum rend="smcaps"
-                    >ard3</siglum></wit></appPart>; <appPart><rdg type="insert">SCENE V.</rdg>
+                    >ard3</siglum></wit></appPart>; <appPart><rdg type="replace">SCENE V.</rdg>
                     <wit><siglum rend="smcaps">pope</siglum>, <siglum rend="smcaps">han1</siglum>,
                             <siglum rend="smcaps">warb</siglum>, <siglum rend="smcaps"
                         >john</siglum>, <siglum rend="smcaps">jen</siglum></wit></appPart>;
-                        <appPart><rdg type="insert">Sc. 24</rdg>
+                        <appPart><rdg type="replace">Sc. 24</rdg>
                     <wit><siglum rend="smcaps">oxf4</siglum></wit></appPart></app>
         </note>
 
