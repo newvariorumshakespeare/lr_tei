@@ -9339,7 +9339,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0170" target="#tln_0170"><label>170</label>
+        <note type="commentary" xml:id="cn_0170-01" target="#tln_0170"><label>170</label>
             <lem>See better</lem>] <p><ref targType="bibl" target="#pw_pagt1889"><name type="app"
                         >Page</name></ref> (ed. 1889): <quote>So as to distinguish real from false
                     friends.</quote> Or less specifically, see without error. <ref targType="bibl"
@@ -9356,15 +9356,14 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0171-01" target="#tln_0171"><label>171</label>
+        <note type="commentary" xml:id="cn_0170-02" target="#tln_0170"><label display= "all(invisible)">170</label>
             <lem>still</lem>] <p>Ever; see n. <ref targType="note_cn" target="#cn_0143-02"
                 >143</ref>. <ref targType="bibl" target="#pw_josb1966"><name type="app"
                         >Joseph</name></ref> (ed. 1966): Also <quote>motionless.</quote></p>
         </note>
 
 
-        <note type="commentary" xml:id="cn_0171-02" target="#tln_0171"><label
-                display="all(invisible)">171</label>
+        <note type="commentary" xml:id="cn_0171" target="#tln_0171"><label>171</label>
             <lem>blanke</lem>] <p>Most eds. begin with <ref targType="bibl" target="#s_han1"><name
                         type="app">Hanmer</name></ref>’s (ed. 1743–4, 6:Gloss.) literal gloss,
                     <quote>A white or mark to shoot at,</quote> but clearly Kent’s speech is
@@ -14169,7 +14168,7 @@
 
 
         <note type="commentary" xml:id="cn_0333" target="#tln_0333"><label>333</label>
-            <lem>&lt;<hi rend="italic">Scena Secunda</hi>&gt;</lem>] <p><ref targType="bibl"
+            <lem><hi rend="italic">Scena Secunda</hi></lem>] <p><ref targType="bibl"
                     target="#pw_gogs1910"><name type="app">Goggin</name></ref> (ed. 1910):
                     <quote>This Scene shows several marks of haste or carelessness in composition.
                     Presumably it takes place on the day following Scene i., since Gloucester says
@@ -14902,8 +14901,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0344-01" target="#tln_0344" targetEnd="#tln_0345"
-                ><label>344–5</label>
+        <note type="commentary" xml:id="cn_0343-03" target="#tln_0343" targetEnd="#tln_0344"
+                ><label display="all(invisible)">343–4</label>
             <lem>why&hellip;Base?</lem>] <p>If line <ref targType="lb" target="#tln_0343">343</ref>
                 was intended to end at <quote>issue,</quote> the following question would be both a
                 complete syntactic unit and (in Q) the first of several regular verse lines. Okes’s
@@ -14925,8 +14924,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0344-02" target="#tln_0344" targetEnd="#tln_0345"><label
-                display="all(invisible)">344–5</label>
+        <note type="commentary" xml:id="cn_0344" target="#tln_0344" targetEnd="#tln_0345"><label>344–5</label>
             <lem>base bastardie</lem>] <p><ref targType="bibl" target="#b_pier1979"><name type="app"
                         >Pierce</name></ref> (1979, pp. 7–8) takes F’s <hi rend="bold">basenes
                     Barstadie</hi> not as two appositives but <quote>as an ellipsis for <quote>Why
@@ -15014,8 +15012,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0345-04" target="#tln_0345"><label
-                display="all(invisible)">345</label>
+        <note type="commentary" xml:id="cn_03456" target="#tln_0346"><label>345</label>
             <lem>more composition</lem>] <p><ref targType="bibl" target="#s_ard1"><name type="app"
                         >Craig</name></ref> (ed. 1901): <quote>A fuller blending, mixture</quote>
                     (<rs type="oed"><title level="m">OED</title>, <hi rend="italic">sb.</hi> 15,
@@ -15037,8 +15034,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0345-05" target="#tln_0345"><label
-                display="all(invisible)">345</label>
+        <note type="commentary" xml:id="cn_0346-02" target="#tln_0346"><label
+                display="all(invisible)">346</label>
             <lem>feirce quality</lem>] <p><ref targType="bibl" target="#pw_kitg1940"><name
                         type="app">Kittredge</name></ref> (ed. 1940): <quote>More energetic quality
                     of body or mind</quote> (<rs type="oed"><title level="m">OED</title>, Fierce <hi
@@ -19298,7 +19295,7 @@
 
 
         <note type="commentary" xml:id="cn_0505" target="#tln_0505"><label>505</label>
-            <lem>&lt;<hi rend="italic">Scena Tertia</hi>&gt;</lem>] <p><ref targType="bibl"
+            <lem><hi rend="italic">Scena Tertia</hi></lem>] <p><ref targType="bibl"
                     target="#b_grah1927"><name type="app">Granville-Barker</name></ref> (1927, p.
                 144): <quote>The [first] two scenes together form a sort of double dramatic
                     prologue; and they might, by modern custom, count as a first act, for after them
@@ -19850,8 +19847,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0522p03-02" target="#tln_0522p03"><label
-                display="all(invisible)">522+3</label>
+        <note type="commentary" xml:id="cn_0522p03-02" target="#tln_0522p03" targetEnd="#tln_0522p04"><label
+                display="all(invisible)">522+3-+4</label>
             <lem>as&hellip;abusd</lem>] <p>The suspicion of textual corruption has led to many
                 attempts at emendation: see <ref targType="note_tn"
                     target="#tn_0522p03-01 #tn_0522p03-02">textual nn.</ref> and <ptr
@@ -21595,7 +21592,7 @@
 
 
         <note type="commentary" xml:id="cn_0592" target="#tln_0592"><label>592</label>
-            <lem>Ha!</lem>] <p><rs type="oed"><title level="m">OED</title> (<hi rend="italic"
+            <lem>Ha</lem>] <p><rs type="oed"><title level="m">OED</title> (<hi rend="italic"
                         >int.</hi> 1): <quote>An exclamation expressing, according to the
                         intonation, surprise, wonder, joy, suspicion, indignation, etc.</quote></rs>
                 Cf. <ref targType="lb" target="#tln_0742">742</ref>, <ref targType="lb"
@@ -30497,7 +30494,7 @@
 
 
         <note type="commentary" xml:id="cn_0873" target="#tln_0873"><label>873</label>
-            <lem>&lt;<hi rend="italic">Scena Quinta</hi>&gt;</lem>] <p><ref targType="bibl"
+            <lem><hi rend="italic">Scena Quinta</hi></lem>] <p><ref targType="bibl"
                     target="#b_hara1963"><name type="app">Harbage</name></ref> (1963, p. 409):
                     <quote>In wonderful fashion, the playwright lets us see inside [Lear’s] mind by
                     words which escape his lips with an irrelevant relevance that stuns&hellip;.
@@ -30772,7 +30769,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0878" target="#tln_0878"><label>878</label>
+        <note type="commentary" xml:id="cn_0878-01" target="#tln_0878"><label>878</label>
             <lem>diligence</lem>] <p><ref targType="bibl" target="#pw_josb1966"><name type="app"
                         >Joseph</name></ref> (ed. 1966): <quote>(i) Conscientiousness; (ii) speed.
                     [Lear] remembers [<ref targType="lb" target="#tln_0566">566</ref>]</quote> (<rs
@@ -30781,7 +30778,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0879" target="#tln_0879"><label>879</label>
+        <note type="commentary" xml:id="cn_0878-02" target="#tln_0878"><label display="all(invisible)">878</label>
             <lem>before</lem>] <p>F’s <hi rend="bold">afore</hi> is <quote>now dialectal</quote>
                     (<ref targType="bibl" target="#b_brog1976"><name type="app">Brook</name></ref>,
                 1976, p. 93; <rs type="oed"><title level="m">OED</title>, <hi rend="italic"
@@ -31402,7 +31399,7 @@
 
 
         <note type="commentary" xml:id="cn_0914" target="#tln_0914"><label>914</label>
-            <lem>beate</lem>] <p>See nn. <ref targType="note_cn" target="#cn_0103-01">103</ref>,
+            <lem>beatẽ</lem>] <p>See nn. <ref targType="note_cn" target="#cn_0103-01">103</ref>,
                     <ref targType="note_cn" target="#cn_0853-02">853</ref>.</p>
         </note>
 
@@ -31451,7 +31448,7 @@
 
         <note type="commentary" xml:id="cn_0918-02" target="#tln_0918"><label
                 display="all(invisible)">918</label>
-            <lem>mad&caret;</lem>] <p>Of F’s <hi rend="bold">mad, not mad</hi>
+            <lem>mad,</lem>] <p>Of F’s <hi rend="bold">mad, not mad</hi>
                 <ref targType="bibl" target="#b_mirs1947"><name type="app">Miriam
                     Joseph</name></ref> (1947, p. 85): Ploce, iteration of a word, <quote>is
                     employed with admirable effect&hellip;to express intense feeling.</quote></p>
