@@ -350,9 +350,9 @@
 
         <note type="textual" xml:id="tn_0037-01" target="#tln_0037">
             <label>37</label>
-            <app>
+            <app><lem><hi rend="italic">Sound a Sennet.</hi></lem>]
                 <appPart>
-                    <rdg type="insert">SCENE II.</rdg>
+                    <rdg type="replace">SCENE II. Sound a Sennet.</rdg>
                     <wit><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps"
                             >john2</siglum> (&minus;<siglum rend="smcaps">theo</siglum>), <siglum
                             rend="smcaps">jen</siglum></wit>
@@ -363,11 +363,10 @@
 
         <note type="textual" xml:id="tn_0037-02" target="#tln_0037">
             <label display="all(invisible)">37</label>
-            <app><lem><hi rend="italic">Sound a Sennet.</hi></lem>] <appPart><rdgDesc><hi
-                            rend="italic">Om.</hi></rdgDesc>
+            <app><lem><hi rend="italic">Sound a Sennet.</hi></lem>] <appPart>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">in</hi>
+                <appPart><rdg type="replace">Sound a Sennet.</rdg><rdgDesc><hi rend="italic">in</hi>
                         <ref targType="lb" target="#tln_0036">36</ref>
                         <hi rend="italic">after</hi> againe,</rdgDesc>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>,
@@ -393,7 +392,7 @@
                             rend="smcaps">alex</siglum>&sigrange;<siglum rend="smcaps"
                         >evns</siglum>, <siglum rend="smcaps">ban</siglum>, <siglum rend="smcaps"
                             >ard3</siglum>, <siglum rend="smcaps">oxf4</siglum></wit></appPart>;
-                            <appPart><rdgDesc><hi rend="italic">om.</hi></rdgDesc>
+                            <appPart>
                     <wit><siglum>F1</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
         </note>
