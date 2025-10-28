@@ -366,7 +366,7 @@
                             rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>;
-                <appPart><rdgDesc><hi rend="italic">in</hi>
+                <appPart><rdg type="replace">Sound a Sennet.</rdg><rdgDesc><hi rend="italic">in</hi>
                         <ref targType="lb" target="#tln_0036">36</ref>
                         <hi rend="italic">after</hi> againe,</rdgDesc>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>,
