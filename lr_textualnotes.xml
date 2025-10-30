@@ -1069,7 +1069,7 @@
                         <siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps"
                             >theo1</siglum>&sigrange;<siglum rend="smcaps"
                     >john2</siglum></wit></appPart>; <appPart><rdg type="replace"
-                        >&swdash;&hellip;.&swdash;,</rdg>
+                        >worth. in my true heart,</rdg>
                     <wit><siglum>F1</siglum>
                         <hi rend="italic">etc.</hi></wit></appPart></app>
         </note>
@@ -1138,8 +1138,8 @@
 
         <note type="textual" xml:id="tn_0082-01" target="#tln_0082">
             <label>82</label>
-            <app><lem><hi rend="italic">Cord.</hi></lem>] <appPart><rdg type="replace"><hi
-                            rend="italic">Cordelia</hi>,</rdg>
+            <app><lem><hi rend="italic">Cord. Then poore Cord.</hi></lem>] <appPart><rdg type="replace"><hi
+                            rend="italic">Cord.</hi>, Then poore Cordelia</rdg>
                     <wit><siglum>Q2</siglum>&plus;</wit></appPart></app>
         </note>
 
@@ -1698,7 +1698,7 @@
         </note>
 
 
-        <note type="textual" xml:id="tn_0129" target="#tln_0129" targetEnd="#tln_0130">
+        <note type="textual" xml:id="tn_0129" target="#tln_0129i">
             <label>129–30</label>
             <app>
                 <appPart>
@@ -27252,7 +27252,7 @@
         </note>
 
 
-        <note type="textual" xml:id="tn_2187-01" target="#tln_2187 #tln_2189" targetEnd="#tln_0090">
+        <note type="textual" xml:id="tn_2187-01" target="#tln_2187 #tln_2189" targetEnd="#tln_2189-2190">
             <label>2187, 2189–90</label>
             <app><appPart><rdgDesc><hi rend="italic">Verse lines ending</hi>
                         blasts.&hellip;led?&hellip;world!</rdgDesc>
