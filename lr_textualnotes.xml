@@ -366,7 +366,7 @@
                             rend="italic">Om.</hi></rdgDesc>
                     <wit><siglum rend="smcaps">rowe1</siglum>&sigrange;<siglum rend="smcaps"
                             >pope2</siglum>, <siglum rend="smcaps">han1</siglum></wit></appPart>;
-                <appPart><rdg type="replace">Sound a Sennet.</rdg><rdgDesc><hi rend="italic">in</hi>
+                <appPart><rdgDesc><hi rend="italic">in</hi>
                         <ref targType="lb" target="#tln_0036">36</ref>
                         <hi rend="italic">after</hi> againe,</rdgDesc>
                     <wit><siglum rend="smcaps">theo</siglum>, <siglum rend="smcaps">warb</siglum>,
@@ -10327,7 +10327,7 @@
         </note>
 
 
-        <note type="textual" xml:id="tn_0857-01" target="#tln_0857 #tln_0858" targetEnd="#tln_0072">
+        <note type="textual" xml:id="tn_0857-01" target="#tln_0857 #tln_0858" targetEnd="#tln_0872">
             <label>857, 858–72</label>
             <app><appPart><rdgDesc><hi rend="italic">Prose</hi></rdgDesc>
                     <wit><siglum>Qq</siglum></wit></appPart>; <appPart><rdgDesc><hi rend="italic"
