@@ -32090,7 +32090,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_0942-01" target="#tln_0942"><label>943</label>
+        <note type="commentary" xml:id="cn_0943-01" target="#tln_0943"><label>943</label>
             <lem>be</lem>] <p><ref targType="bibl" target="#pw_pagt1889"><name type="app"
                         >Page</name></ref> (ed. 1889): <quote>To be; infinitive used
                     absolutely.</quote> Or elliptical for <quote>is to be</quote> or <quote>will
@@ -42451,7 +42451,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_1276-01" target="#tln_1276 #tln_1333"><label>1276,
+        <note type="commentary" xml:id="cn_1276-01" target="#tln_1276i #tln_1333"><label>1276,
                 1333</label>
             <lem> <hi rend="italic">Knight</hi></lem>] <p>F’s <hi rend="bold">Gent.</hi> and <hi rend="bold">Gen.</hi>
                 <quote>are doubtless just different appellations for the same small-part
@@ -54534,8 +54534,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_1687" target="#tln_1687 #tln_1689"><label>1687,
-                1689</label>
+        <note type="commentary" xml:id="cn_1687" target="#tln_1687" targetEnd="#tln_1689"><label>1687-1689</label>
             <lem>glasse&hellip;patience</lem>] <p><ref targType="bibl" target="#s_v1773"><name
                         type="app">Steevens</name></ref> (ed. 1773) compares Perillus’s description
                 of the king in <title level="m">Leir</title>
@@ -56623,8 +56622,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_1751-02" target="#tln_1751"><label
-                display="all(invisible)">1751</label>
+        <note type="commentary" xml:id="cn_1752" target="#tln_1752"><label
+                >1752</label>
             <lem><hi rend="italic">with lights</hi></lem>] <p><ref targType="bibl"
                     target="#b_grah1927"><name type="app">Granville-Barker</name></ref> (1927, p.
                 230): The Q SD <quote>shows,&hellip;if nothing else does, the use of the inner stage
@@ -56674,7 +56673,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_1753-03" target="#tln_1753" targetEnd="#tln_1754"
+        <note type="commentary" xml:id="cn_1753-03" target="#tln_1753f" targetEnd="#tln_1754i"
                 ><label>1753–4</label>
             <lem>Vnnaturall dealing</lem>] <p><ref targType="bibl" target="#b_muik1950b"><name
                         type="app">Muir</name> &amp; <name type="app">Danby</name></ref> (1950, p.
@@ -56962,7 +56961,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_1766-03" target="#tln_1766" targetEnd="#tln_1767"
+        <note type="commentary" xml:id="cn_1766-03" target="#tln_1766f" targetEnd="#tln_1767i"
                 ><label>1766–7</label>
             <lem>of him</lem>] <p>See n. <ref targType="note_cn" target="#cn_1706-01"
                 >1706</ref>.</p>
@@ -68683,7 +68682,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2063-01" target="#tln_2063"><label>2063</label>
+        <note type="commentary" xml:id="cn_2063" target="#tln_2063"><label>2063</label>
             <lem>Hang</lem>] <p><ref targType="bibl" target="#b_colr1974b"><name type="app"
                         >Colie</name></ref> (1974, p. 204): <quote>Though noblemen could be, and
                     were, put under attainder and executed for treason, they could not be
@@ -68694,7 +68693,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2063-02" target="#tln_2063"><label
+        <note type="commentary" xml:id="cn_2064-01" target="#tln_2064"><label
                 display="all(invisible)">2063</label>
             <lem>Plucke&hellip;eyes</lem>] <p><ref targType="bibl" target="#s_ard3"><name type="app"
                         >Foakes</name></ref> (ed. 1997): <quote>An appropriate punishment since it
@@ -68706,8 +68705,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2064" target="#tln_2064" targetEnd="#tln_2066"
-                ><label>2064–6</label>
+        <note type="commentary" xml:id="cn_2064-02" target="#tln_2064" targetEnd="#tln_2066"
+                ><label display="all(invisible)">2064–6</label>
             <lem>company</lem>] <p>In Q(u) the final word (<quote>company</quote>) in line <ref
                     targType="lb" target="#tln_2065-2066i">2065–6</ref>, the last line on the page,
                 is turned up after line <ref targType="lb" target="#tln_2064">2064</ref>, as it must
@@ -69427,7 +69426,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2108" target="#tln_2108" targetEnd="#tln_2109"
+        <note type="commentary" xml:id="cn_2108" target="#tln_2108f" targetEnd="#tln_2109"
                 ><label>2108–9</label>
             <lem>Come&hellip;<hi rend="italic">France</hi></lem>] <p>F’s division of one pentameter
                 into two lines seems due to the insufficient width of the column.</p>
@@ -69582,8 +69581,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2122" target="#tln_2122" targetEnd="#tln_2123"
-                ><label>2122–3</label>
+        <note type="commentary" xml:id="cn_2122" target="#tln_2122f" targetEnd="#tln_2124"
+                ><label>2122–4</label>
             <lem>Wherefore&hellip;that</lem>] <p><ref targType="bibl" target="#b_mirs1947"><name
                         type="app">Miriam Joseph</name></ref> (1947, p. 222): <quote>Pysma is a
                     figure which asks many questions requiring diverse answers.&hellip;If this
