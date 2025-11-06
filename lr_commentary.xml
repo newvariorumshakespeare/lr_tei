@@ -36258,7 +36258,7 @@
 
 
         <note type="commentary" xml:id="cn_1091-05" target="#tln_1091" targetEnd="#tln_1092"
-                ><label>1091–2</label>
+                ><label display="all(invisible)">1091–2</label>
             <lem>super&shy;finicall</lem>] <p>The word does not occur in the <title level="m"
                     >OED</title>. Eds. have universally preferred F’s <hi rend="bold"
                     >super-seruiceable finicall</hi>, the second of the hyphenated words in Q and F
@@ -39037,7 +39037,7 @@
 
 
         <note type="commentary" xml:id="cn_1189-01" target="#tln_1188" targetEnd="#tln_1189"
-                ><label>1189–90</label>
+                ><label>1188-89</label>
             <lem>though&hellip;too’t</lem>] <p>The sense is obscure, and depends in part on whether
                     <quote>your displeasure</quote> refers literally to a state of mind in Cornwall
                 or metonymically to Cornwall in such a state of mind. <ref targType="bibl"
@@ -42453,7 +42453,7 @@
 
         <note type="commentary" xml:id="cn_1276-01" target="#tln_1276i #tln_1333"><label>1276,
                 1333</label>
-            <lem> <hi rend="italic">Knight</hi></lem>] <p>F’s <hi rend="bold">Gent.</hi> and <hi rend="bold">Gen.</hi>
+            <lem><hi rend="italic">Knight</hi></lem>] <p>F’s <hi rend="bold">Gent.</hi> and <hi rend="bold">Gen.</hi>
                 <quote>are doubtless just different appellations for the same small-part
                     actor</quote> (<ref targType="bibl" target="#s_duth"><name type="app"
                         >Duthie</name></ref>, ed. 1949, p. 83).</p>
@@ -44214,7 +44214,7 @@
 
         <note type="commentary" xml:id="cn_1349" target="#tln_1349" targetEnd="#tln_1360">
             <label>1349–60</label>
-            <p><lem><hi rend="bold">foole</hi></lem>] <ref targType="bibl" target="#b_wele1935"><name
+            <p><lem>foole</lem>] <ref targType="bibl" target="#b_wele1935"><name
                         type="app">Welsford</name></ref> (1935, pp. 255–6): <quote>The Fool is being
                     as subtle, ambiguous, and volatile as Erasmus himself in his play upon the
                     various meanings and relations of the words <quote>fool</quote> and
@@ -49242,7 +49242,7 @@
 
 
         <note type="commentary" xml:id="cn_1568-02" target="#tln_1567"><label
-                display="all(invisible)">1568–70</label>
+                display="all(invisible)">1567–70</label>
             <lem>beasts</lem>] <p><ref targType="bibl" target="#b_eltw1966"><name type="app"
                         >Elton</name></ref> (1966, p. 190): <quote>The human-beast equation, which
                     is to be a major motif of the tragedy,&hellip;is fully explicit</quote>
@@ -52961,7 +52961,7 @@
 
         <note type="commentary" xml:id="cn_1644-03" target="#tln_1644"><label
                 display="all(invisible)">1644</label>
-            <lem>Ring</lem>] <p><ref targType="bibl" target="#b_duna1976"><name type="app"
+            <lem>ring</lem>] <p><ref targType="bibl" target="#b_duna1976"><name type="app"
                         >Dundes</name></ref> (1976, p. 361): <quote>Kent’s use of a ring to summon
                     Cordelia</quote> hints at incest. But Kent intends to introduce the Gentleman to
                 Cordelia, not <quote>summon her</quote> to her father-lover (or anyone else).</p>
@@ -62973,7 +62973,7 @@
 
 
         <note type="commentary" xml:id="cn_1940-01" target="#tln_1940"><label>1940</label>
-            <lem>importune</lem>] <p><ref targType="bibl" target="#s_pen2"><name type="app"
+            <lem>Importune</lem>] <p><ref targType="bibl" target="#s_pen2"><name type="app"
                         >Hunter</name></ref> (ed. 1972): <quote>Accented on the second
                     syllable.</quote></p>
         </note>
@@ -66796,8 +66796,8 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2025-02" target="#tln_2025"><label>2025</label>
-            <lem>mungril, grim-</lem>] <p><ref targType="bibl" target="#s_rid"><name type="app"
+        <note type="commentary" xml:id="cn_2025-02" target="#tln_2025"><label display="all(invisible)">2025</label>
+            <lem>mungril, grim&shy;</lem>] <p><ref targType="bibl" target="#s_rid"><name type="app"
                         >Ridley</name></ref> (ed. 1935): <quote>Both Q and F give the comma after
                         <hi rend="italic">mongrel</hi> which is usually omitted. Apart from the fact
                     that there is no reason why a mongrel should be grim, the run of the lines seems
@@ -68902,7 +68902,7 @@
 
 
         <note type="commentary" xml:id="cn_2072" target="#tln_2072"><label>2072</label>
-            <lem><hi rend="italic">Enter</hi>&hellip;</lem>] <p>On F’s anticipatory stage direction
+            <lem><hi rend="italic">Enter</hi>&hellip;Steward</lem>] <p>On F’s anticipatory stage direction
                 see n. <ref targType="note_cn" target="#cn_1358">1358</ref>.</p>
         </note>
 
@@ -69134,7 +69134,7 @@
 
 
         <note type="commentary" xml:id="cn_2086-01" target="#tln_2086"><label>2086</label>
-            <lem>doe a courtesie to</lem>] <p><ref targType="bibl" target="#s_v1773"><name
+            <lem>doe a curtesie to</lem>] <p><ref targType="bibl" target="#s_v1773"><name
                         type="app">Johnson</name></ref> (in <ref targType="bibl" target="#s_v1773"
                         ><name type="app">Steevens</name></ref>, ed. 1773): <quote>Comply
                     with.</quote> The manner of compliance has been specified as <quote>bend
