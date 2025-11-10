@@ -96205,7 +96205,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2923" target="#tln_2923" targetEnd="#tln_2924"
+        <note type="commentary" xml:id="cn_2923" target="#tln_2923" targetEnd="#tln_2924i"
                 ><label>2923–4</label>
             <lem>If&hellip;comfort</lem>] <p><ref targType="bibl" target="#b_grew1940d"><name
                         type="app">Greg</name></ref> (1940, p. 440 n.): Since the speech
@@ -96315,7 +96315,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2932-01" target="#tln_2932" targetEnd="#tln_2933"
+        <note type="commentary" xml:id="cn_2932-01" target="#tln_2932f" targetEnd="#tln_2933"
                 ><label>2932–3</label>
             <lem>What&hellip;indure</lem>] <p>Perhaps F’s mislining reflects its MS copy, since with
                 a little squeezing the compositor could have set one line.</p>
@@ -97681,7 +97681,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2967-01" target="#tln_2967" targetEnd="#tln_2968"
+        <note type="commentary" xml:id="cn_2967-01" target="#tln_2967" targetEnd="#tln_2968i"
                 ><label>2967–8</label>
             <lem>Ere&hellip;come</lem>] <p>Probably the lineations in both Q (hypermetrical verse
                 line ) and F (two short lines) are wrong; most eds. follow Pope (see <ref
@@ -97692,7 +97692,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2967-02" target="#tln_2967"><label>2967</label>
+        <note type="commentary" xml:id="cn_2966-03" target="#tln_2966"><label display="all(invisible)">2966</label>display>
             <lem>fleach and fell</lem>] <p><ref targType="bibl" target="#b_grez1754"><name
                         type="app">Grey</name></ref> (1754, 2:118): <quote>Flesh and skin.</quote>
                 <ref targType="bibl" target="#pw_vera1897"><name type="app">Verity</name></ref> (ed.
@@ -98892,8 +98892,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3010" target="#tln_3010" targetEnd="#tln_3011"
-                ><label>3010–11</label>
+        <note type="commentary" xml:id="cn_3010" target="#tln_3010-3011"><label>3010–11</label>
             <lem>In&hellip;best</lem>] <p>Regan retorts that Edmund’s honors could not possibly be
                 higher than those she delegates. <ref targType="bibl" target="#s_bobm"><name
                         type="app">Horsman</name></ref> (ed. 1973): <quote>Clothed with authority by
@@ -101144,13 +101143,13 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3093-03" target="#tln_3093"><label>3093</label>
+        <note type="commentary" xml:id="cn_3094-01" target="#tln_3094"><label>3094</label>
             <lem>best spirits</lem>] <p>See n. <ref targType="note_cn" target="#cn_0989-05"
                     >989</ref>.</p>
         </note>
 
 
-        <note type="commentary" xml:id="cn_3094-01" target="#tln_3094"><label>3094</label>
+        <note type="commentary" xml:id="cn_3094-02" target="#tln_3094"><label display="all(invisible)">3094</label>
             <lem>As</lem>] <p>Q2’s <hi rend="bold">Is</hi> is an unauthoritative guess, F’s <hi
                     rend="bold">are</hi> is probably right. <ref targType="bibl" target="#s_duth"
                         ><name type="app">Duthie</name></ref> (ed. 1949, p. 423): <quote>The copy
@@ -101163,7 +101162,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3094-02" target="#tln_3094"><label
+        <note type="commentary" xml:id="cn_3094-03" target="#tln_3094"><label
                 display="all(invisible)">3094</label>
             <lem>bent</lem>] <p><ref targType="bibl" target="#b_scha1874"><name type="app"
                         >Schmidt</name></ref> (1874): <quote>Intent</quote> (<rs type="oed"><title
@@ -103969,7 +103968,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3186" target="#tln_3186"><label>3186</label>
+        <note type="commentary" xml:id="cn_3186" target="#tln_3186f-f"><label>3186</label>
             <lem>tis</lem>] <p>F’s inversion <hi rend="bold">is this</hi> makes no practical
                 difference.</p>
         </note>
@@ -106079,7 +106078,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3257-02" target="#tln_3257"><label>3257</label>
+        <note type="commentary" xml:id="cn_3257-02" target="#tln_3257f" targetEnd="#tln_3258"><label>3257</label>
             <lem>Nor&hellip;else</lem>] <p><ref targType="bibl" target="#b_thel1726"><name
                         type="app">Theobald</name></ref> (1726, p. 141): <quote><hi rend="italic"
                         >I.e.</hi> Neither I, nor any Man, can be said to be welcome hither, where
@@ -106448,21 +106447,20 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3271-01" target="#tln_3271"><label>3271</label>
+        <note type="commentary" xml:id="cn_3271" target="#tln_3271"><label>3271</label>
             <lem>old maiesty</lem>] <p><ref targType="bibl" target="#pw_deik1891"><name type="app"
                         >Deighton</name></ref> (ed. 1891): <quote>Our venerable king.</quote></p>
         </note>
 
 
-        <note type="commentary" xml:id="cn_3271-02" target="#tln_3271"><label
-                display="all(invisible)">3271</label>
+        <note type="commentary" xml:id="cn_3272-01" target="#tln_3272"><label>3272</label>
             <lem>our absolute power</lem>] <p><ref targType="bibl" target="#pw_kitg1940"><name
                         type="app">Kittredge</name></ref> (ed. 1940): <quote>All the sovereign power
                     that is in my hands.</quote></p>
         </note>
 
 
-        <note type="commentary" xml:id="cn_3272" target="#tln_3272"><label>3272</label>
+        <note type="commentary" xml:id="cn_3272-02" target="#tln_3272"><label display="all(invisible)">3272</label>
             <lem>you&hellip;rights</lem>] <p><ref targType="bibl" target="#pw_deik1891"><name
                         type="app">Deighton</name></ref> (ed. 1891) takes this as a directive:
                     <quote>Do you return to the exercise of your rights.</quote>
@@ -108096,8 +108094,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3298-02" target="#tln_3298" targetEnd="#tln_3000"
-                ><label>3298–3000</label>
+        <note type="commentary" xml:id="cn_3298-02" target="#tln_3298"><label>3298–3000</label>
             <lem>we</lem>] <p>Following the suggestion of <ref targType="bibl" target="#b_mcgp1985"
                         ><name type="app">McGuire</name></ref> (1985, p. 170), <ref targType="bibl"
                     target="#s_ard3"><name type="app">Foakes</name></ref> (ed. 1997) takes all the
