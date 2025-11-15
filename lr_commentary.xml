@@ -93953,7 +93953,7 @@
 
 
         <note type="commentary" xml:id="cn_2844-01" target="#tln_2844"><label>2844</label>
-            <lem>&lt;<hi rend="italic">Actus Quintus</hi>&gt;</lem>] <p><ref targType="bibl"
+            <lem><hi rend="italic">Actus Quintus</hi></lem>] <p><ref targType="bibl"
                     target="#b_bulg1957"><name type="app">Bullough</name></ref> (1973, p. 296):
                     <quote>Shakespeare omits the conventional altercation between army leaders in
                         <title level="m">Leir</title> [<ref targType="anchor" target="#leir_lb_2548"
@@ -97679,18 +97679,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2967-01" target="#tln_2967" targetEnd="#tln_2968i"
-                ><label>2967–8</label>
-            <lem>Ere&hellip;come</lem>] <p>Probably the lineations in both Q (hypermetrical verse
-                line ) and F (two short lines) are wrong; most eds. follow Pope (see <ref
-                    targType="note_tn" target="#tn_2967">textual n.</ref>) in making
-                    <quote>come</quote> a separate line. Exits in Sh. are often preceded by a full
-                line and an added directive like <quote>Come,</quote> and
-                    <quote>Ere&hellip;first</quote> makes a satisfactory enough verse line.</p>
-        </note>
-
-
-        <note type="commentary" xml:id="cn_2966-03" target="#tln_2966"><label display="all(invisible)">2966</label>display>
+        <note type="commentary" xml:id="cn_2966-03" target="#tln_2966"><label display="all(invisible)">2966</label>
             <lem>fleach and fell</lem>] <p><ref targType="bibl" target="#b_grez1754"><name
                         type="app">Grey</name></ref> (1754, 2:118): <quote>Flesh and skin.</quote>
                 <ref targType="bibl" target="#pw_vera1897"><name type="app">Verity</name></ref> (ed.
@@ -97705,7 +97694,17 @@
                 <ref targType="bibl" target="#s_cam3"><name type="app">Wilson</name></ref> (ed.
                 1960): <quote>Perh. suggests that they are animals.</quote></p>
         </note>
-
+        
+        <note type="commentary" xml:id="cn_2967-01" target="#tln_2967" targetEnd="#tln_2968i"
+            ><label>2967–8</label>
+            <lem>Ere&hellip;come</lem>] <p>Probably the lineations in both Q (hypermetrical verse
+                line ) and F (two short lines) are wrong; most eds. follow Pope (see <ref
+                    targType="note_tn" target="#tn_2967">textual n.</ref>) in making
+                <quote>come</quote> a separate line. Exits in Sh. are often preceded by a full
+                line and an added directive like <quote>Come,</quote> and
+                <quote>Ere&hellip;first</quote> makes a satisfactory enough verse line.</p>
+        </note>
+        
 
         <note type="commentary" xml:id="cn_2968-01" target="#tln_2968"><label>2968</label>
             <lem>starue</lem>] <p>Q’s <quote>starue</quote> elides easily with <quote>first</quote>;
@@ -106446,7 +106445,7 @@
 
 
         <note type="commentary" xml:id="cn_3271" target="#tln_3271"><label>3271</label>
-            <lem>old maiesty</lem>] <p><ref targType="bibl" target="#pw_deik1891"><name type="app"
+            <lem>old maiesty</lem>]<p><ref targType="bibl" target="#pw_deik1891"><name type="app"
                         >Deighton</name></ref> (ed. 1891): <quote>Our venerable king.</quote></p>
         </note>
 
