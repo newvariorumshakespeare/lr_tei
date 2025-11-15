@@ -56673,7 +56673,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_1753-03" target="#tln_1753f" targetEnd="#tln_1754i"
+        <note type="commentary" xml:id="cn_1753-03" target="tln_1753f-1754i"
                 ><label>1753–4</label>
             <lem>Vnnaturall&hellip;dealing</lem>] <p><ref targType="bibl" target="#b_muik1950b"><name
                         type="app">Muir</name> &amp; <name type="app">Danby</name></ref> (1950, p.
@@ -96205,8 +96205,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2923" target="#tln_2923" targetEnd="#tln_2924i"
-                ><label>2923–4</label>
+        <note type="commentary" xml:id="cn_2923" target="#tln_2923-2934"><label>2923–4</label>
             <lem>If&hellip;comfort</lem>] <p><ref targType="bibl" target="#b_grew1940d"><name
                         type="app">Greg</name></ref> (1940, p. 440 n.): Since the speech
                     <quote>suggests that he is about to enter the battle,</quote> which he does not
@@ -96315,8 +96314,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_2932-01" target="#tln_2932f" targetEnd="#tln_2933"
-                ><label>2932–3</label>
+        <note type="commentary" xml:id="cn_2932-01" target="#tln_2932-2933"><label>2932–3</label>
             <lem>What&hellip;indure</lem>] <p>Perhaps F’s mislining reflects its MS copy, since with
                 a little squeezing the compositor could have set one line.</p>
         </note>
@@ -106078,7 +106076,7 @@
         </note>
 
 
-        <note type="commentary" xml:id="cn_3257-02" target="#tln_3257f" targetEnd="#tln_3258"><label>3257</label>
+        <note type="commentary" xml:id="cn_3257-02" target="#tln_3257-3258"><label display="all(invisible)">3257</label>
             <lem>Nor&hellip;else</lem>] <p><ref targType="bibl" target="#b_thel1726"><name
                         type="app">Theobald</name></ref> (1726, p. 141): <quote><hi rend="italic"
                         >I.e.</hi> Neither I, nor any Man, can be said to be welcome hither, where
