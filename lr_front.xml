@@ -787,7 +787,9 @@
 				Practice in English and the director of the Digital Scholarship Group in the
 				Northeastern University Library, for XML-encoding the physical volume and for
 				consulting with the NVS team at Texas A&amp;M who used the XML-encoded text to
-				publish this edition online at https://newvariorumshakespeare.org/.</p>
+				publish this edition online at  <ref
+					targType="url" target="https://newvariorumshakespeare.org/"
+					>https://newvariorumshakespeare.org/</ref>.</p>
 
 			<p>This digital edition was published online on [date to be added], as part of a series
 				of digital editions created for the NVS project. The project was officially launched
@@ -2355,8 +2357,7 @@
 					>knt3</siglum>). (A family siglum indicates only those editions collated: thus
 					<siglum rend="smcaps">theo</siglum> includes <siglum rend="smcaps"
 					>theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, and <siglum rend="smcaps"
-					>theo4</siglum>, but not <siglum rend="smcaps">theo3</siglum> and <siglum
-					rend="smcaps">theo5</siglum>.) Because <siglum>Q3</siglum> was not fully
+					>theo4</siglum>, but not theo3 and theo5.) Because <siglum>Q3</siglum> was not fully
 				collated, it is not included in the family siglum Qq; its unique reading
 					<quote>But</quote> is included separately in the note only because of its
 				special interest.</p>
